@@ -1,0 +1,60 @@
+{
+  "uid" : "ed54578f6877b1cf",
+  "name" : "testTranslationToRus",
+  "fullName" : "tests.TestTranslationTextPage.testTranslationToRus",
+  "historyId" : "e121fc21dac76003e37d7487e066280c",
+  "time" : {
+    "start" : 1538565772447,
+    "stop" : 1538565782785,
+    "duration" : 10338
+  },
+  "status" : "passed",
+  "statusDetails" : {
+    "flaky" : true
+  },
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "tests"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.TestTranslationTextPage"
+  }, {
+    "name" : "testMethod",
+    "value" : "testTranslationToRus"
+  }, {
+    "name" : "suite",
+    "value" : "tests.TestTranslationTextPage"
+  }, {
+    "name" : "host",
+    "value" : "Bondarenko"
+  }, {
+    "name" : "thread",
+    "value" : "13944@Bondarenko.main(1)"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "c4ff53871bdb0d65",
+      "status" : "passed",
+      "time" : {
+        "start" : 1538565587173,
+        "stop" : 1538565597305,
+        "duration" : 10132
+      }
+    }, {
+      "uid" : "665602288e4d464e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1538564757256,
+        "stop" : 1538564767309,
+        "duration" : 10053
+      }
+    } ],
+    "categories" : [ ]
+  }
+}

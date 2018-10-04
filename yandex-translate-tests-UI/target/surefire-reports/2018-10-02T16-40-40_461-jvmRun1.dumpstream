@@ -1,0 +1,3557 @@
+# Created at 2018-10-02T16:44:44.935
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+# Created at 2018-10-02T16:44:46.377
+Unexpected IOException: 7,1,tests.TestTranslationToLangs,testTranslationToOtherLangs[0](tests.TestTranslationToLangs),null,stale element reference: element is not attached to the page document\000A  (Session info: chrome=69.0.3497.100)\000A  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7)\002Cplatform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 0 milliseconds\000AFor documentation on this error\002C please visit: http://seleniumhq.org/exceptions/stale_element_reference.html\000ABuild info: version: '3.12.0'\002C revision: '7c6e0b3'\002C time: '2018-05-08T14:04:26.12Z'\000ASystem info: host: 'BONDARENKO'\002C ip: '172.20.1.75'\002C os.name: 'Windows 7'\002C os.arch: 'amd64'\002C os.version: '6.1'\002C java.version: '1.8.0_172'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C acceptSslCerts: false\002C applicationCacheEnabled: false\002C browserConnectionEnabled: false\002C browserName: chrome\002C chrome: {chromedriverVersion: 2.37.544315 (730aa6a5fdba15...\002C userDataDir: C:\005CUsers\005CBONDAR~1\005CAppData\005CL...}\002C cssSelectorsEnabled: true\002C databaseEnabled: false\002C handlesAlerts: true\002C hasTouchScreen: false\002C javascriptEnabled: true\002C locationContextEnabled: true\002C mobileEmulationEnabled: false\002C nativeEvents: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: XP\002C platformName: XP\002C rotatable: false\002C setWindowRect: true\002C takesHeapSnapshot: true\002C takesScreenshot: true\002C unexpectedAlertBehaviour: \002C unhandledPromptBehavior: \002C version: 69.0.3497.100\002C webStorageEnabled: true}\000ASession ID: 516889d1a0018475ae8708f8020c00af,null,stale element reference: element is not attached to the page document\000A  (Session info: chrome=69.0.3497.100)\000A  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7)\002Cplatform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 0 milliseconds\000AFor documentation on this error\002C please visit: http://seleniumhq.org/exceptions/stale_element_reference.html\000ABuild info: version: '3.12.0'\002C revision: '7c6e0b3'\002C time: '2018-05-08T14:04:26.12Z'\000ASystem info: host: 'BONDARENKO'\002C ip: '172.20.1.75'\002C os.name: 'Windows 7'\002C os.arch: 'amd64'\002C os.version: '6.1'\002C java.version: '1.8.0_172'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C acceptSslCerts: false\002C applicationCacheEnabled: false\002C browserConnectionEnabled: false\002C browserName: chrome\002C chrome: {chromedriverVersion: 2.37.544315 (730aa6a5fdba15...\002C userDataDir: C:\005CUsers\005CBONDAR~1\005CAppData\005CL...}\002C cssSelectorsEnabled: true\002C databaseEnabled: false\002C handlesAlerts: true\002C hasTouchScreen: false\002C javascriptEnabled: true\002C locationContextEnabled: true\002C mobileEmulationEnabled: false\002C nativeEvents: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: XP\002C platformName: XP\002C rotatable: false\002C setWindowRect: true\002C takesHeapSnapshot: true\002C takesScreenshot: true\002C unexpectedAlertBehaviour: \002C unhandledPromptBehavior: \002C version: 69.0.3497.100\002C webStorageEnabled: true}\000ASession ID: 516889d1a0018475ae8708f8020c00af,TestTranslationToLangs.testTranslationToOtherLangs:41 \00BB StaleElementReference ...,org.openqa.selenium.StaleElementReferenceException: \000Astale element reference: element is not attached to the page document\000A  (Session info: chrome=69.0.3497.100)\000A  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7)\002Cplatform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 0 milliseconds\000AFor documentation on this error\002C please visit: http://seleniumhq.org/exceptions/stale_element_reference.html\000ABuild info: version: '3.12.0'\002C revision: '7c6e0b3'\002C time: '2018-05-08T14:04:26.12Z'\000ASystem info: host: 'BONDARENKO'\002C ip: '172.20.1.75'\002C os.name: 'Windows 7'\002C os.arch: 'amd64'\002C os.version: '6.1'\002C java.version: '1.8.0_172'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C acceptSslCerts: false\002C applicationCacheEnabled: false\002C browserConnectionEnabled: false\002C browserName: chrome\002C chrome: {chromedriverVersion: 2.37.544315 (730aa6a5fdba15...\002C userDataDir: C:\005CUsers\005CBONDAR~1\005CAppData\005CL...}\002C cssSelectorsEnabled: true\002C databaseEnabled: false\002C handlesAlerts: true\002C hasTouchScreen: false\002C javascriptEnabled: true\002C locationContextEnabled: true\002C mobileEmulationEnabled: false\002C nativeEvents: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: XP\002C platformName: XP\002C rotatable: false\002C setWindowRect: true\002C takesHeapSnapshot: true\002C takesScreenshot: true\002C unexpectedAlertBehaviour: \002C unhandledPromptBehavior: \002C version: 69.0.3497.100\002C webStorageEnabled: true}\000ASession ID: 516889d1a0018475ae8708f8020c00af\000A\0009at tests.TestTranslationToLangs.testTranslationToOtherLangs(TestTranslationToLangs.java:41)\000A
+
+
+# Created at 2018-10-02T16:44:46.385
+Unexpected IOException with stream: 2018-10-02 16:44:46 ERROR WebDriverListener:57 - Test failed with: org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'BONDARENKO', ip: '172.20.1.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.37.544315 (730aa6a5fdba15..., userDataDir: C:\Users\BONDAR~1\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
+Session ID: 516889d1a0018475ae8708f8020c00af
+
+
+# Created at 2018-10-02T16:44:46.539
+Unexpected IOException with stream: 2018-10-02 16:44:46 INFO  WebDriverListener:50 - Test finished: testTranslationToOtherLangs[0](tests.TestTranslationToLangs)
+
+
+# Created at 2018-10-02T16:44:46.542
+Unexpected IOException with stream: 2018-10-02 16:44:46 INFO  WebDriverListener:51 - --------------------------------------
+
+
+# Created at 2018-10-02T16:44:46.543
+Unexpected IOException: 5,1,tests.TestTranslationToLangs,testTranslationToOtherLangs[1](tests.TestTranslationToLangs),null,null,null
+
+
+# Created at 2018-10-02T16:44:46.547
+Unexpected IOException with stream: 2018-10-02 16:44:46 INFO  WebDriverListener:43 - Test starts: testTranslationToOtherLangs[1](tests.TestTranslationToLangs)
+
+
+# Created at 2018-10-02T16:44:46.549
+Unexpected IOException with stream: 2018-10-02 16:44:46 INFO  WebDriverListener:43 - Test starts: testTranslationToOtherLangs[1](tests.TestTranslationToLangs)
+
+
+# Created at 2018-10-02T16:44:46.592
+Unexpected IOException with stream: S
+
+# Created at 2018-10-02T16:44:46.593
+Unexpected IOException with stream: t
+
+# Created at 2018-10-02T16:44:46.594
+Unexpected IOException with stream: a
+
+# Created at 2018-10-02T16:44:46.595
+Unexpected IOException with stream: r
+
+# Created at 2018-10-02T16:44:46.596
+Unexpected IOException with stream: t
+
+# Created at 2018-10-02T16:44:46.597
+Unexpected IOException with stream: i
+
+# Created at 2018-10-02T16:44:46.598
+Unexpected IOException with stream: n
+
+# Created at 2018-10-02T16:44:46.599
+Unexpected IOException with stream: g
+
+# Created at 2018-10-02T16:44:46.600
+Unexpected IOException with stream:  
+
+# Created at 2018-10-02T16:44:46.601
+Unexpected IOException with stream: C
+
+# Created at 2018-10-02T16:44:46.601
+Unexpected IOException with stream: h
+
+# Created at 2018-10-02T16:44:46.602
+Unexpected IOException with stream: r
+
+# Created at 2018-10-02T16:44:46.602
+Unexpected IOException with stream: o
+
+# Created at 2018-10-02T16:44:46.603
+Unexpected IOException with stream: m
+
+# Created at 2018-10-02T16:44:46.604
+Unexpected IOException with stream: e
+
+# Created at 2018-10-02T16:44:46.605
+Unexpected IOException with stream: D
+
+# Created at 2018-10-02T16:44:46.605
+Unexpected IOException with stream: r
+
+# Created at 2018-10-02T16:44:46.606
+Unexpected IOException with stream: i
+
+# Created at 2018-10-02T16:44:46.607
+Unexpected IOException with stream: v
+
+# Created at 2018-10-02T16:44:46.608
+Unexpected IOException with stream: e
+
+# Created at 2018-10-02T16:44:46.608
+Unexpected IOException with stream: r
+
+# Created at 2018-10-02T16:44:46.609
+Unexpected IOException with stream:  
+
+# Created at 2018-10-02T16:44:46.609
+Unexpected IOException with stream: 2
+
+# Created at 2018-10-02T16:44:46.609
+Unexpected IOException with stream: .
+
+# Created at 2018-10-02T16:44:46.610
+Unexpected IOException with stream: 3
+
+# Created at 2018-10-02T16:44:46.611
+Unexpected IOException with stream: 7
+
+# Created at 2018-10-02T16:44:46.611
+Unexpected IOException with stream: .
+
+# Created at 2018-10-02T16:44:46.611
+Unexpected IOException with stream: 5
+
+# Created at 2018-10-02T16:44:46.612
+Unexpected IOException with stream: 4
+
+# Created at 2018-10-02T16:44:46.612
+Unexpected IOException with stream: 4
+
+# Created at 2018-10-02T16:44:46.612
+Unexpected IOException with stream: 3
+
+# Created at 2018-10-02T16:44:46.613
+Unexpected IOException with stream: 1
+
+# Created at 2018-10-02T16:44:46.613
+Unexpected IOException with stream: 5
+
+# Created at 2018-10-02T16:44:46.613
+Unexpected IOException with stream:  
+
+# Created at 2018-10-02T16:44:46.613
+Unexpected IOException with stream: (
+
+# Created at 2018-10-02T16:44:46.614
+Unexpected IOException with stream: 7
+
+# Created at 2018-10-02T16:44:46.614
+Unexpected IOException with stream: 3
+
+# Created at 2018-10-02T16:44:46.614
+Unexpected IOException with stream: 0
+
+# Created at 2018-10-02T16:44:46.615
+Unexpected IOException with stream: a
+
+# Created at 2018-10-02T16:44:46.615
+Unexpected IOException with stream: a
+
+# Created at 2018-10-02T16:44:46.615
+Unexpected IOException with stream: 6
+
+# Created at 2018-10-02T16:44:46.616
+Unexpected IOException with stream: a
+
+# Created at 2018-10-02T16:44:46.616
+Unexpected IOException with stream: 5
+
+# Created at 2018-10-02T16:44:46.616
+Unexpected IOException with stream: f
+
+# Created at 2018-10-02T16:44:46.616
+Unexpected IOException with stream: d
+
+# Created at 2018-10-02T16:44:46.617
+Unexpected IOException with stream: b
+
+# Created at 2018-10-02T16:44:46.617
+Unexpected IOException with stream: a
+
+# Created at 2018-10-02T16:44:46.617
+Unexpected IOException with stream: 1
+
+# Created at 2018-10-02T16:44:46.618
+Unexpected IOException with stream: 5
+
+# Created at 2018-10-02T16:44:46.618
+Unexpected IOException with stream: 9
+
+# Created at 2018-10-02T16:44:46.618
+Unexpected IOException with stream: a
+
+# Created at 2018-10-02T16:44:46.618
+Unexpected IOException with stream: c
+
+# Created at 2018-10-02T16:44:46.619
+Unexpected IOException with stream: 9
+
+# Created at 2018-10-02T16:44:46.619
+Unexpected IOException with stream: f
+
+# Created at 2018-10-02T16:44:46.620
+Unexpected IOException with stream: 4
+
+# Created at 2018-10-02T16:44:46.621
+Unexpected IOException with stream: c
+
+# Created at 2018-10-02T16:44:46.622
+Unexpected IOException with stream: 1
+
+# Created at 2018-10-02T16:44:46.622
+Unexpected IOException with stream: e
+
+# Created at 2018-10-02T16:44:46.622
+Unexpected IOException with stream: 8
+
+# Created at 2018-10-02T16:44:46.622
+Unexpected IOException with stream: c
+
+# Created at 2018-10-02T16:44:46.623
+Unexpected IOException with stream: b
+
+# Created at 2018-10-02T16:44:46.623
+Unexpected IOException with stream: c
+
+# Created at 2018-10-02T16:44:46.623
+Unexpected IOException with stream: 5
+
+# Created at 2018-10-02T16:44:46.624
+Unexpected IOException with stream: 9
+
+# Created at 2018-10-02T16:44:46.624
+Unexpected IOException with stream: b
+
+# Created at 2018-10-02T16:44:46.625
+Unexpected IOException with stream: f
+
+# Created at 2018-10-02T16:44:46.626
+Unexpected IOException with stream: 1
+
+# Created at 2018-10-02T16:44:46.626
+Unexpected IOException with stream: b
+
+# Created at 2018-10-02T16:44:46.626
+Unexpected IOException with stream: 5
+
+# Created at 2018-10-02T16:44:46.627
+Unexpected IOException with stream: c
+
+# Created at 2018-10-02T16:44:46.628
+Unexpected IOException with stream: e
+
+# Created at 2018-10-02T16:44:46.629
+Unexpected IOException with stream: 1
+
+# Created at 2018-10-02T16:44:46.629
+Unexpected IOException with stream: 2
+
+# Created at 2018-10-02T16:44:46.630
+Unexpected IOException with stream: b
+
+# Created at 2018-10-02T16:44:46.631
+Unexpected IOException with stream: 7
+
+# Created at 2018-10-02T16:44:46.632
+Unexpected IOException with stream: )
+
+# Created at 2018-10-02T16:44:46.633
+Unexpected IOException with stream:  
+
+# Created at 2018-10-02T16:44:46.634
+Unexpected IOException with stream: o
+
+# Created at 2018-10-02T16:44:46.635
+Unexpected IOException with stream: n
+
+# Created at 2018-10-02T16:44:46.635
+Unexpected IOException with stream:  
+
+# Created at 2018-10-02T16:44:46.636
+Unexpected IOException with stream: p
+
+# Created at 2018-10-02T16:44:46.637
+Unexpected IOException with stream: o
+
+# Created at 2018-10-02T16:44:46.638
+Unexpected IOException with stream: r
+
+# Created at 2018-10-02T16:44:46.639
+Unexpected IOException with stream: t
+
+# Created at 2018-10-02T16:44:46.639
+Unexpected IOException with stream:  
+
+# Created at 2018-10-02T16:44:46.640
+Unexpected IOException with stream: 2
+
+# Created at 2018-10-02T16:44:46.641
+Unexpected IOException with stream: 0
+
+# Created at 2018-10-02T16:44:46.642
+Unexpected IOException with stream: 0
+
+# Created at 2018-10-02T16:44:46.643
+Unexpected IOException with stream: 1
+
+# Created at 2018-10-02T16:44:46.644
+Unexpected IOException with stream: 1
+
+# Created at 2018-10-02T16:44:46.644
+Unexpected IOException with stream: 
+
+# Created at 2018-10-02T16:44:46.645
+Unexpected IOException with stream: 
+
+
+# Created at 2018-10-02T16:44:46.646
+Unexpected IOException with stream: O
+
+# Created at 2018-10-02T16:44:46.647
+Unexpected IOException with stream: n
+
+# Created at 2018-10-02T16:44:46.647
+Unexpected IOException with stream: l
+
+# Created at 2018-10-02T16:44:46.648
+Unexpected IOException with stream: y
+
+# Created at 2018-10-02T16:44:46.649
+Unexpected IOException with stream:  
+
+# Created at 2018-10-02T16:44:46.649
+Unexpected IOException with stream: l
+
+# Created at 2018-10-02T16:44:46.649
+Unexpected IOException with stream: o
+
+# Created at 2018-10-02T16:44:46.650
+Unexpected IOException with stream: c
+
+# Created at 2018-10-02T16:44:46.650
+Unexpected IOException with stream: a
+
+# Created at 2018-10-02T16:44:46.650
+Unexpected IOException with stream: l
+
+# Created at 2018-10-02T16:44:46.650
+Unexpected IOException with stream:  
+
+# Created at 2018-10-02T16:44:46.651
+Unexpected IOException with stream: c
+
+# Created at 2018-10-02T16:44:46.651
+Unexpected IOException with stream: o
+
+# Created at 2018-10-02T16:44:46.651
+Unexpected IOException with stream: n
+
+# Created at 2018-10-02T16:44:46.651
+Unexpected IOException with stream: n
+
+# Created at 2018-10-02T16:44:46.652
+Unexpected IOException with stream: e
+
+# Created at 2018-10-02T16:44:46.652
+Unexpected IOException with stream: c
+
+# Created at 2018-10-02T16:44:46.652
+Unexpected IOException with stream: t
+
+# Created at 2018-10-02T16:44:46.653
+Unexpected IOException with stream: i
+
+# Created at 2018-10-02T16:44:46.654
+Unexpected IOException with stream: o
+
+# Created at 2018-10-02T16:44:46.659
+Unexpected IOException with stream: n
+
+# Created at 2018-10-02T16:44:46.659
+Unexpected IOException with stream: s
+
+# Created at 2018-10-02T16:44:46.660
+Unexpected IOException with stream:  
+
+# Created at 2018-10-02T16:44:46.661
+Unexpected IOException with stream: a
+
+# Created at 2018-10-02T16:44:46.662
+Unexpected IOException with stream: r
+
+# Created at 2018-10-02T16:44:46.663
+Unexpected IOException with stream: e
+
+# Created at 2018-10-02T16:44:46.664
+Unexpected IOException with stream:  
+
+# Created at 2018-10-02T16:44:46.665
+Unexpected IOException with stream: a
+
+# Created at 2018-10-02T16:44:46.665
+Unexpected IOException with stream: l
+
+# Created at 2018-10-02T16:44:46.666
+Unexpected IOException with stream: l
+
+# Created at 2018-10-02T16:44:46.667
+Unexpected IOException with stream: o
+
+# Created at 2018-10-02T16:44:46.668
+Unexpected IOException with stream: w
+
+# Created at 2018-10-02T16:44:46.669
+Unexpected IOException with stream: e
+
+# Created at 2018-10-02T16:44:46.670
+Unexpected IOException with stream: d
+
+# Created at 2018-10-02T16:44:46.670
+Unexpected IOException with stream: .
+
+# Created at 2018-10-02T16:44:46.671
+Unexpected IOException with stream: 
+
+# Created at 2018-10-02T16:44:46.672
+Unexpected IOException with stream: 
+
+
+# Created at 2018-10-02T16:44:48.998
+Unexpected IOException with stream: окт 02, 2018 4:44:48 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+
+
+# Created at 2018-10-02T16:44:54.471
+Unexpected IOException: 7,1,tests.TestTranslationToLangs,testTranslationToOtherLangs[1](tests.TestTranslationToLangs),null,No value present,null,No value present,TestTranslationToLangs.testTranslationToOtherLangs:41 \00BB NoSuchElement No value...,java.util.NoSuchElementException: No value present\000A\0009at tests.TestTranslationToLangs.testTranslationToOtherLangs(TestTranslationToLangs.java:41)\000A
+
+
+# Created at 2018-10-02T16:44:54.472
+Unexpected IOException with stream: 2018-10-02 16:44:54 ERROR WebDriverListener:57 - Test failed with: java.util.NoSuchElementException: No value present
+
+
+# Created at 2018-10-02T16:44:54.473
+Unexpected IOException with stream: 2018-10-02 16:44:54 ERROR WebDriverListener:57 - Test failed with: java.util.NoSuchElementException: No value present
+
+
+# Created at 2018-10-02T16:44:54.477
+Unexpected IOException with stream: 2018-10-02 16:44:54 INFO  WebDriverListener:50 - Test finished: testTranslationToOtherLangs[1](tests.TestTranslationToLangs)
+
+
+# Created at 2018-10-02T16:44:54.478
+Unexpected IOException with stream: 2018-10-02 16:44:54 INFO  WebDriverListener:51 - --------------------------------------
+
+
+# Created at 2018-10-02T16:44:54.480
+Unexpected IOException with stream: 2018-10-02 16:44:54 INFO  WebDriverListener:50 - Test finished: testTranslationToOtherLangs[1](tests.TestTranslationToLangs)
+
+
+# Created at 2018-10-02T16:44:54.481
+Unexpected IOException with stream: 2018-10-02 16:44:54 INFO  WebDriverListener:51 - --------------------------------------
+
+
+# Created at 2018-10-02T16:44:54.482
+Unexpected IOException: 5,1,tests.TestTranslationToLangs,testTranslationToOtherLangs[2](tests.TestTranslationToLangs),null,null,null
+
+
+# Created at 2018-10-02T16:44:54.485
+Unexpected IOException with stream: 2018-10-02 16:44:54 INFO  WebDriverListener:43 - Test starts: testTranslationToOtherLangs[2](tests.TestTranslationToLangs)
+
+
+# Created at 2018-10-02T16:44:54.487
+Unexpected IOException with stream: 2018-10-02 16:44:54 INFO  WebDriverListener:43 - Test starts: testTranslationToOtherLangs[2](tests.TestTranslationToLangs)
+
+
+# Created at 2018-10-02T16:44:54.489
+Unexpected IOException with stream: 2018-10-02 16:44:54 INFO  WebDriverListener:43 - Test starts: testTranslationToOtherLangs[2](tests.TestTranslationToLangs)
+
+
+# Created at 2018-10-02T16:44:54.524
+Unexpected IOException with stream: S
+
+# Created at 2018-10-02T16:44:54.525
+Unexpected IOException with stream: t
+
+# Created at 2018-10-02T16:44:54.526
+Unexpected IOException with stream: a
+
+# Created at 2018-10-02T16:44:54.527
+Unexpected IOException with stream: r
+
+# Created at 2018-10-02T16:44:54.528
+Unexpected IOException with stream: t
+
+# Created at 2018-10-02T16:44:54.528
+Unexpected IOException with stream: i
+
+# Created at 2018-10-02T16:44:54.529
+Unexpected IOException with stream: n
+
+# Created at 2018-10-02T16:44:54.530
+Unexpected IOException with stream: g
+
+# Created at 2018-10-02T16:44:54.531
+Unexpected IOException with stream:  
+
+# Created at 2018-10-02T16:44:54.531
+Unexpected IOException with stream: C
+
+# Created at 2018-10-02T16:44:54.532
+Unexpected IOException with stream: h
+
+# Created at 2018-10-02T16:44:54.533
+Unexpected IOException with stream: r
+
+# Created at 2018-10-02T16:44:54.534
+Unexpected IOException with stream: o
+
+# Created at 2018-10-02T16:44:54.534
+Unexpected IOException with stream: m
+
+# Created at 2018-10-02T16:44:54.535
+Unexpected IOException with stream: e
+
+# Created at 2018-10-02T16:44:54.536
+Unexpected IOException with stream: D
+
+# Created at 2018-10-02T16:44:54.537
+Unexpected IOException with stream: r
+
+# Created at 2018-10-02T16:44:54.537
+Unexpected IOException with stream: i
+
+# Created at 2018-10-02T16:44:54.538
+Unexpected IOException with stream: v
+
+# Created at 2018-10-02T16:44:54.539
+Unexpected IOException with stream: e
+
+# Created at 2018-10-02T16:44:54.540
+Unexpected IOException with stream: r
+
+# Created at 2018-10-02T16:44:54.541
+Unexpected IOException with stream:  
+
+# Created at 2018-10-02T16:44:54.541
+Unexpected IOException with stream: 2
+
+# Created at 2018-10-02T16:44:54.542
+Unexpected IOException with stream: .
+
+# Created at 2018-10-02T16:44:54.543
+Unexpected IOException with stream: 3
+
+# Created at 2018-10-02T16:44:54.544
+Unexpected IOException with stream: 7
+
+# Created at 2018-10-02T16:44:54.544
+Unexpected IOException with stream: .
+
+# Created at 2018-10-02T16:44:54.545
+Unexpected IOException with stream: 5
+
+# Created at 2018-10-02T16:44:54.546
+Unexpected IOException with stream: 4
+
+# Created at 2018-10-02T16:44:54.547
+Unexpected IOException with stream: 4
+
+# Created at 2018-10-02T16:44:54.547
+Unexpected IOException with stream: 3
+
+# Created at 2018-10-02T16:44:54.548
+Unexpected IOException with stream: 1
+
+# Created at 2018-10-02T16:44:54.549
+Unexpected IOException with stream: 5
+
+# Created at 2018-10-02T16:44:54.550
+Unexpected IOException with stream:  
+
+# Created at 2018-10-02T16:44:54.550
+Unexpected IOException with stream: (
+
+# Created at 2018-10-02T16:44:54.551
+Unexpected IOException with stream: 7
+
+# Created at 2018-10-02T16:44:54.552
+Unexpected IOException with stream: 3
+
+# Created at 2018-10-02T16:44:54.553
+Unexpected IOException with stream: 0
+
+# Created at 2018-10-02T16:44:54.553
+Unexpected IOException with stream: a
+
+# Created at 2018-10-02T16:44:54.554
+Unexpected IOException with stream: a
+
+# Created at 2018-10-02T16:44:54.555
+Unexpected IOException with stream: 6
+
+# Created at 2018-10-02T16:44:54.556
+Unexpected IOException with stream: a
+
+# Created at 2018-10-02T16:44:54.556
+Unexpected IOException with stream: 5
+
+# Created at 2018-10-02T16:44:54.557
+Unexpected IOException with stream: f
+
+# Created at 2018-10-02T16:44:54.558
+Unexpected IOException with stream: d
+
+# Created at 2018-10-02T16:44:54.559
+Unexpected IOException with stream: b
+
+# Created at 2018-10-02T16:44:54.559
+Unexpected IOException with stream: a
+
+# Created at 2018-10-02T16:44:54.560
+Unexpected IOException with stream: 1
+
+# Created at 2018-10-02T16:44:54.561
+Unexpected IOException with stream: 5
+
+# Created at 2018-10-02T16:44:54.562
+Unexpected IOException with stream: 9
+
+# Created at 2018-10-02T16:44:54.562
+Unexpected IOException with stream: a
+
+# Created at 2018-10-02T16:44:54.563
+Unexpected IOException with stream: c
+
+# Created at 2018-10-02T16:44:54.564
+Unexpected IOException with stream: 9
+
+# Created at 2018-10-02T16:44:54.565
+Unexpected IOException with stream: f
+
+# Created at 2018-10-02T16:44:54.566
+Unexpected IOException with stream: 4
+
+# Created at 2018-10-02T16:44:54.566
+Unexpected IOException with stream: c
+
+# Created at 2018-10-02T16:44:54.567
+Unexpected IOException with stream: 1
+
+# Created at 2018-10-02T16:44:54.568
+Unexpected IOException with stream: e
+
+# Created at 2018-10-02T16:44:54.569
+Unexpected IOException with stream: 8
+
+# Created at 2018-10-02T16:44:54.569
+Unexpected IOException with stream: c
+
+# Created at 2018-10-02T16:44:54.570
+Unexpected IOException with stream: b
+
+# Created at 2018-10-02T16:44:54.571
+Unexpected IOException with stream: c
+
+# Created at 2018-10-02T16:44:54.572
+Unexpected IOException with stream: 5
+
+# Created at 2018-10-02T16:44:54.572
+Unexpected IOException with stream: 9
+
+# Created at 2018-10-02T16:44:54.573
+Unexpected IOException with stream: b
+
+# Created at 2018-10-02T16:44:54.574
+Unexpected IOException with stream: f
+
+# Created at 2018-10-02T16:44:54.575
+Unexpected IOException with stream: 1
+
+# Created at 2018-10-02T16:44:54.575
+Unexpected IOException with stream: b
+
+# Created at 2018-10-02T16:44:54.576
+Unexpected IOException with stream: 5
+
+# Created at 2018-10-02T16:44:54.577
+Unexpected IOException with stream: c
+
+# Created at 2018-10-02T16:44:54.578
+Unexpected IOException with stream: e
+
+# Created at 2018-10-02T16:44:54.579
+Unexpected IOException with stream: 1
+
+# Created at 2018-10-02T16:44:54.579
+Unexpected IOException with stream: 2
+
+# Created at 2018-10-02T16:44:54.580
+Unexpected IOException with stream: b
+
+# Created at 2018-10-02T16:44:54.581
+Unexpected IOException with stream: 7
+
+# Created at 2018-10-02T16:44:54.582
+Unexpected IOException with stream: )
+
+# Created at 2018-10-02T16:44:54.582
+Unexpected IOException with stream:  
+
+# Created at 2018-10-02T16:44:54.583
+Unexpected IOException with stream: o
+
+# Created at 2018-10-02T16:44:54.584
+Unexpected IOException with stream: n
+
+# Created at 2018-10-02T16:44:54.585
+Unexpected IOException with stream:  
+
+# Created at 2018-10-02T16:44:54.585
+Unexpected IOException with stream: p
+
+# Created at 2018-10-02T16:44:54.586
+Unexpected IOException with stream: o
+
+# Created at 2018-10-02T16:44:54.587
+Unexpected IOException with stream: r
+
+# Created at 2018-10-02T16:44:54.588
+Unexpected IOException with stream: t
+
+# Created at 2018-10-02T16:44:54.588
+Unexpected IOException with stream:  
+
+# Created at 2018-10-02T16:44:54.589
+Unexpected IOException with stream: 1
+
+# Created at 2018-10-02T16:44:54.590
+Unexpected IOException with stream: 6
+
+# Created at 2018-10-02T16:44:54.591
+Unexpected IOException with stream: 7
+
+# Created at 2018-10-02T16:44:54.591
+Unexpected IOException with stream: 0
+
+# Created at 2018-10-02T16:44:54.592
+Unexpected IOException with stream: 
+
+# Created at 2018-10-02T16:44:54.593
+Unexpected IOException with stream: 
+
+
+# Created at 2018-10-02T16:44:54.594
+Unexpected IOException with stream: O
+
+# Created at 2018-10-02T16:44:54.595
+Unexpected IOException with stream: n
+
+# Created at 2018-10-02T16:44:54.595
+Unexpected IOException with stream: l
+
+# Created at 2018-10-02T16:44:54.596
+Unexpected IOException with stream: y
+
+# Created at 2018-10-02T16:44:54.597
+Unexpected IOException with stream:  
+
+# Created at 2018-10-02T16:44:54.598
+Unexpected IOException with stream: l
+
+# Created at 2018-10-02T16:44:54.599
+Unexpected IOException with stream: o
+
+# Created at 2018-10-02T16:44:54.599
+Unexpected IOException with stream: c
+
+# Created at 2018-10-02T16:44:54.600
+Unexpected IOException with stream: a
+
+# Created at 2018-10-02T16:44:54.601
+Unexpected IOException with stream: l
+
+# Created at 2018-10-02T16:44:54.602
+Unexpected IOException with stream:  
+
+# Created at 2018-10-02T16:44:54.602
+Unexpected IOException with stream: c
+
+# Created at 2018-10-02T16:44:54.603
+Unexpected IOException with stream: o
+
+# Created at 2018-10-02T16:44:54.604
+Unexpected IOException with stream: n
+
+# Created at 2018-10-02T16:44:54.605
+Unexpected IOException with stream: n
+
+# Created at 2018-10-02T16:44:54.606
+Unexpected IOException with stream: e
+
+# Created at 2018-10-02T16:44:54.606
+Unexpected IOException with stream: c
+
+# Created at 2018-10-02T16:44:54.607
+Unexpected IOException with stream: t
+
+# Created at 2018-10-02T16:44:54.608
+Unexpected IOException with stream: i
+
+# Created at 2018-10-02T16:44:54.609
+Unexpected IOException with stream: o
+
+# Created at 2018-10-02T16:44:54.609
+Unexpected IOException with stream: n
+
+# Created at 2018-10-02T16:44:54.610
+Unexpected IOException with stream: s
+
+# Created at 2018-10-02T16:44:54.611
+Unexpected IOException with stream:  
+
+# Created at 2018-10-02T16:44:54.612
+Unexpected IOException with stream: a
+
+# Created at 2018-10-02T16:44:54.613
+Unexpected IOException with stream: r
+
+# Created at 2018-10-02T16:44:54.613
+Unexpected IOException with stream: e
+
+# Created at 2018-10-02T16:44:54.614
+Unexpected IOException with stream:  
+
+# Created at 2018-10-02T16:44:54.615
+Unexpected IOException with stream: a
+
+# Created at 2018-10-02T16:44:54.615
+Unexpected IOException with stream: l
+
+# Created at 2018-10-02T16:44:54.616
+Unexpected IOException with stream: l
+
+# Created at 2018-10-02T16:44:54.617
+Unexpected IOException with stream: o
+
+# Created at 2018-10-02T16:44:54.618
+Unexpected IOException with stream: w
+
+# Created at 2018-10-02T16:44:54.618
+Unexpected IOException with stream: e
+
+# Created at 2018-10-02T16:44:54.619
+Unexpected IOException with stream: d
+
+# Created at 2018-10-02T16:44:54.620
+Unexpected IOException with stream: .
+
+# Created at 2018-10-02T16:44:54.621
+Unexpected IOException with stream: 
+
+# Created at 2018-10-02T16:44:54.621
+Unexpected IOException with stream: 
+
+
+# Created at 2018-10-02T16:44:56.847
+Unexpected IOException with stream: окт 02, 2018 4:44:56 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+
+
+# Created at 2018-10-02T16:45:07.688
+Unexpected IOException: 6,1,tests.TestTranslationToLangs,testTranslationToOtherLangs[2](tests.TestTranslationToLangs),null,null,null
+
+
+# Created at 2018-10-02T16:45:07.701
+Unexpected IOException with stream: 2018-10-02 16:45:07 INFO  WebDriverListener:50 - Test finished: testTranslationToOtherLangs[2](tests.TestTranslationToLangs)
+
+
+# Created at 2018-10-02T16:45:07.705
+Unexpected IOException with stream: 2018-10-02 16:45:07 INFO  WebDriverListener:51 - --------------------------------------
+
+
+# Created at 2018-10-02T16:45:07.708
+Unexpected IOException with stream: 2018-10-02 16:45:07 INFO  WebDriverListener:50 - Test finished: testTranslationToOtherLangs[2](tests.TestTranslationToLangs)
+
+
+# Created at 2018-10-02T16:45:07.712
+Unexpected IOException with stream: 2018-10-02 16:45:07 INFO  WebDriverListener:51 - --------------------------------------
+
+
+# Created at 2018-10-02T16:45:07.716
+Unexpected IOException with stream: 2018-10-02 16:45:07 INFO  WebDriverListener:50 - Test finished: testTranslationToOtherLangs[2](tests.TestTranslationToLangs)
+
+
+# Created at 2018-10-02T16:45:07.720
+Unexpected IOException with stream: 2018-10-02 16:45:07 INFO  WebDriverListener:51 - --------------------------------------
+
+
+# Created at 2018-10-02T16:45:07.721
+Unexpected IOException: 5,1,tests.TestTranslationToLangs,testTranslationToOtherLangs[3](tests.TestTranslationToLangs),null,null,null
+
+
+# Created at 2018-10-02T16:45:07.726
+Unexpected IOException with stream: 2018-10-02 16:45:07 INFO  WebDriverListener:43 - Test starts: testTranslationToOtherLangs[3](tests.TestTranslationToLangs)
+
+
+# Created at 2018-10-02T16:45:07.729
+Unexpected IOException with stream: 2018-10-02 16:45:07 INFO  WebDriverListener:43 - Test starts: testTranslationToOtherLangs[3](tests.TestTranslationToLangs)
+
+
+# Created at 2018-10-02T16:45:07.731
+Unexpected IOException with stream: 2018-10-02 16:45:07 INFO  WebDriverListener:43 - Test starts: testTranslationToOtherLangs[3](tests.TestTranslationToLangs)
+
+
+# Created at 2018-10-02T16:45:07.734
+Unexpected IOException with stream: 2018-10-02 16:45:07 INFO  WebDriverListener:43 - Test starts: testTranslationToOtherLangs[3](tests.TestTranslationToLangs)
+
+
+# Created at 2018-10-02T16:45:07.762
+Unexpected IOException with stream: S
+
+# Created at 2018-10-02T16:45:07.763
+Unexpected IOException with stream: t
+
+# Created at 2018-10-02T16:45:07.764
+Unexpected IOException with stream: a
+
+# Created at 2018-10-02T16:45:07.765
+Unexpected IOException with stream: r
+
+# Created at 2018-10-02T16:45:07.766
+Unexpected IOException with stream: t
+
+# Created at 2018-10-02T16:45:07.766
+Unexpected IOException with stream: i
+
+# Created at 2018-10-02T16:45:07.767
+Unexpected IOException with stream: n
+
+# Created at 2018-10-02T16:45:07.768
+Unexpected IOException with stream: g
+
+# Created at 2018-10-02T16:45:07.769
+Unexpected IOException with stream:  
+
+# Created at 2018-10-02T16:45:07.769
+Unexpected IOException with stream: C
+
+# Created at 2018-10-02T16:45:07.770
+Unexpected IOException with stream: h
+
+# Created at 2018-10-02T16:45:07.771
+Unexpected IOException with stream: r
+
+# Created at 2018-10-02T16:45:07.772
+Unexpected IOException with stream: o
+
+# Created at 2018-10-02T16:45:07.773
+Unexpected IOException with stream: m
+
+# Created at 2018-10-02T16:45:07.774
+Unexpected IOException with stream: e
+
+# Created at 2018-10-02T16:45:07.775
+Unexpected IOException with stream: D
+
+# Created at 2018-10-02T16:45:07.776
+Unexpected IOException with stream: r
+
+# Created at 2018-10-02T16:45:07.776
+Unexpected IOException with stream: i
+
+# Created at 2018-10-02T16:45:07.777
+Unexpected IOException with stream: v
+
+# Created at 2018-10-02T16:45:07.778
+Unexpected IOException with stream: e
+
+# Created at 2018-10-02T16:45:07.779
+Unexpected IOException with stream: r
+
+# Created at 2018-10-02T16:45:07.780
+Unexpected IOException with stream:  
+
+# Created at 2018-10-02T16:45:07.780
+Unexpected IOException with stream: 2
+
+# Created at 2018-10-02T16:45:07.781
+Unexpected IOException with stream: .
+
+# Created at 2018-10-02T16:45:07.782
+Unexpected IOException with stream: 3
+
+# Created at 2018-10-02T16:45:07.783
+Unexpected IOException with stream: 7
+
+# Created at 2018-10-02T16:45:07.784
+Unexpected IOException with stream: .
+
+# Created at 2018-10-02T16:45:07.784
+Unexpected IOException with stream: 5
+
+# Created at 2018-10-02T16:45:07.785
+Unexpected IOException with stream: 4
+
+# Created at 2018-10-02T16:45:07.786
+Unexpected IOException with stream: 4
+
+# Created at 2018-10-02T16:45:07.787
+Unexpected IOException with stream: 3
+
+# Created at 2018-10-02T16:45:07.787
+Unexpected IOException with stream: 1
+
+# Created at 2018-10-02T16:45:07.788
+Unexpected IOException with stream: 5
+
+# Created at 2018-10-02T16:45:07.789
+Unexpected IOException with stream:  
+
+# Created at 2018-10-02T16:45:07.790
+Unexpected IOException with stream: (
+
+# Created at 2018-10-02T16:45:07.790
+Unexpected IOException with stream: 7
+
+# Created at 2018-10-02T16:45:07.791
+Unexpected IOException with stream: 3
+
+# Created at 2018-10-02T16:45:07.791
+Unexpected IOException with stream: 0
+
+# Created at 2018-10-02T16:45:07.791
+Unexpected IOException with stream: a
+
+# Created at 2018-10-02T16:45:07.791
+Unexpected IOException with stream: a
+
+# Created at 2018-10-02T16:45:07.791
+Unexpected IOException with stream: 6
+
+# Created at 2018-10-02T16:45:07.792
+Unexpected IOException with stream: a
+
+# Created at 2018-10-02T16:45:07.793
+Unexpected IOException with stream: 5
+
+# Created at 2018-10-02T16:45:07.794
+Unexpected IOException with stream: f
+
+# Created at 2018-10-02T16:45:07.794
+Unexpected IOException with stream: d
+
+# Created at 2018-10-02T16:45:07.795
+Unexpected IOException with stream: b
+
+# Created at 2018-10-02T16:45:07.796
+Unexpected IOException with stream: a
+
+# Created at 2018-10-02T16:45:07.797
+Unexpected IOException with stream: 1
+
+# Created at 2018-10-02T16:45:07.798
+Unexpected IOException with stream: 5
+
+# Created at 2018-10-02T16:45:07.798
+Unexpected IOException with stream: 9
+
+# Created at 2018-10-02T16:45:07.799
+Unexpected IOException with stream: a
+
+# Created at 2018-10-02T16:45:07.799
+Unexpected IOException with stream: c
+
+# Created at 2018-10-02T16:45:07.800
+Unexpected IOException with stream: 9
+
+# Created at 2018-10-02T16:45:07.801
+Unexpected IOException with stream: f
+
+# Created at 2018-10-02T16:45:07.802
+Unexpected IOException with stream: 4
+
+# Created at 2018-10-02T16:45:07.803
+Unexpected IOException with stream: c
+
+# Created at 2018-10-02T16:45:07.803
+Unexpected IOException with stream: 1
+
+# Created at 2018-10-02T16:45:07.804
+Unexpected IOException with stream: e
+
+# Created at 2018-10-02T16:45:07.805
+Unexpected IOException with stream: 8
+
+# Created at 2018-10-02T16:45:07.805
+Unexpected IOException with stream: c
+
+# Created at 2018-10-02T16:45:07.806
+Unexpected IOException with stream: b
+
+# Created at 2018-10-02T16:45:07.807
+Unexpected IOException with stream: c
+
+# Created at 2018-10-02T16:45:07.808
+Unexpected IOException with stream: 5
+
+# Created at 2018-10-02T16:45:07.808
+Unexpected IOException with stream: 9
+
+# Created at 2018-10-02T16:45:07.809
+Unexpected IOException with stream: b
+
+# Created at 2018-10-02T16:45:07.810
+Unexpected IOException with stream: f
+
+# Created at 2018-10-02T16:45:07.811
+Unexpected IOException with stream: 1
+
+# Created at 2018-10-02T16:45:07.811
+Unexpected IOException with stream: b
+
+# Created at 2018-10-02T16:45:07.812
+Unexpected IOException with stream: 5
+
+# Created at 2018-10-02T16:45:07.813
+Unexpected IOException with stream: c
+
+# Created at 2018-10-02T16:45:07.814
+Unexpected IOException with stream: e
+
+# Created at 2018-10-02T16:45:07.814
+Unexpected IOException with stream: 1
+
+# Created at 2018-10-02T16:45:07.815
+Unexpected IOException with stream: 2
+
+# Created at 2018-10-02T16:45:07.816
+Unexpected IOException with stream: b
+
+# Created at 2018-10-02T16:45:07.817
+Unexpected IOException with stream: 7
+
+# Created at 2018-10-02T16:45:07.817
+Unexpected IOException with stream: )
+
+# Created at 2018-10-02T16:45:07.818
+Unexpected IOException with stream:  
+
+# Created at 2018-10-02T16:45:07.819
+Unexpected IOException with stream: o
+
+# Created at 2018-10-02T16:45:07.820
+Unexpected IOException with stream: n
+
+# Created at 2018-10-02T16:45:07.820
+Unexpected IOException with stream:  
+
+# Created at 2018-10-02T16:45:07.821
+Unexpected IOException with stream: p
+
+# Created at 2018-10-02T16:45:07.822
+Unexpected IOException with stream: o
+
+# Created at 2018-10-02T16:45:07.822
+Unexpected IOException with stream: r
+
+# Created at 2018-10-02T16:45:07.823
+Unexpected IOException with stream: t
+
+# Created at 2018-10-02T16:45:07.824
+Unexpected IOException with stream:  
+
+# Created at 2018-10-02T16:45:07.825
+Unexpected IOException with stream: 1
+
+# Created at 2018-10-02T16:45:07.826
+Unexpected IOException with stream: 9
+
+# Created at 2018-10-02T16:45:07.826
+Unexpected IOException with stream: 8
+
+# Created at 2018-10-02T16:45:07.827
+Unexpected IOException with stream: 5
+
+# Created at 2018-10-02T16:45:07.827
+Unexpected IOException with stream: 7
+
+# Created at 2018-10-02T16:45:07.827
+Unexpected IOException with stream: 
+
+# Created at 2018-10-02T16:45:07.828
+Unexpected IOException with stream: 
+
+
+# Created at 2018-10-02T16:45:07.828
+Unexpected IOException with stream: O
+
+# Created at 2018-10-02T16:45:07.828
+Unexpected IOException with stream: n
+
+# Created at 2018-10-02T16:45:07.828
+Unexpected IOException with stream: l
+
+# Created at 2018-10-02T16:45:07.829
+Unexpected IOException with stream: y
+
+# Created at 2018-10-02T16:45:07.829
+Unexpected IOException with stream:  
+
+# Created at 2018-10-02T16:45:07.829
+Unexpected IOException with stream: l
+
+# Created at 2018-10-02T16:45:07.829
+Unexpected IOException with stream: o
+
+# Created at 2018-10-02T16:45:07.830
+Unexpected IOException with stream: c
+
+# Created at 2018-10-02T16:45:07.831
+Unexpected IOException with stream: a
+
+# Created at 2018-10-02T16:45:07.832
+Unexpected IOException with stream: l
+
+# Created at 2018-10-02T16:45:07.833
+Unexpected IOException with stream:  
+
+# Created at 2018-10-02T16:45:07.834
+Unexpected IOException with stream: c
+
+# Created at 2018-10-02T16:45:07.834
+Unexpected IOException with stream: o
+
+# Created at 2018-10-02T16:45:07.835
+Unexpected IOException with stream: n
+
+# Created at 2018-10-02T16:45:07.835
+Unexpected IOException with stream: n
+
+# Created at 2018-10-02T16:45:07.835
+Unexpected IOException with stream: e
+
+# Created at 2018-10-02T16:45:07.836
+Unexpected IOException with stream: c
+
+# Created at 2018-10-02T16:45:07.836
+Unexpected IOException with stream: t
+
+# Created at 2018-10-02T16:45:07.836
+Unexpected IOException with stream: i
+
+# Created at 2018-10-02T16:45:07.836
+Unexpected IOException with stream: o
+
+# Created at 2018-10-02T16:45:07.837
+Unexpected IOException with stream: n
+
+# Created at 2018-10-02T16:45:07.837
+Unexpected IOException with stream: s
+
+# Created at 2018-10-02T16:45:07.837
+Unexpected IOException with stream:  
+
+# Created at 2018-10-02T16:45:07.837
+Unexpected IOException with stream: a
+
+# Created at 2018-10-02T16:45:07.837
+Unexpected IOException with stream: r
+
+# Created at 2018-10-02T16:45:07.838
+Unexpected IOException with stream: e
+
+# Created at 2018-10-02T16:45:07.838
+Unexpected IOException with stream:  
+
+# Created at 2018-10-02T16:45:07.838
+Unexpected IOException with stream: a
+
+# Created at 2018-10-02T16:45:07.838
+Unexpected IOException with stream: l
+
+# Created at 2018-10-02T16:45:07.839
+Unexpected IOException with stream: l
+
+# Created at 2018-10-02T16:45:07.840
+Unexpected IOException with stream: o
+
+# Created at 2018-10-02T16:45:07.840
+Unexpected IOException with stream: w
+
+# Created at 2018-10-02T16:45:07.840
+Unexpected IOException with stream: e
+
+# Created at 2018-10-02T16:45:07.840
+Unexpected IOException with stream: d
+
+# Created at 2018-10-02T16:45:07.841
+Unexpected IOException with stream: .
+
+# Created at 2018-10-02T16:45:07.841
+Unexpected IOException with stream: 
+
+# Created at 2018-10-02T16:45:07.841
+Unexpected IOException with stream: 
+
+
+# Created at 2018-10-02T16:45:10.118
+Unexpected IOException with stream: окт 02, 2018 4:45:10 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+
+
+# Created at 2018-10-02T16:45:20.091
+Unexpected IOException: 6,1,tests.TestTranslationToLangs,testTranslationToOtherLangs[3](tests.TestTranslationToLangs),null,null,null
+
+
+# Created at 2018-10-02T16:45:20.103
+Unexpected IOException with stream: 2018-10-02 16:45:20 INFO  WebDriverListener:50 - Test finished: testTranslationToOtherLangs[3](tests.TestTranslationToLangs)
+
+
+# Created at 2018-10-02T16:45:20.108
+Unexpected IOException with stream: 2018-10-02 16:45:20 INFO  WebDriverListener:51 - --------------------------------------
+
+
+# Created at 2018-10-02T16:45:20.111
+Unexpected IOException with stream: 2018-10-02 16:45:20 INFO  WebDriverListener:50 - Test finished: testTranslationToOtherLangs[3](tests.TestTranslationToLangs)
+
+
+# Created at 2018-10-02T16:45:20.114
+Unexpected IOException with stream: 2018-10-02 16:45:20 INFO  WebDriverListener:51 - --------------------------------------
+
+
+# Created at 2018-10-02T16:45:20.116
+Unexpected IOException with stream: 2018-10-02 16:45:20 INFO  WebDriverListener:50 - Test finished: testTranslationToOtherLangs[3](tests.TestTranslationToLangs)
+
+
+# Created at 2018-10-02T16:45:20.118
+Unexpected IOException with stream: 2018-10-02 16:45:20 INFO  WebDriverListener:51 - --------------------------------------
+
+
+# Created at 2018-10-02T16:45:20.121
+Unexpected IOException with stream: 2018-10-02 16:45:20 INFO  WebDriverListener:50 - Test finished: testTranslationToOtherLangs[3](tests.TestTranslationToLangs)
+
+
+# Created at 2018-10-02T16:45:20.123
+Unexpected IOException with stream: 2018-10-02 16:45:20 INFO  WebDriverListener:51 - --------------------------------------
+
+
+# Created at 2018-10-02T16:45:20.126
+Unexpected IOException: 5,1,tests.TestTranslationToLangs,testTranslationToOtherLangs[4](tests.TestTranslationToLangs),null,null,null
+
+
+# Created at 2018-10-02T16:45:20.132
+Unexpected IOException with stream: 2018-10-02 16:45:20 INFO  WebDriverListener:43 - Test starts: testTranslationToOtherLangs[4](tests.TestTranslationToLangs)
+
+
+# Created at 2018-10-02T16:45:20.136
+Unexpected IOException with stream: 2018-10-02 16:45:20 INFO  WebDriverListener:43 - Test starts: testTranslationToOtherLangs[4](tests.TestTranslationToLangs)
+
+
+# Created at 2018-10-02T16:45:20.140
+Unexpected IOException with stream: 2018-10-02 16:45:20 INFO  WebDriverListener:43 - Test starts: testTranslationToOtherLangs[4](tests.TestTranslationToLangs)
+
+
+# Created at 2018-10-02T16:45:20.142
+Unexpected IOException with stream: 2018-10-02 16:45:20 INFO  WebDriverListener:43 - Test starts: testTranslationToOtherLangs[4](tests.TestTranslationToLangs)
+
+
+# Created at 2018-10-02T16:45:20.144
+Unexpected IOException with stream: 2018-10-02 16:45:20 INFO  WebDriverListener:43 - Test starts: testTranslationToOtherLangs[4](tests.TestTranslationToLangs)
+
+
+# Created at 2018-10-02T16:45:20.172
+Unexpected IOException with stream: S
+
+# Created at 2018-10-02T16:45:20.173
+Unexpected IOException with stream: t
+
+# Created at 2018-10-02T16:45:20.174
+Unexpected IOException with stream: a
+
+# Created at 2018-10-02T16:45:20.175
+Unexpected IOException with stream: r
+
+# Created at 2018-10-02T16:45:20.176
+Unexpected IOException with stream: t
+
+# Created at 2018-10-02T16:45:20.176
+Unexpected IOException with stream: i
+
+# Created at 2018-10-02T16:45:20.177
+Unexpected IOException with stream: n
+
+# Created at 2018-10-02T16:45:20.178
+Unexpected IOException with stream: g
+
+# Created at 2018-10-02T16:45:20.179
+Unexpected IOException with stream:  
+
+# Created at 2018-10-02T16:45:20.179
+Unexpected IOException with stream: C
+
+# Created at 2018-10-02T16:45:20.180
+Unexpected IOException with stream: h
+
+# Created at 2018-10-02T16:45:20.181
+Unexpected IOException with stream: r
+
+# Created at 2018-10-02T16:45:20.182
+Unexpected IOException with stream: o
+
+# Created at 2018-10-02T16:45:20.182
+Unexpected IOException with stream: m
+
+# Created at 2018-10-02T16:45:20.183
+Unexpected IOException with stream: e
+
+# Created at 2018-10-02T16:45:20.184
+Unexpected IOException with stream: D
+
+# Created at 2018-10-02T16:45:20.185
+Unexpected IOException with stream: r
+
+# Created at 2018-10-02T16:45:20.185
+Unexpected IOException with stream: i
+
+# Created at 2018-10-02T16:45:20.186
+Unexpected IOException with stream: v
+
+# Created at 2018-10-02T16:45:20.187
+Unexpected IOException with stream: e
+
+# Created at 2018-10-02T16:45:20.187
+Unexpected IOException with stream: r
+
+# Created at 2018-10-02T16:45:20.188
+Unexpected IOException with stream:  
+
+# Created at 2018-10-02T16:45:20.189
+Unexpected IOException with stream: 2
+
+# Created at 2018-10-02T16:45:20.190
+Unexpected IOException with stream: .
+
+# Created at 2018-10-02T16:45:20.191
+Unexpected IOException with stream: 3
+
+# Created at 2018-10-02T16:45:20.192
+Unexpected IOException with stream: 7
+
+# Created at 2018-10-02T16:45:20.193
+Unexpected IOException with stream: .
+
+# Created at 2018-10-02T16:45:20.193
+Unexpected IOException with stream: 5
+
+# Created at 2018-10-02T16:45:20.194
+Unexpected IOException with stream: 4
+
+# Created at 2018-10-02T16:45:20.195
+Unexpected IOException with stream: 4
+
+# Created at 2018-10-02T16:45:20.195
+Unexpected IOException with stream: 3
+
+# Created at 2018-10-02T16:45:20.196
+Unexpected IOException with stream: 1
+
+# Created at 2018-10-02T16:45:20.197
+Unexpected IOException with stream: 5
+
+# Created at 2018-10-02T16:45:20.198
+Unexpected IOException with stream:  
+
+# Created at 2018-10-02T16:45:20.198
+Unexpected IOException with stream: (
+
+# Created at 2018-10-02T16:45:20.199
+Unexpected IOException with stream: 7
+
+# Created at 2018-10-02T16:45:20.200
+Unexpected IOException with stream: 3
+
+# Created at 2018-10-02T16:45:20.200
+Unexpected IOException with stream: 0
+
+# Created at 2018-10-02T16:45:20.201
+Unexpected IOException with stream: a
+
+# Created at 2018-10-02T16:45:20.202
+Unexpected IOException with stream: a
+
+# Created at 2018-10-02T16:45:20.203
+Unexpected IOException with stream: 6
+
+# Created at 2018-10-02T16:45:20.203
+Unexpected IOException with stream: a
+
+# Created at 2018-10-02T16:45:20.204
+Unexpected IOException with stream: 5
+
+# Created at 2018-10-02T16:45:20.205
+Unexpected IOException with stream: f
+
+# Created at 2018-10-02T16:45:20.206
+Unexpected IOException with stream: d
+
+# Created at 2018-10-02T16:45:20.206
+Unexpected IOException with stream: b
+
+# Created at 2018-10-02T16:45:20.207
+Unexpected IOException with stream: a
+
+# Created at 2018-10-02T16:45:20.208
+Unexpected IOException with stream: 1
+
+# Created at 2018-10-02T16:45:20.209
+Unexpected IOException with stream: 5
+
+# Created at 2018-10-02T16:45:20.209
+Unexpected IOException with stream: 9
+
+# Created at 2018-10-02T16:45:20.210
+Unexpected IOException with stream: a
+
+# Created at 2018-10-02T16:45:20.211
+Unexpected IOException with stream: c
+
+# Created at 2018-10-02T16:45:20.212
+Unexpected IOException with stream: 9
+
+# Created at 2018-10-02T16:45:20.212
+Unexpected IOException with stream: f
+
+# Created at 2018-10-02T16:45:20.213
+Unexpected IOException with stream: 4
+
+# Created at 2018-10-02T16:45:20.214
+Unexpected IOException with stream: c
+
+# Created at 2018-10-02T16:45:20.214
+Unexpected IOException with stream: 1
+
+# Created at 2018-10-02T16:45:20.215
+Unexpected IOException with stream: e
+
+# Created at 2018-10-02T16:45:20.216
+Unexpected IOException with stream: 8
+
+# Created at 2018-10-02T16:45:20.217
+Unexpected IOException with stream: c
+
+# Created at 2018-10-02T16:45:20.217
+Unexpected IOException with stream: b
+
+# Created at 2018-10-02T16:45:20.218
+Unexpected IOException with stream: c
+
+# Created at 2018-10-02T16:45:20.219
+Unexpected IOException with stream: 5
+
+# Created at 2018-10-02T16:45:20.219
+Unexpected IOException with stream: 9
+
+# Created at 2018-10-02T16:45:20.220
+Unexpected IOException with stream: b
+
+# Created at 2018-10-02T16:45:20.221
+Unexpected IOException with stream: f
+
+# Created at 2018-10-02T16:45:20.222
+Unexpected IOException with stream: 1
+
+# Created at 2018-10-02T16:45:20.222
+Unexpected IOException with stream: b
+
+# Created at 2018-10-02T16:45:20.223
+Unexpected IOException with stream: 5
+
+# Created at 2018-10-02T16:45:20.224
+Unexpected IOException with stream: c
+
+# Created at 2018-10-02T16:45:20.225
+Unexpected IOException with stream: e
+
+# Created at 2018-10-02T16:45:20.226
+Unexpected IOException with stream: 1
+
+# Created at 2018-10-02T16:45:20.227
+Unexpected IOException with stream: 2
+
+# Created at 2018-10-02T16:45:20.227
+Unexpected IOException with stream: b
+
+# Created at 2018-10-02T16:45:20.228
+Unexpected IOException with stream: 7
+
+# Created at 2018-10-02T16:45:20.229
+Unexpected IOException with stream: )
+
+# Created at 2018-10-02T16:45:20.230
+Unexpected IOException with stream:  
+
+# Created at 2018-10-02T16:45:20.230
+Unexpected IOException with stream: o
+
+# Created at 2018-10-02T16:45:20.231
+Unexpected IOException with stream: n
+
+# Created at 2018-10-02T16:45:20.232
+Unexpected IOException with stream:  
+
+# Created at 2018-10-02T16:45:20.233
+Unexpected IOException with stream: p
+
+# Created at 2018-10-02T16:45:20.233
+Unexpected IOException with stream: o
+
+# Created at 2018-10-02T16:45:20.234
+Unexpected IOException with stream: r
+
+# Created at 2018-10-02T16:45:20.235
+Unexpected IOException with stream: t
+
+# Created at 2018-10-02T16:45:20.236
+Unexpected IOException with stream:  
+
+# Created at 2018-10-02T16:45:20.236
+Unexpected IOException with stream: 1
+
+# Created at 2018-10-02T16:45:20.237
+Unexpected IOException with stream: 3
+
+# Created at 2018-10-02T16:45:20.238
+Unexpected IOException with stream: 9
+
+# Created at 2018-10-02T16:45:20.239
+Unexpected IOException with stream: 1
+
+# Created at 2018-10-02T16:45:20.239
+Unexpected IOException with stream: 5
+
+# Created at 2018-10-02T16:45:20.240
+Unexpected IOException with stream: 
+
+# Created at 2018-10-02T16:45:20.241
+Unexpected IOException with stream: 
+
+
+# Created at 2018-10-02T16:45:20.242
+Unexpected IOException with stream: O
+
+# Created at 2018-10-02T16:45:20.242
+Unexpected IOException with stream: n
+
+# Created at 2018-10-02T16:45:20.243
+Unexpected IOException with stream: l
+
+# Created at 2018-10-02T16:45:20.244
+Unexpected IOException with stream: y
+
+# Created at 2018-10-02T16:45:20.244
+Unexpected IOException with stream:  
+
+# Created at 2018-10-02T16:45:20.245
+Unexpected IOException with stream: l
+
+# Created at 2018-10-02T16:45:20.246
+Unexpected IOException with stream: o
+
+# Created at 2018-10-02T16:45:20.247
+Unexpected IOException with stream: c
+
+# Created at 2018-10-02T16:45:20.247
+Unexpected IOException with stream: a
+
+# Created at 2018-10-02T16:45:20.248
+Unexpected IOException with stream: l
+
+# Created at 2018-10-02T16:45:20.249
+Unexpected IOException with stream:  
+
+# Created at 2018-10-02T16:45:20.250
+Unexpected IOException with stream: c
+
+# Created at 2018-10-02T16:45:20.250
+Unexpected IOException with stream: o
+
+# Created at 2018-10-02T16:45:20.251
+Unexpected IOException with stream: n
+
+# Created at 2018-10-02T16:45:20.252
+Unexpected IOException with stream: n
+
+# Created at 2018-10-02T16:45:20.253
+Unexpected IOException with stream: e
+
+# Created at 2018-10-02T16:45:20.253
+Unexpected IOException with stream: c
+
+# Created at 2018-10-02T16:45:20.254
+Unexpected IOException with stream: t
+
+# Created at 2018-10-02T16:45:20.255
+Unexpected IOException with stream: i
+
+# Created at 2018-10-02T16:45:20.255
+Unexpected IOException with stream: o
+
+# Created at 2018-10-02T16:45:20.256
+Unexpected IOException with stream: n
+
+# Created at 2018-10-02T16:45:20.257
+Unexpected IOException with stream: s
+
+# Created at 2018-10-02T16:45:20.258
+Unexpected IOException with stream:  
+
+# Created at 2018-10-02T16:45:20.258
+Unexpected IOException with stream: a
+
+# Created at 2018-10-02T16:45:20.259
+Unexpected IOException with stream: r
+
+# Created at 2018-10-02T16:45:20.260
+Unexpected IOException with stream: e
+
+# Created at 2018-10-02T16:45:20.261
+Unexpected IOException with stream:  
+
+# Created at 2018-10-02T16:45:20.262
+Unexpected IOException with stream: a
+
+# Created at 2018-10-02T16:45:20.262
+Unexpected IOException with stream: l
+
+# Created at 2018-10-02T16:45:20.263
+Unexpected IOException with stream: l
+
+# Created at 2018-10-02T16:45:20.264
+Unexpected IOException with stream: o
+
+# Created at 2018-10-02T16:45:20.264
+Unexpected IOException with stream: w
+
+# Created at 2018-10-02T16:45:20.265
+Unexpected IOException with stream: e
+
+# Created at 2018-10-02T16:45:20.266
+Unexpected IOException with stream: d
+
+# Created at 2018-10-02T16:45:20.267
+Unexpected IOException with stream: .
+
+# Created at 2018-10-02T16:45:20.267
+Unexpected IOException with stream: 
+
+# Created at 2018-10-02T16:45:20.268
+Unexpected IOException with stream: 
+
+
+# Created at 2018-10-02T16:45:22.439
+Unexpected IOException with stream: окт 02, 2018 4:45:22 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+
+
+# Created at 2018-10-02T16:45:32.784
+Unexpected IOException: 6,1,tests.TestTranslationToLangs,testTranslationToOtherLangs[4](tests.TestTranslationToLangs),null,null,null
+
+
+# Created at 2018-10-02T16:45:32.797
+Unexpected IOException with stream: 2018-10-02 16:45:32 INFO  WebDriverListener:50 - Test finished: testTranslationToOtherLangs[4](tests.TestTranslationToLangs)
+
+
+# Created at 2018-10-02T16:45:32.800
+Unexpected IOException with stream: 2018-10-02 16:45:32 INFO  WebDriverListener:51 - --------------------------------------
+
+
+# Created at 2018-10-02T16:45:32.802
+Unexpected IOException with stream: 2018-10-02 16:45:32 INFO  WebDriverListener:50 - Test finished: testTranslationToOtherLangs[4](tests.TestTranslationToLangs)
+
+
+# Created at 2018-10-02T16:45:32.804
+Unexpected IOException with stream: 2018-10-02 16:45:32 INFO  WebDriverListener:51 - --------------------------------------
+
+
+# Created at 2018-10-02T16:45:32.806
+Unexpected IOException with stream: 2018-10-02 16:45:32 INFO  WebDriverListener:50 - Test finished: testTranslationToOtherLangs[4](tests.TestTranslationToLangs)
+
+
+# Created at 2018-10-02T16:45:32.808
+Unexpected IOException with stream: 2018-10-02 16:45:32 INFO  WebDriverListener:51 - --------------------------------------
+
+
+# Created at 2018-10-02T16:45:32.810
+Unexpected IOException with stream: 2018-10-02 16:45:32 INFO  WebDriverListener:50 - Test finished: testTranslationToOtherLangs[4](tests.TestTranslationToLangs)
+
+
+# Created at 2018-10-02T16:45:32.812
+Unexpected IOException with stream: 2018-10-02 16:45:32 INFO  WebDriverListener:51 - --------------------------------------
+
+
+# Created at 2018-10-02T16:45:32.814
+Unexpected IOException with stream: 2018-10-02 16:45:32 INFO  WebDriverListener:50 - Test finished: testTranslationToOtherLangs[4](tests.TestTranslationToLangs)
+
+
+# Created at 2018-10-02T16:45:32.816
+Unexpected IOException with stream: 2018-10-02 16:45:32 INFO  WebDriverListener:51 - --------------------------------------
+
+
+# Created at 2018-10-02T16:45:32.818
+Unexpected IOException: 5,1,tests.TestTranslationToLangs,testTranslationToOtherLangs[5](tests.TestTranslationToLangs),null,null,null
+
+
+# Created at 2018-10-02T16:45:32.823
+Unexpected IOException with stream: 2018-10-02 16:45:32 INFO  WebDriverListener:43 - Test starts: testTranslationToOtherLangs[5](tests.TestTranslationToLangs)
+
+
+# Created at 2018-10-02T16:45:32.826
+Unexpected IOException with stream: 2018-10-02 16:45:32 INFO  WebDriverListener:43 - Test starts: testTranslationToOtherLangs[5](tests.TestTranslationToLangs)
+
+
+# Created at 2018-10-02T16:45:32.829
+Unexpected IOException with stream: 2018-10-02 16:45:32 INFO  WebDriverListener:43 - Test starts: testTranslationToOtherLangs[5](tests.TestTranslationToLangs)
+
+
+# Created at 2018-10-02T16:45:32.831
+Unexpected IOException with stream: 2018-10-02 16:45:32 INFO  WebDriverListener:43 - Test starts: testTranslationToOtherLangs[5](tests.TestTranslationToLangs)
+
+
+# Created at 2018-10-02T16:45:32.832
+Unexpected IOException with stream: 2018-10-02 16:45:32 INFO  WebDriverListener:43 - Test starts: testTranslationToOtherLangs[5](tests.TestTranslationToLangs)
+
+
+# Created at 2018-10-02T16:45:32.834
+Unexpected IOException with stream: 2018-10-02 16:45:32 INFO  WebDriverListener:43 - Test starts: testTranslationToOtherLangs[5](tests.TestTranslationToLangs)
+
+
+# Created at 2018-10-02T16:45:32.858
+Unexpected IOException with stream: S
+
+# Created at 2018-10-02T16:45:32.859
+Unexpected IOException with stream: t
+
+# Created at 2018-10-02T16:45:32.860
+Unexpected IOException with stream: a
+
+# Created at 2018-10-02T16:45:32.860
+Unexpected IOException with stream: r
+
+# Created at 2018-10-02T16:45:32.860
+Unexpected IOException with stream: t
+
+# Created at 2018-10-02T16:45:32.861
+Unexpected IOException with stream: i
+
+# Created at 2018-10-02T16:45:32.862
+Unexpected IOException with stream: n
+
+# Created at 2018-10-02T16:45:32.863
+Unexpected IOException with stream: g
+
+# Created at 2018-10-02T16:45:32.864
+Unexpected IOException with stream:  
+
+# Created at 2018-10-02T16:45:32.864
+Unexpected IOException with stream: C
+
+# Created at 2018-10-02T16:45:32.865
+Unexpected IOException with stream: h
+
+# Created at 2018-10-02T16:45:32.866
+Unexpected IOException with stream: r
+
+# Created at 2018-10-02T16:45:32.867
+Unexpected IOException with stream: o
+
+# Created at 2018-10-02T16:45:32.867
+Unexpected IOException with stream: m
+
+# Created at 2018-10-02T16:45:32.868
+Unexpected IOException with stream: e
+
+# Created at 2018-10-02T16:45:32.868
+Unexpected IOException with stream: D
+
+# Created at 2018-10-02T16:45:32.868
+Unexpected IOException with stream: r
+
+# Created at 2018-10-02T16:45:32.868
+Unexpected IOException with stream: i
+
+# Created at 2018-10-02T16:45:32.869
+Unexpected IOException with stream: v
+
+# Created at 2018-10-02T16:45:32.869
+Unexpected IOException with stream: e
+
+# Created at 2018-10-02T16:45:32.869
+Unexpected IOException with stream: r
+
+# Created at 2018-10-02T16:45:32.869
+Unexpected IOException with stream:  
+
+# Created at 2018-10-02T16:45:32.870
+Unexpected IOException with stream: 2
+
+# Created at 2018-10-02T16:45:32.871
+Unexpected IOException with stream: .
+
+# Created at 2018-10-02T16:45:32.872
+Unexpected IOException with stream: 3
+
+# Created at 2018-10-02T16:45:32.872
+Unexpected IOException with stream: 7
+
+# Created at 2018-10-02T16:45:32.873
+Unexpected IOException with stream: .
+
+# Created at 2018-10-02T16:45:32.874
+Unexpected IOException with stream: 5
+
+# Created at 2018-10-02T16:45:32.875
+Unexpected IOException with stream: 4
+
+# Created at 2018-10-02T16:45:32.875
+Unexpected IOException with stream: 4
+
+# Created at 2018-10-02T16:45:32.876
+Unexpected IOException with stream: 3
+
+# Created at 2018-10-02T16:45:32.877
+Unexpected IOException with stream: 1
+
+# Created at 2018-10-02T16:45:32.877
+Unexpected IOException with stream: 5
+
+# Created at 2018-10-02T16:45:32.878
+Unexpected IOException with stream:  
+
+# Created at 2018-10-02T16:45:32.879
+Unexpected IOException with stream: (
+
+# Created at 2018-10-02T16:45:32.880
+Unexpected IOException with stream: 7
+
+# Created at 2018-10-02T16:45:32.880
+Unexpected IOException with stream: 3
+
+# Created at 2018-10-02T16:45:32.881
+Unexpected IOException with stream: 0
+
+# Created at 2018-10-02T16:45:32.881
+Unexpected IOException with stream: a
+
+# Created at 2018-10-02T16:45:32.881
+Unexpected IOException with stream: a
+
+# Created at 2018-10-02T16:45:32.881
+Unexpected IOException with stream: 6
+
+# Created at 2018-10-02T16:45:32.882
+Unexpected IOException with stream: a
+
+# Created at 2018-10-02T16:45:32.882
+Unexpected IOException with stream: 5
+
+# Created at 2018-10-02T16:45:32.882
+Unexpected IOException with stream: f
+
+# Created at 2018-10-02T16:45:32.882
+Unexpected IOException with stream: d
+
+# Created at 2018-10-02T16:45:32.882
+Unexpected IOException with stream: b
+
+# Created at 2018-10-02T16:45:32.883
+Unexpected IOException with stream: a
+
+# Created at 2018-10-02T16:45:32.884
+Unexpected IOException with stream: 1
+
+# Created at 2018-10-02T16:45:32.885
+Unexpected IOException with stream: 5
+
+# Created at 2018-10-02T16:45:32.886
+Unexpected IOException with stream: 9
+
+# Created at 2018-10-02T16:45:32.887
+Unexpected IOException with stream: a
+
+# Created at 2018-10-02T16:45:32.887
+Unexpected IOException with stream: c
+
+# Created at 2018-10-02T16:45:32.888
+Unexpected IOException with stream: 9
+
+# Created at 2018-10-02T16:45:32.889
+Unexpected IOException with stream: f
+
+# Created at 2018-10-02T16:45:32.890
+Unexpected IOException with stream: 4
+
+# Created at 2018-10-02T16:45:32.890
+Unexpected IOException with stream: c
+
+# Created at 2018-10-02T16:45:32.891
+Unexpected IOException with stream: 1
+
+# Created at 2018-10-02T16:45:32.892
+Unexpected IOException with stream: e
+
+# Created at 2018-10-02T16:45:32.892
+Unexpected IOException with stream: 8
+
+# Created at 2018-10-02T16:45:32.893
+Unexpected IOException with stream: c
+
+# Created at 2018-10-02T16:45:32.894
+Unexpected IOException with stream: b
+
+# Created at 2018-10-02T16:45:32.895
+Unexpected IOException with stream: c
+
+# Created at 2018-10-02T16:45:32.895
+Unexpected IOException with stream: 5
+
+# Created at 2018-10-02T16:45:32.896
+Unexpected IOException with stream: 9
+
+# Created at 2018-10-02T16:45:32.897
+Unexpected IOException with stream: b
+
+# Created at 2018-10-02T16:45:32.898
+Unexpected IOException with stream: f
+
+# Created at 2018-10-02T16:45:32.898
+Unexpected IOException with stream: 1
+
+# Created at 2018-10-02T16:45:32.899
+Unexpected IOException with stream: b
+
+# Created at 2018-10-02T16:45:32.900
+Unexpected IOException with stream: 5
+
+# Created at 2018-10-02T16:45:32.900
+Unexpected IOException with stream: c
+
+# Created at 2018-10-02T16:45:32.901
+Unexpected IOException with stream: e
+
+# Created at 2018-10-02T16:45:32.902
+Unexpected IOException with stream: 1
+
+# Created at 2018-10-02T16:45:32.903
+Unexpected IOException with stream: 2
+
+# Created at 2018-10-02T16:45:32.903
+Unexpected IOException with stream: b
+
+# Created at 2018-10-02T16:45:32.904
+Unexpected IOException with stream: 7
+
+# Created at 2018-10-02T16:45:32.905
+Unexpected IOException with stream: )
+
+# Created at 2018-10-02T16:45:32.906
+Unexpected IOException with stream:  
+
+# Created at 2018-10-02T16:45:32.906
+Unexpected IOException with stream: o
+
+# Created at 2018-10-02T16:45:32.907
+Unexpected IOException with stream: n
+
+# Created at 2018-10-02T16:45:32.908
+Unexpected IOException with stream:  
+
+# Created at 2018-10-02T16:45:32.908
+Unexpected IOException with stream: p
+
+# Created at 2018-10-02T16:45:32.909
+Unexpected IOException with stream: o
+
+# Created at 2018-10-02T16:45:32.910
+Unexpected IOException with stream: r
+
+# Created at 2018-10-02T16:45:32.911
+Unexpected IOException with stream: t
+
+# Created at 2018-10-02T16:45:32.911
+Unexpected IOException with stream:  
+
+# Created at 2018-10-02T16:45:32.912
+Unexpected IOException with stream: 1
+
+# Created at 2018-10-02T16:45:32.913
+Unexpected IOException with stream: 4
+
+# Created at 2018-10-02T16:45:32.913
+Unexpected IOException with stream: 3
+
+# Created at 2018-10-02T16:45:32.914
+Unexpected IOException with stream: 1
+
+# Created at 2018-10-02T16:45:32.915
+Unexpected IOException with stream: 1
+
+# Created at 2018-10-02T16:45:32.915
+Unexpected IOException with stream: 
+
+# Created at 2018-10-02T16:45:32.916
+Unexpected IOException with stream: 
+
+
+# Created at 2018-10-02T16:45:32.917
+Unexpected IOException with stream: O
+
+# Created at 2018-10-02T16:45:32.918
+Unexpected IOException with stream: n
+
+# Created at 2018-10-02T16:45:32.918
+Unexpected IOException with stream: l
+
+# Created at 2018-10-02T16:45:32.918
+Unexpected IOException with stream: y
+
+# Created at 2018-10-02T16:45:32.919
+Unexpected IOException with stream:  
+
+# Created at 2018-10-02T16:45:32.920
+Unexpected IOException with stream: l
+
+# Created at 2018-10-02T16:45:32.921
+Unexpected IOException with stream: o
+
+# Created at 2018-10-02T16:45:32.921
+Unexpected IOException with stream: c
+
+# Created at 2018-10-02T16:45:32.922
+Unexpected IOException with stream: a
+
+# Created at 2018-10-02T16:45:32.923
+Unexpected IOException with stream: l
+
+# Created at 2018-10-02T16:45:32.923
+Unexpected IOException with stream:  
+
+# Created at 2018-10-02T16:45:32.924
+Unexpected IOException with stream: c
+
+# Created at 2018-10-02T16:45:32.925
+Unexpected IOException with stream: o
+
+# Created at 2018-10-02T16:45:32.926
+Unexpected IOException with stream: n
+
+# Created at 2018-10-02T16:45:32.926
+Unexpected IOException with stream: n
+
+# Created at 2018-10-02T16:45:32.927
+Unexpected IOException with stream: e
+
+# Created at 2018-10-02T16:45:32.928
+Unexpected IOException with stream: c
+
+# Created at 2018-10-02T16:45:32.928
+Unexpected IOException with stream: t
+
+# Created at 2018-10-02T16:45:32.929
+Unexpected IOException with stream: i
+
+# Created at 2018-10-02T16:45:32.930
+Unexpected IOException with stream: o
+
+# Created at 2018-10-02T16:45:32.931
+Unexpected IOException with stream: n
+
+# Created at 2018-10-02T16:45:32.931
+Unexpected IOException with stream: s
+
+# Created at 2018-10-02T16:45:32.932
+Unexpected IOException with stream:  
+
+# Created at 2018-10-02T16:45:32.933
+Unexpected IOException with stream: a
+
+# Created at 2018-10-02T16:45:32.933
+Unexpected IOException with stream: r
+
+# Created at 2018-10-02T16:45:32.934
+Unexpected IOException with stream: e
+
+# Created at 2018-10-02T16:45:32.935
+Unexpected IOException with stream:  
+
+# Created at 2018-10-02T16:45:32.936
+Unexpected IOException with stream: a
+
+# Created at 2018-10-02T16:45:32.936
+Unexpected IOException with stream: l
+
+# Created at 2018-10-02T16:45:32.937
+Unexpected IOException with stream: l
+
+# Created at 2018-10-02T16:45:32.938
+Unexpected IOException with stream: o
+
+# Created at 2018-10-02T16:45:32.939
+Unexpected IOException with stream: w
+
+# Created at 2018-10-02T16:45:32.940
+Unexpected IOException with stream: e
+
+# Created at 2018-10-02T16:45:32.940
+Unexpected IOException with stream: d
+
+# Created at 2018-10-02T16:45:32.941
+Unexpected IOException with stream: .
+
+# Created at 2018-10-02T16:45:32.942
+Unexpected IOException with stream: 
+
+# Created at 2018-10-02T16:45:32.943
+Unexpected IOException with stream: 
+
+
+# Created at 2018-10-02T16:45:35.137
+Unexpected IOException with stream: окт 02, 2018 4:45:35 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+
+
+# Created at 2018-10-02T16:45:44.341
+Unexpected IOException: 6,1,tests.TestTranslationToLangs,testTranslationToOtherLangs[5](tests.TestTranslationToLangs),null,null,null
+
+
+# Created at 2018-10-02T16:45:44.345
+Unexpected IOException with stream: 2018-10-02 16:45:44 INFO  WebDriverListener:50 - Test finished: testTranslationToOtherLangs[5](tests.TestTranslationToLangs)
+
+
+# Created at 2018-10-02T16:45:44.345
+Unexpected IOException with stream: 2018-10-02 16:45:44 INFO  WebDriverListener:51 - --------------------------------------
+
+
+# Created at 2018-10-02T16:45:44.346
+Unexpected IOException with stream: 2018-10-02 16:45:44 INFO  WebDriverListener:50 - Test finished: testTranslationToOtherLangs[5](tests.TestTranslationToLangs)
+
+
+# Created at 2018-10-02T16:45:44.347
+Unexpected IOException with stream: 2018-10-02 16:45:44 INFO  WebDriverListener:51 - --------------------------------------
+
+
+# Created at 2018-10-02T16:45:44.348
+Unexpected IOException with stream: 2018-10-02 16:45:44 INFO  WebDriverListener:50 - Test finished: testTranslationToOtherLangs[5](tests.TestTranslationToLangs)
+
+
+# Created at 2018-10-02T16:45:44.349
+Unexpected IOException with stream: 2018-10-02 16:45:44 INFO  WebDriverListener:51 - --------------------------------------
+
+
+# Created at 2018-10-02T16:45:44.350
+Unexpected IOException with stream: 2018-10-02 16:45:44 INFO  WebDriverListener:50 - Test finished: testTranslationToOtherLangs[5](tests.TestTranslationToLangs)
+
+
+# Created at 2018-10-02T16:45:44.351
+Unexpected IOException with stream: 2018-10-02 16:45:44 INFO  WebDriverListener:51 - --------------------------------------
+
+
+# Created at 2018-10-02T16:45:44.352
+Unexpected IOException with stream: 2018-10-02 16:45:44 INFO  WebDriverListener:50 - Test finished: testTranslationToOtherLangs[5](tests.TestTranslationToLangs)
+
+
+# Created at 2018-10-02T16:45:44.353
+Unexpected IOException with stream: 2018-10-02 16:45:44 INFO  WebDriverListener:51 - --------------------------------------
+
+
+# Created at 2018-10-02T16:45:44.353
+Unexpected IOException with stream: 2018-10-02 16:45:44 INFO  WebDriverListener:50 - Test finished: testTranslationToOtherLangs[5](tests.TestTranslationToLangs)
+
+
+# Created at 2018-10-02T16:45:44.353
+Unexpected IOException with stream: 2018-10-02 16:45:44 INFO  WebDriverListener:51 - --------------------------------------
+
+
+# Created at 2018-10-02T16:45:44.354
+Unexpected IOException: 5,1,tests.TestTranslationToLangs,testTranslationToOtherLangs[6](tests.TestTranslationToLangs),null,null,null
+
+
+# Created at 2018-10-02T16:45:44.357
+Unexpected IOException with stream: 2018-10-02 16:45:44 INFO  WebDriverListener:43 - Test starts: testTranslationToOtherLangs[6](tests.TestTranslationToLangs)
+
+
+# Created at 2018-10-02T16:45:44.358
+Unexpected IOException with stream: 2018-10-02 16:45:44 INFO  WebDriverListener:43 - Test starts: testTranslationToOtherLangs[6](tests.TestTranslationToLangs)
+
+
+# Created at 2018-10-02T16:45:44.359
+Unexpected IOException with stream: 2018-10-02 16:45:44 INFO  WebDriverListener:43 - Test starts: testTranslationToOtherLangs[6](tests.TestTranslationToLangs)
+
+
+# Created at 2018-10-02T16:45:44.359
+Unexpected IOException with stream: 2018-10-02 16:45:44 INFO  WebDriverListener:43 - Test starts: testTranslationToOtherLangs[6](tests.TestTranslationToLangs)
+
+
+# Created at 2018-10-02T16:45:44.361
+Unexpected IOException with stream: 2018-10-02 16:45:44 INFO  WebDriverListener:43 - Test starts: testTranslationToOtherLangs[6](tests.TestTranslationToLangs)
+
+
+# Created at 2018-10-02T16:45:44.363
+Unexpected IOException with stream: 2018-10-02 16:45:44 INFO  WebDriverListener:43 - Test starts: testTranslationToOtherLangs[6](tests.TestTranslationToLangs)
+
+
+# Created at 2018-10-02T16:45:44.363
+Unexpected IOException with stream: 2018-10-02 16:45:44 INFO  WebDriverListener:43 - Test starts: testTranslationToOtherLangs[6](tests.TestTranslationToLangs)
+
+
+# Created at 2018-10-02T16:45:44.387
+Unexpected IOException with stream: S
+
+# Created at 2018-10-02T16:45:44.388
+Unexpected IOException with stream: t
+
+# Created at 2018-10-02T16:45:44.388
+Unexpected IOException with stream: a
+
+# Created at 2018-10-02T16:45:44.389
+Unexpected IOException with stream: r
+
+# Created at 2018-10-02T16:45:44.389
+Unexpected IOException with stream: t
+
+# Created at 2018-10-02T16:45:44.390
+Unexpected IOException with stream: i
+
+# Created at 2018-10-02T16:45:44.391
+Unexpected IOException with stream: n
+
+# Created at 2018-10-02T16:45:44.392
+Unexpected IOException with stream: g
+
+# Created at 2018-10-02T16:45:44.392
+Unexpected IOException with stream:  
+
+# Created at 2018-10-02T16:45:44.393
+Unexpected IOException with stream: C
+
+# Created at 2018-10-02T16:45:44.394
+Unexpected IOException with stream: h
+
+# Created at 2018-10-02T16:45:44.394
+Unexpected IOException with stream: r
+
+# Created at 2018-10-02T16:45:44.395
+Unexpected IOException with stream: o
+
+# Created at 2018-10-02T16:45:44.396
+Unexpected IOException with stream: m
+
+# Created at 2018-10-02T16:45:44.397
+Unexpected IOException with stream: e
+
+# Created at 2018-10-02T16:45:44.397
+Unexpected IOException with stream: D
+
+# Created at 2018-10-02T16:45:44.398
+Unexpected IOException with stream: r
+
+# Created at 2018-10-02T16:45:44.399
+Unexpected IOException with stream: i
+
+# Created at 2018-10-02T16:45:44.399
+Unexpected IOException with stream: v
+
+# Created at 2018-10-02T16:45:44.400
+Unexpected IOException with stream: e
+
+# Created at 2018-10-02T16:45:44.401
+Unexpected IOException with stream: r
+
+# Created at 2018-10-02T16:45:44.401
+Unexpected IOException with stream:  
+
+# Created at 2018-10-02T16:45:44.402
+Unexpected IOException with stream: 2
+
+# Created at 2018-10-02T16:45:44.403
+Unexpected IOException with stream: .
+
+# Created at 2018-10-02T16:45:44.404
+Unexpected IOException with stream: 3
+
+# Created at 2018-10-02T16:45:44.404
+Unexpected IOException with stream: 7
+
+# Created at 2018-10-02T16:45:44.405
+Unexpected IOException with stream: .
+
+# Created at 2018-10-02T16:45:44.406
+Unexpected IOException with stream: 5
+
+# Created at 2018-10-02T16:45:44.407
+Unexpected IOException with stream: 4
+
+# Created at 2018-10-02T16:45:44.407
+Unexpected IOException with stream: 4
+
+# Created at 2018-10-02T16:45:44.408
+Unexpected IOException with stream: 3
+
+# Created at 2018-10-02T16:45:44.409
+Unexpected IOException with stream: 1
+
+# Created at 2018-10-02T16:45:44.410
+Unexpected IOException with stream: 5
+
+# Created at 2018-10-02T16:45:44.410
+Unexpected IOException with stream:  
+
+# Created at 2018-10-02T16:45:44.411
+Unexpected IOException with stream: (
+
+# Created at 2018-10-02T16:45:44.412
+Unexpected IOException with stream: 7
+
+# Created at 2018-10-02T16:45:44.412
+Unexpected IOException with stream: 3
+
+# Created at 2018-10-02T16:45:44.413
+Unexpected IOException with stream: 0
+
+# Created at 2018-10-02T16:45:44.414
+Unexpected IOException with stream: a
+
+# Created at 2018-10-02T16:45:44.415
+Unexpected IOException with stream: a
+
+# Created at 2018-10-02T16:45:44.415
+Unexpected IOException with stream: 6
+
+# Created at 2018-10-02T16:45:44.416
+Unexpected IOException with stream: a
+
+# Created at 2018-10-02T16:45:44.417
+Unexpected IOException with stream: 5
+
+# Created at 2018-10-02T16:45:44.418
+Unexpected IOException with stream: f
+
+# Created at 2018-10-02T16:45:44.418
+Unexpected IOException with stream: d
+
+# Created at 2018-10-02T16:45:44.419
+Unexpected IOException with stream: b
+
+# Created at 2018-10-02T16:45:44.420
+Unexpected IOException with stream: a
+
+# Created at 2018-10-02T16:45:44.420
+Unexpected IOException with stream: 1
+
+# Created at 2018-10-02T16:45:44.421
+Unexpected IOException with stream: 5
+
+# Created at 2018-10-02T16:45:44.422
+Unexpected IOException with stream: 9
+
+# Created at 2018-10-02T16:45:44.422
+Unexpected IOException with stream: a
+
+# Created at 2018-10-02T16:45:44.423
+Unexpected IOException with stream: c
+
+# Created at 2018-10-02T16:45:44.424
+Unexpected IOException with stream: 9
+
+# Created at 2018-10-02T16:45:44.425
+Unexpected IOException with stream: f
+
+# Created at 2018-10-02T16:45:44.425
+Unexpected IOException with stream: 4
+
+# Created at 2018-10-02T16:45:44.426
+Unexpected IOException with stream: c
+
+# Created at 2018-10-02T16:45:44.427
+Unexpected IOException with stream: 1
+
+# Created at 2018-10-02T16:45:44.427
+Unexpected IOException with stream: e
+
+# Created at 2018-10-02T16:45:44.428
+Unexpected IOException with stream: 8
+
+# Created at 2018-10-02T16:45:44.429
+Unexpected IOException with stream: c
+
+# Created at 2018-10-02T16:45:44.430
+Unexpected IOException with stream: b
+
+# Created at 2018-10-02T16:45:44.430
+Unexpected IOException with stream: c
+
+# Created at 2018-10-02T16:45:44.431
+Unexpected IOException with stream: 5
+
+# Created at 2018-10-02T16:45:44.432
+Unexpected IOException with stream: 9
+
+# Created at 2018-10-02T16:45:44.433
+Unexpected IOException with stream: b
+
+# Created at 2018-10-02T16:45:44.433
+Unexpected IOException with stream: f
+
+# Created at 2018-10-02T16:45:44.434
+Unexpected IOException with stream: 1
+
+# Created at 2018-10-02T16:45:44.435
+Unexpected IOException with stream: b
+
+# Created at 2018-10-02T16:45:44.435
+Unexpected IOException with stream: 5
+
+# Created at 2018-10-02T16:45:44.436
+Unexpected IOException with stream: c
+
+# Created at 2018-10-02T16:45:44.437
+Unexpected IOException with stream: e
+
+# Created at 2018-10-02T16:45:44.438
+Unexpected IOException with stream: 1
+
+# Created at 2018-10-02T16:45:44.438
+Unexpected IOException with stream: 2
+
+# Created at 2018-10-02T16:45:44.439
+Unexpected IOException with stream: b
+
+# Created at 2018-10-02T16:45:44.440
+Unexpected IOException with stream: 7
+
+# Created at 2018-10-02T16:45:44.440
+Unexpected IOException with stream: )
+
+# Created at 2018-10-02T16:45:44.441
+Unexpected IOException with stream:  
+
+# Created at 2018-10-02T16:45:44.442
+Unexpected IOException with stream: o
+
+# Created at 2018-10-02T16:45:44.443
+Unexpected IOException with stream: n
+
+# Created at 2018-10-02T16:45:44.443
+Unexpected IOException with stream:  
+
+# Created at 2018-10-02T16:45:44.444
+Unexpected IOException with stream: p
+
+# Created at 2018-10-02T16:45:44.445
+Unexpected IOException with stream: o
+
+# Created at 2018-10-02T16:45:44.445
+Unexpected IOException with stream: r
+
+# Created at 2018-10-02T16:45:44.446
+Unexpected IOException with stream: t
+
+# Created at 2018-10-02T16:45:44.447
+Unexpected IOException with stream:  
+
+# Created at 2018-10-02T16:45:44.447
+Unexpected IOException with stream: 2
+
+# Created at 2018-10-02T16:45:44.448
+Unexpected IOException with stream: 8
+
+# Created at 2018-10-02T16:45:44.449
+Unexpected IOException with stream: 1
+
+# Created at 2018-10-02T16:45:44.450
+Unexpected IOException with stream: 8
+
+# Created at 2018-10-02T16:45:44.450
+Unexpected IOException with stream: 
+
+# Created at 2018-10-02T16:45:44.451
+Unexpected IOException with stream: 
+
+
+# Created at 2018-10-02T16:45:44.452
+Unexpected IOException with stream: O
+
+# Created at 2018-10-02T16:45:44.452
+Unexpected IOException with stream: n
+
+# Created at 2018-10-02T16:45:44.453
+Unexpected IOException with stream: l
+
+# Created at 2018-10-02T16:45:44.454
+Unexpected IOException with stream: y
+
+# Created at 2018-10-02T16:45:44.455
+Unexpected IOException with stream:  
+
+# Created at 2018-10-02T16:45:44.455
+Unexpected IOException with stream: l
+
+# Created at 2018-10-02T16:45:44.456
+Unexpected IOException with stream: o
+
+# Created at 2018-10-02T16:45:44.457
+Unexpected IOException with stream: c
+
+# Created at 2018-10-02T16:45:44.457
+Unexpected IOException with stream: a
+
+# Created at 2018-10-02T16:45:44.458
+Unexpected IOException with stream: l
+
+# Created at 2018-10-02T16:45:44.459
+Unexpected IOException with stream:  
+
+# Created at 2018-10-02T16:45:44.460
+Unexpected IOException with stream: c
+
+# Created at 2018-10-02T16:45:44.460
+Unexpected IOException with stream: o
+
+# Created at 2018-10-02T16:45:44.461
+Unexpected IOException with stream: n
+
+# Created at 2018-10-02T16:45:44.462
+Unexpected IOException with stream: n
+
+# Created at 2018-10-02T16:45:44.462
+Unexpected IOException with stream: e
+
+# Created at 2018-10-02T16:45:44.463
+Unexpected IOException with stream: c
+
+# Created at 2018-10-02T16:45:44.464
+Unexpected IOException with stream: t
+
+# Created at 2018-10-02T16:45:44.464
+Unexpected IOException with stream: i
+
+# Created at 2018-10-02T16:45:44.465
+Unexpected IOException with stream: o
+
+# Created at 2018-10-02T16:45:44.466
+Unexpected IOException with stream: n
+
+# Created at 2018-10-02T16:45:44.467
+Unexpected IOException with stream: s
+
+# Created at 2018-10-02T16:45:44.467
+Unexpected IOException with stream:  
+
+# Created at 2018-10-02T16:45:44.468
+Unexpected IOException with stream: a
+
+# Created at 2018-10-02T16:45:44.469
+Unexpected IOException with stream: r
+
+# Created at 2018-10-02T16:45:44.470
+Unexpected IOException with stream: e
+
+# Created at 2018-10-02T16:45:44.470
+Unexpected IOException with stream:  
+
+# Created at 2018-10-02T16:45:44.471
+Unexpected IOException with stream: a
+
+# Created at 2018-10-02T16:45:44.472
+Unexpected IOException with stream: l
+
+# Created at 2018-10-02T16:45:44.472
+Unexpected IOException with stream: l
+
+# Created at 2018-10-02T16:45:44.473
+Unexpected IOException with stream: o
+
+# Created at 2018-10-02T16:45:44.474
+Unexpected IOException with stream: w
+
+# Created at 2018-10-02T16:45:44.475
+Unexpected IOException with stream: e
+
+# Created at 2018-10-02T16:45:44.475
+Unexpected IOException with stream: d
+
+# Created at 2018-10-02T16:45:44.476
+Unexpected IOException with stream: .
+
+# Created at 2018-10-02T16:45:44.477
+Unexpected IOException with stream: 
+
+# Created at 2018-10-02T16:45:44.477
+Unexpected IOException with stream: 
+
+
+# Created at 2018-10-02T16:45:46.688
+Unexpected IOException with stream: окт 02, 2018 4:45:46 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+
+
+# Created at 2018-10-02T16:45:50.022
+Unexpected IOException: 7,1,tests.TestTranslationToLangs,testTranslationToOtherLangs[6](tests.TestTranslationToLangs),null,stale element reference: element is not attached to the page document\000A  (Session info: chrome=69.0.3497.100)\000A  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7)\002Cplatform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 0 milliseconds\000AFor documentation on this error\002C please visit: http://seleniumhq.org/exceptions/stale_element_reference.html\000ABuild info: version: '3.12.0'\002C revision: '7c6e0b3'\002C time: '2018-05-08T14:04:26.12Z'\000ASystem info: host: 'BONDARENKO'\002C ip: '172.20.1.75'\002C os.name: 'Windows 7'\002C os.arch: 'amd64'\002C os.version: '6.1'\002C java.version: '1.8.0_172'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C acceptSslCerts: false\002C applicationCacheEnabled: false\002C browserConnectionEnabled: false\002C browserName: chrome\002C chrome: {chromedriverVersion: 2.37.544315 (730aa6a5fdba15...\002C userDataDir: C:\005CUsers\005CBONDAR~1\005CAppData\005CL...}\002C cssSelectorsEnabled: true\002C databaseEnabled: false\002C handlesAlerts: true\002C hasTouchScreen: false\002C javascriptEnabled: true\002C locationContextEnabled: true\002C mobileEmulationEnabled: false\002C nativeEvents: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: XP\002C platformName: XP\002C rotatable: false\002C setWindowRect: true\002C takesHeapSnapshot: true\002C takesScreenshot: true\002C unexpectedAlertBehaviour: \002C unhandledPromptBehavior: \002C version: 69.0.3497.100\002C webStorageEnabled: true}\000ASession ID: 58a6138b8fb89e9b7124491a028b15ae,null,stale element reference: element is not attached to the page document\000A  (Session info: chrome=69.0.3497.100)\000A  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7)\002Cplatform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 0 milliseconds\000AFor documentation on this error\002C please visit: http://seleniumhq.org/exceptions/stale_element_reference.html\000ABuild info: version: '3.12.0'\002C revision: '7c6e0b3'\002C time: '2018-05-08T14:04:26.12Z'\000ASystem info: host: 'BONDARENKO'\002C ip: '172.20.1.75'\002C os.name: 'Windows 7'\002C os.arch: 'amd64'\002C os.version: '6.1'\002C java.version: '1.8.0_172'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C acceptSslCerts: false\002C applicationCacheEnabled: false\002C browserConnectionEnabled: false\002C browserName: chrome\002C chrome: {chromedriverVersion: 2.37.544315 (730aa6a5fdba15...\002C userDataDir: C:\005CUsers\005CBONDAR~1\005CAppData\005CL...}\002C cssSelectorsEnabled: true\002C databaseEnabled: false\002C handlesAlerts: true\002C hasTouchScreen: false\002C javascriptEnabled: true\002C locationContextEnabled: true\002C mobileEmulationEnabled: false\002C nativeEvents: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: XP\002C platformName: XP\002C rotatable: false\002C setWindowRect: true\002C takesHeapSnapshot: true\002C takesScreenshot: true\002C unexpectedAlertBehaviour: \002C unhandledPromptBehavior: \002C version: 69.0.3497.100\002C webStorageEnabled: true}\000ASession ID: 58a6138b8fb89e9b7124491a028b15ae,TestTranslationToLangs.testTranslationToOtherLangs:41 \00BB StaleElementReference ...,org.openqa.selenium.StaleElementReferenceException: \000Astale element reference: element is not attached to the page document\000A  (Session info: chrome=69.0.3497.100)\000A  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7)\002Cplatform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 0 milliseconds\000AFor documentation on this error\002C please visit: http://seleniumhq.org/exceptions/stale_element_reference.html\000ABuild info: version: '3.12.0'\002C revision: '7c6e0b3'\002C time: '2018-05-08T14:04:26.12Z'\000ASystem info: host: 'BONDARENKO'\002C ip: '172.20.1.75'\002C os.name: 'Windows 7'\002C os.arch: 'amd64'\002C os.version: '6.1'\002C java.version: '1.8.0_172'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C acceptSslCerts: false\002C applicationCacheEnabled: false\002C browserConnectionEnabled: false\002C browserName: chrome\002C chrome: {chromedriverVersion: 2.37.544315 (730aa6a5fdba15...\002C userDataDir: C:\005CUsers\005CBONDAR~1\005CAppData\005CL...}\002C cssSelectorsEnabled: true\002C databaseEnabled: false\002C handlesAlerts: true\002C hasTouchScreen: false\002C javascriptEnabled: true\002C locationContextEnabled: true\002C mobileEmulationEnabled: false\002C nativeEvents: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: XP\002C platformName: XP\002C rotatable: false\002C setWindowRect: true\002C takesHeapSnapshot: true\002C takesScreenshot: true\002C unexpectedAlertBehaviour: \002C unhandledPromptBehavior: \002C version: 69.0.3497.100\002C webStorageEnabled: true}\000ASession ID: 58a6138b8fb89e9b7124491a028b15ae\000A\0009at tests.TestTranslationToLangs.testTranslationToOtherLangs(TestTranslationToLangs.java:41)\000A
+
+
+# Created at 2018-10-02T16:45:50.024
+Unexpected IOException with stream: 2018-10-02 16:45:50 ERROR WebDriverListener:57 - Test failed with: org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'BONDARENKO', ip: '172.20.1.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.37.544315 (730aa6a5fdba15..., userDataDir: C:\Users\BONDAR~1\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
+Session ID: 58a6138b8fb89e9b7124491a028b15ae
+
+
+# Created at 2018-10-02T16:45:50.025
+Unexpected IOException with stream: 2018-10-02 16:45:50 ERROR WebDriverListener:57 - Test failed with: org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'BONDARENKO', ip: '172.20.1.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.37.544315 (730aa6a5fdba15..., userDataDir: C:\Users\BONDAR~1\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
+Session ID: 58a6138b8fb89e9b7124491a028b15ae
+
+
+# Created at 2018-10-02T16:45:50.026
+Unexpected IOException with stream: 2018-10-02 16:45:50 ERROR WebDriverListener:57 - Test failed with: org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'BONDARENKO', ip: '172.20.1.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.37.544315 (730aa6a5fdba15..., userDataDir: C:\Users\BONDAR~1\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
+Session ID: 58a6138b8fb89e9b7124491a028b15ae
+
+
+# Created at 2018-10-02T16:45:50.027
+Unexpected IOException with stream: 2018-10-02 16:45:50 ERROR WebDriverListener:57 - Test failed with: org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'BONDARENKO', ip: '172.20.1.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.37.544315 (730aa6a5fdba15..., userDataDir: C:\Users\BONDAR~1\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
+Session ID: 58a6138b8fb89e9b7124491a028b15ae
+
+
+# Created at 2018-10-02T16:45:50.029
+Unexpected IOException with stream: 2018-10-02 16:45:50 ERROR WebDriverListener:57 - Test failed with: org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'BONDARENKO', ip: '172.20.1.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.37.544315 (730aa6a5fdba15..., userDataDir: C:\Users\BONDAR~1\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
+Session ID: 58a6138b8fb89e9b7124491a028b15ae
+
+
+# Created at 2018-10-02T16:45:50.030
+Unexpected IOException with stream: 2018-10-02 16:45:50 ERROR WebDriverListener:57 - Test failed with: org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'BONDARENKO', ip: '172.20.1.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.37.544315 (730aa6a5fdba15..., userDataDir: C:\Users\BONDAR~1\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
+Session ID: 58a6138b8fb89e9b7124491a028b15ae
+
+
+# Created at 2018-10-02T16:45:50.032
+Unexpected IOException with stream: 2018-10-02 16:45:50 ERROR WebDriverListener:57 - Test failed with: org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'BONDARENKO', ip: '172.20.1.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.37.544315 (730aa6a5fdba15..., userDataDir: C:\Users\BONDAR~1\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
+Session ID: 58a6138b8fb89e9b7124491a028b15ae
+
+
+# Created at 2018-10-02T16:45:50.035
+Unexpected IOException with stream: 2018-10-02 16:45:50 INFO  WebDriverListener:50 - Test finished: testTranslationToOtherLangs[6](tests.TestTranslationToLangs)
+
+
+# Created at 2018-10-02T16:45:50.036
+Unexpected IOException with stream: 2018-10-02 16:45:50 INFO  WebDriverListener:51 - --------------------------------------
+
+
+# Created at 2018-10-02T16:45:50.037
+Unexpected IOException with stream: 2018-10-02 16:45:50 INFO  WebDriverListener:50 - Test finished: testTranslationToOtherLangs[6](tests.TestTranslationToLangs)
+
+
+# Created at 2018-10-02T16:45:50.037
+Unexpected IOException with stream: 2018-10-02 16:45:50 INFO  WebDriverListener:51 - --------------------------------------
+
+
+# Created at 2018-10-02T16:45:50.038
+Unexpected IOException with stream: 2018-10-02 16:45:50 INFO  WebDriverListener:50 - Test finished: testTranslationToOtherLangs[6](tests.TestTranslationToLangs)
+
+
+# Created at 2018-10-02T16:45:50.039
+Unexpected IOException with stream: 2018-10-02 16:45:50 INFO  WebDriverListener:51 - --------------------------------------
+
+
+# Created at 2018-10-02T16:45:50.040
+Unexpected IOException with stream: 2018-10-02 16:45:50 INFO  WebDriverListener:50 - Test finished: testTranslationToOtherLangs[6](tests.TestTranslationToLangs)
+
+
+# Created at 2018-10-02T16:45:50.041
+Unexpected IOException with stream: 2018-10-02 16:45:50 INFO  WebDriverListener:51 - --------------------------------------
+
+
+# Created at 2018-10-02T16:45:50.042
+Unexpected IOException with stream: 2018-10-02 16:45:50 INFO  WebDriverListener:50 - Test finished: testTranslationToOtherLangs[6](tests.TestTranslationToLangs)
+
+
+# Created at 2018-10-02T16:45:50.043
+Unexpected IOException with stream: 2018-10-02 16:45:50 INFO  WebDriverListener:51 - --------------------------------------
+
+
+# Created at 2018-10-02T16:45:50.043
+Unexpected IOException with stream: 2018-10-02 16:45:50 INFO  WebDriverListener:50 - Test finished: testTranslationToOtherLangs[6](tests.TestTranslationToLangs)
+
+
+# Created at 2018-10-02T16:45:50.044
+Unexpected IOException with stream: 2018-10-02 16:45:50 INFO  WebDriverListener:51 - --------------------------------------
+
+
+# Created at 2018-10-02T16:45:50.045
+Unexpected IOException with stream: 2018-10-02 16:45:50 INFO  WebDriverListener:50 - Test finished: testTranslationToOtherLangs[6](tests.TestTranslationToLangs)
+
+
+# Created at 2018-10-02T16:45:50.047
+Unexpected IOException with stream: 2018-10-02 16:45:50 INFO  WebDriverListener:51 - --------------------------------------
+
+
+# Created at 2018-10-02T16:45:50.047
+Unexpected IOException: 5,1,tests.TestTranslationToLangs,testTranslationToOtherLangs[7](tests.TestTranslationToLangs),null,null,null
+
+
+# Created at 2018-10-02T16:45:50.050
+Unexpected IOException with stream: 2018-10-02 16:45:50 INFO  WebDriverListener:43 - Test starts: testTranslationToOtherLangs[7](tests.TestTranslationToLangs)
+
+
+# Created at 2018-10-02T16:45:50.052
+Unexpected IOException with stream: 2018-10-02 16:45:50 INFO  WebDriverListener:43 - Test starts: testTranslationToOtherLangs[7](tests.TestTranslationToLangs)
+
+
+# Created at 2018-10-02T16:45:50.054
+Unexpected IOException with stream: 2018-10-02 16:45:50 INFO  WebDriverListener:43 - Test starts: testTranslationToOtherLangs[7](tests.TestTranslationToLangs)
+
+
+# Created at 2018-10-02T16:45:50.056
+Unexpected IOException with stream: 2018-10-02 16:45:50 INFO  WebDriverListener:43 - Test starts: testTranslationToOtherLangs[7](tests.TestTranslationToLangs)
+
+
+# Created at 2018-10-02T16:45:50.057
+Unexpected IOException with stream: 2018-10-02 16:45:50 INFO  WebDriverListener:43 - Test starts: testTranslationToOtherLangs[7](tests.TestTranslationToLangs)
+
+
+# Created at 2018-10-02T16:45:50.059
+Unexpected IOException with stream: 2018-10-02 16:45:50 INFO  WebDriverListener:43 - Test starts: testTranslationToOtherLangs[7](tests.TestTranslationToLangs)
+
+
+# Created at 2018-10-02T16:45:50.061
+Unexpected IOException with stream: 2018-10-02 16:45:50 INFO  WebDriverListener:43 - Test starts: testTranslationToOtherLangs[7](tests.TestTranslationToLangs)
+
+
+# Created at 2018-10-02T16:45:50.062
+Unexpected IOException with stream: 2018-10-02 16:45:50 INFO  WebDriverListener:43 - Test starts: testTranslationToOtherLangs[7](tests.TestTranslationToLangs)
+
+
+# Created at 2018-10-02T16:45:50.083
+Unexpected IOException with stream: S
+
+# Created at 2018-10-02T16:45:50.083
+Unexpected IOException with stream: t
+
+# Created at 2018-10-02T16:45:50.084
+Unexpected IOException with stream: a
+
+# Created at 2018-10-02T16:45:50.085
+Unexpected IOException with stream: r
+
+# Created at 2018-10-02T16:45:50.086
+Unexpected IOException with stream: t
+
+# Created at 2018-10-02T16:45:50.086
+Unexpected IOException with stream: i
+
+# Created at 2018-10-02T16:45:50.087
+Unexpected IOException with stream: n
+
+# Created at 2018-10-02T16:45:50.088
+Unexpected IOException with stream: g
+
+# Created at 2018-10-02T16:45:50.088
+Unexpected IOException with stream:  
+
+# Created at 2018-10-02T16:45:50.089
+Unexpected IOException with stream: C
+
+# Created at 2018-10-02T16:45:50.090
+Unexpected IOException with stream: h
+
+# Created at 2018-10-02T16:45:50.091
+Unexpected IOException with stream: r
+
+# Created at 2018-10-02T16:45:50.091
+Unexpected IOException with stream: o
+
+# Created at 2018-10-02T16:45:50.092
+Unexpected IOException with stream: m
+
+# Created at 2018-10-02T16:45:50.093
+Unexpected IOException with stream: e
+
+# Created at 2018-10-02T16:45:50.093
+Unexpected IOException with stream: D
+
+# Created at 2018-10-02T16:45:50.094
+Unexpected IOException with stream: r
+
+# Created at 2018-10-02T16:45:50.095
+Unexpected IOException with stream: i
+
+# Created at 2018-10-02T16:45:50.095
+Unexpected IOException with stream: v
+
+# Created at 2018-10-02T16:45:50.096
+Unexpected IOException with stream: e
+
+# Created at 2018-10-02T16:45:50.096
+Unexpected IOException with stream: r
+
+# Created at 2018-10-02T16:45:50.097
+Unexpected IOException with stream:  
+
+# Created at 2018-10-02T16:45:50.098
+Unexpected IOException with stream: 2
+
+# Created at 2018-10-02T16:45:50.098
+Unexpected IOException with stream: .
+
+# Created at 2018-10-02T16:45:50.099
+Unexpected IOException with stream: 3
+
+# Created at 2018-10-02T16:45:50.100
+Unexpected IOException with stream: 7
+
+# Created at 2018-10-02T16:45:50.101
+Unexpected IOException with stream: .
+
+# Created at 2018-10-02T16:45:50.101
+Unexpected IOException with stream: 5
+
+# Created at 2018-10-02T16:45:50.102
+Unexpected IOException with stream: 4
+
+# Created at 2018-10-02T16:45:50.103
+Unexpected IOException with stream: 4
+
+# Created at 2018-10-02T16:45:50.104
+Unexpected IOException with stream: 3
+
+# Created at 2018-10-02T16:45:50.104
+Unexpected IOException with stream: 1
+
+# Created at 2018-10-02T16:45:50.105
+Unexpected IOException with stream: 5
+
+# Created at 2018-10-02T16:45:50.106
+Unexpected IOException with stream:  
+
+# Created at 2018-10-02T16:45:50.106
+Unexpected IOException with stream: (
+
+# Created at 2018-10-02T16:45:50.107
+Unexpected IOException with stream: 7
+
+# Created at 2018-10-02T16:45:50.108
+Unexpected IOException with stream: 3
+
+# Created at 2018-10-02T16:45:50.109
+Unexpected IOException with stream: 0
+
+# Created at 2018-10-02T16:45:50.109
+Unexpected IOException with stream: a
+
+# Created at 2018-10-02T16:45:50.110
+Unexpected IOException with stream: a
+
+# Created at 2018-10-02T16:45:50.111
+Unexpected IOException with stream: 6
+
+# Created at 2018-10-02T16:45:50.111
+Unexpected IOException with stream: a
+
+# Created at 2018-10-02T16:45:50.112
+Unexpected IOException with stream: 5
+
+# Created at 2018-10-02T16:45:50.113
+Unexpected IOException with stream: f
+
+# Created at 2018-10-02T16:45:50.114
+Unexpected IOException with stream: d
+
+# Created at 2018-10-02T16:45:50.114
+Unexpected IOException with stream: b
+
+# Created at 2018-10-02T16:45:50.115
+Unexpected IOException with stream: a
+
+# Created at 2018-10-02T16:45:50.116
+Unexpected IOException with stream: 1
+
+# Created at 2018-10-02T16:45:50.116
+Unexpected IOException with stream: 5
+
+# Created at 2018-10-02T16:45:50.117
+Unexpected IOException with stream: 9
+
+# Created at 2018-10-02T16:45:50.118
+Unexpected IOException with stream: a
+
+# Created at 2018-10-02T16:45:50.119
+Unexpected IOException with stream: c
+
+# Created at 2018-10-02T16:45:50.119
+Unexpected IOException with stream: 9
+
+# Created at 2018-10-02T16:45:50.120
+Unexpected IOException with stream: f
+
+# Created at 2018-10-02T16:45:50.121
+Unexpected IOException with stream: 4
+
+# Created at 2018-10-02T16:45:50.121
+Unexpected IOException with stream: c
+
+# Created at 2018-10-02T16:45:50.122
+Unexpected IOException with stream: 1
+
+# Created at 2018-10-02T16:45:50.123
+Unexpected IOException with stream: e
+
+# Created at 2018-10-02T16:45:50.124
+Unexpected IOException with stream: 8
+
+# Created at 2018-10-02T16:45:50.124
+Unexpected IOException with stream: c
+
+# Created at 2018-10-02T16:45:50.125
+Unexpected IOException with stream: b
+
+# Created at 2018-10-02T16:45:50.126
+Unexpected IOException with stream: c
+
+# Created at 2018-10-02T16:45:50.126
+Unexpected IOException with stream: 5
+
+# Created at 2018-10-02T16:45:50.127
+Unexpected IOException with stream: 9
+
+# Created at 2018-10-02T16:45:50.128
+Unexpected IOException with stream: b
+
+# Created at 2018-10-02T16:45:50.128
+Unexpected IOException with stream: f
+
+# Created at 2018-10-02T16:45:50.129
+Unexpected IOException with stream: 1
+
+# Created at 2018-10-02T16:45:50.130
+Unexpected IOException with stream: b
+
+# Created at 2018-10-02T16:45:50.131
+Unexpected IOException with stream: 5
+
+# Created at 2018-10-02T16:45:50.131
+Unexpected IOException with stream: c
+
+# Created at 2018-10-02T16:45:50.132
+Unexpected IOException with stream: e
+
+# Created at 2018-10-02T16:45:50.133
+Unexpected IOException with stream: 1
+
+# Created at 2018-10-02T16:45:50.133
+Unexpected IOException with stream: 2
+
+# Created at 2018-10-02T16:45:50.134
+Unexpected IOException with stream: b
+
+# Created at 2018-10-02T16:45:50.135
+Unexpected IOException with stream: 7
+
+# Created at 2018-10-02T16:45:50.135
+Unexpected IOException with stream: )
+
+# Created at 2018-10-02T16:45:50.136
+Unexpected IOException with stream:  
+
+# Created at 2018-10-02T16:45:50.137
+Unexpected IOException with stream: o
+
+# Created at 2018-10-02T16:45:50.138
+Unexpected IOException with stream: n
+
+# Created at 2018-10-02T16:45:50.138
+Unexpected IOException with stream:  
+
+# Created at 2018-10-02T16:45:50.139
+Unexpected IOException with stream: p
+
+# Created at 2018-10-02T16:45:50.140
+Unexpected IOException with stream: o
+
+# Created at 2018-10-02T16:45:50.140
+Unexpected IOException with stream: r
+
+# Created at 2018-10-02T16:45:50.141
+Unexpected IOException with stream: t
+
+# Created at 2018-10-02T16:45:50.142
+Unexpected IOException with stream:  
+
+# Created at 2018-10-02T16:45:50.142
+Unexpected IOException with stream: 2
+
+# Created at 2018-10-02T16:45:50.143
+Unexpected IOException with stream: 3
+
+# Created at 2018-10-02T16:45:50.144
+Unexpected IOException with stream: 8
+
+# Created at 2018-10-02T16:45:50.145
+Unexpected IOException with stream: 7
+
+# Created at 2018-10-02T16:45:50.145
+Unexpected IOException with stream: 0
+
+# Created at 2018-10-02T16:45:50.146
+Unexpected IOException with stream: 
+
+# Created at 2018-10-02T16:45:50.147
+Unexpected IOException with stream: 
+
+
+# Created at 2018-10-02T16:45:50.148
+Unexpected IOException with stream: O
+
+# Created at 2018-10-02T16:45:50.148
+Unexpected IOException with stream: n
+
+# Created at 2018-10-02T16:45:50.149
+Unexpected IOException with stream: l
+
+# Created at 2018-10-02T16:45:50.150
+Unexpected IOException with stream: y
+
+# Created at 2018-10-02T16:45:50.150
+Unexpected IOException with stream:  
+
+# Created at 2018-10-02T16:45:50.151
+Unexpected IOException with stream: l
+
+# Created at 2018-10-02T16:45:50.152
+Unexpected IOException with stream: o
+
+# Created at 2018-10-02T16:45:50.153
+Unexpected IOException with stream: c
+
+# Created at 2018-10-02T16:45:50.153
+Unexpected IOException with stream: a
+
+# Created at 2018-10-02T16:45:50.154
+Unexpected IOException with stream: l
+
+# Created at 2018-10-02T16:45:50.155
+Unexpected IOException with stream:  
+
+# Created at 2018-10-02T16:45:50.155
+Unexpected IOException with stream: c
+
+# Created at 2018-10-02T16:45:50.156
+Unexpected IOException with stream: o
+
+# Created at 2018-10-02T16:45:50.157
+Unexpected IOException with stream: n
+
+# Created at 2018-10-02T16:45:50.158
+Unexpected IOException with stream: n
+
+# Created at 2018-10-02T16:45:50.158
+Unexpected IOException with stream: e
+
+# Created at 2018-10-02T16:45:50.159
+Unexpected IOException with stream: c
+
+# Created at 2018-10-02T16:45:50.160
+Unexpected IOException with stream: t
+
+# Created at 2018-10-02T16:45:50.161
+Unexpected IOException with stream: i
+
+# Created at 2018-10-02T16:45:50.161
+Unexpected IOException with stream: o
+
+# Created at 2018-10-02T16:45:50.162
+Unexpected IOException with stream: n
+
+# Created at 2018-10-02T16:45:50.163
+Unexpected IOException with stream: s
+
+# Created at 2018-10-02T16:45:50.163
+Unexpected IOException with stream:  
+
+# Created at 2018-10-02T16:45:50.164
+Unexpected IOException with stream: a
+
+# Created at 2018-10-02T16:45:50.165
+Unexpected IOException with stream: r
+
+# Created at 2018-10-02T16:45:50.166
+Unexpected IOException with stream: e
+
+# Created at 2018-10-02T16:45:50.166
+Unexpected IOException with stream:  
+
+# Created at 2018-10-02T16:45:50.167
+Unexpected IOException with stream: a
+
+# Created at 2018-10-02T16:45:50.168
+Unexpected IOException with stream: l
+
+# Created at 2018-10-02T16:45:50.168
+Unexpected IOException with stream: l
+
+# Created at 2018-10-02T16:45:50.169
+Unexpected IOException with stream: o
+
+# Created at 2018-10-02T16:45:50.170
+Unexpected IOException with stream: w
+
+# Created at 2018-10-02T16:45:50.171
+Unexpected IOException with stream: e
+
+# Created at 2018-10-02T16:45:50.171
+Unexpected IOException with stream: d
+
+# Created at 2018-10-02T16:45:50.172
+Unexpected IOException with stream: .
+
+# Created at 2018-10-02T16:45:50.173
+Unexpected IOException with stream: 
+
+# Created at 2018-10-02T16:45:50.174
+Unexpected IOException with stream: 
+
+
+# Created at 2018-10-02T16:45:52.440
+Unexpected IOException with stream: окт 02, 2018 4:45:52 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+
+
+# Created at 2018-10-02T16:45:56.997
+Unexpected IOException: 7,1,tests.TestTranslationToLangs,testTranslationToOtherLangs[7](tests.TestTranslationToLangs),null,No value present,null,No value present,TestTranslationToLangs.testTranslationToOtherLangs:40 \00BB NoSuchElement No value...,java.util.NoSuchElementException: No value present\000A\0009at tests.TestTranslationToLangs.testTranslationToOtherLangs(TestTranslationToLangs.java:40)\000A
+
+
+# Created at 2018-10-02T16:45:56.999
+Unexpected IOException with stream: 2018-10-02 16:45:56 ERROR WebDriverListener:57 - Test failed with: java.util.NoSuchElementException: No value present
+
+
+# Created at 2018-10-02T16:45:57.000
+Unexpected IOException with stream: 2018-10-02 16:45:56 ERROR WebDriverListener:57 - Test failed with: java.util.NoSuchElementException: No value present
+
+
+# Created at 2018-10-02T16:45:57.001
+Unexpected IOException with stream: 2018-10-02 16:45:57 ERROR WebDriverListener:57 - Test failed with: java.util.NoSuchElementException: No value present
+
+
+# Created at 2018-10-02T16:45:57.002
+Unexpected IOException with stream: 2018-10-02 16:45:57 ERROR WebDriverListener:57 - Test failed with: java.util.NoSuchElementException: No value present
+
+
+# Created at 2018-10-02T16:45:57.003
+Unexpected IOException with stream: 2018-10-02 16:45:57 ERROR WebDriverListener:57 - Test failed with: java.util.NoSuchElementException: No value present
+
+
+# Created at 2018-10-02T16:45:57.004
+Unexpected IOException with stream: 2018-10-02 16:45:57 ERROR WebDriverListener:57 - Test failed with: java.util.NoSuchElementException: No value present
+
+
+# Created at 2018-10-02T16:45:57.005
+Unexpected IOException with stream: 2018-10-02 16:45:57 ERROR WebDriverListener:57 - Test failed with: java.util.NoSuchElementException: No value present
+
+
+# Created at 2018-10-02T16:45:57.006
+Unexpected IOException with stream: 2018-10-02 16:45:57 ERROR WebDriverListener:57 - Test failed with: java.util.NoSuchElementException: No value present
+
+
+# Created at 2018-10-02T16:45:57.011
+Unexpected IOException with stream: 2018-10-02 16:45:57 INFO  WebDriverListener:50 - Test finished: testTranslationToOtherLangs[7](tests.TestTranslationToLangs)
+
+
+# Created at 2018-10-02T16:45:57.014
+Unexpected IOException with stream: 2018-10-02 16:45:57 INFO  WebDriverListener:51 - --------------------------------------
+
+
+# Created at 2018-10-02T16:45:57.015
+Unexpected IOException with stream: 2018-10-02 16:45:57 INFO  WebDriverListener:50 - Test finished: testTranslationToOtherLangs[7](tests.TestTranslationToLangs)
+
+
+# Created at 2018-10-02T16:45:57.016
+Unexpected IOException with stream: 2018-10-02 16:45:57 INFO  WebDriverListener:51 - --------------------------------------
+
+
+# Created at 2018-10-02T16:45:57.017
+Unexpected IOException with stream: 2018-10-02 16:45:57 INFO  WebDriverListener:50 - Test finished: testTranslationToOtherLangs[7](tests.TestTranslationToLangs)
+
+
+# Created at 2018-10-02T16:45:57.018
+Unexpected IOException with stream: 2018-10-02 16:45:57 INFO  WebDriverListener:51 - --------------------------------------
+
+
+# Created at 2018-10-02T16:45:57.019
+Unexpected IOException with stream: 2018-10-02 16:45:57 INFO  WebDriverListener:50 - Test finished: testTranslationToOtherLangs[7](tests.TestTranslationToLangs)
+
+
+# Created at 2018-10-02T16:45:57.020
+Unexpected IOException with stream: 2018-10-02 16:45:57 INFO  WebDriverListener:51 - --------------------------------------
+
+
+# Created at 2018-10-02T16:45:57.021
+Unexpected IOException with stream: 2018-10-02 16:45:57 INFO  WebDriverListener:50 - Test finished: testTranslationToOtherLangs[7](tests.TestTranslationToLangs)
+
+
+# Created at 2018-10-02T16:45:57.022
+Unexpected IOException with stream: 2018-10-02 16:45:57 INFO  WebDriverListener:51 - --------------------------------------
+
+
+# Created at 2018-10-02T16:45:57.023
+Unexpected IOException with stream: 2018-10-02 16:45:57 INFO  WebDriverListener:50 - Test finished: testTranslationToOtherLangs[7](tests.TestTranslationToLangs)
+
+
+# Created at 2018-10-02T16:45:57.024
+Unexpected IOException with stream: 2018-10-02 16:45:57 INFO  WebDriverListener:51 - --------------------------------------
+
+
+# Created at 2018-10-02T16:45:57.025
+Unexpected IOException with stream: 2018-10-02 16:45:57 INFO  WebDriverListener:50 - Test finished: testTranslationToOtherLangs[7](tests.TestTranslationToLangs)
+
+
+# Created at 2018-10-02T16:45:57.025
+Unexpected IOException with stream: 2018-10-02 16:45:57 INFO  WebDriverListener:51 - --------------------------------------
+
+
+# Created at 2018-10-02T16:45:57.025
+Unexpected IOException with stream: 2018-10-02 16:45:57 INFO  WebDriverListener:50 - Test finished: testTranslationToOtherLangs[7](tests.TestTranslationToLangs)
+
+
+# Created at 2018-10-02T16:45:57.026
+Unexpected IOException with stream: 2018-10-02 16:45:57 INFO  WebDriverListener:51 - --------------------------------------
+
+
+# Created at 2018-10-02T16:45:57.026
+Unexpected IOException: 2,1,org.apache.maven.surefire.junit4.JUnit4Provider,tests.TestTranslationToLangs,null,null,null
+
+
+# Created at 2018-10-02T16:45:57.028
+Unexpected IOException with stream: 2018-10-02 16:45:57 INFO  WebDriverListener:32 - Result of the test run:
+
+
+# Created at 2018-10-02T16:45:57.028
+Unexpected IOException with stream: 2018-10-02 16:45:57 INFO  WebDriverListener:33 - Run time: 313319 ms
+
+
+# Created at 2018-10-02T16:45:57.029
+Unexpected IOException with stream: 2018-10-02 16:45:57 INFO  WebDriverListener:34 - Run count: 8
+
+
+# Created at 2018-10-02T16:45:57.029
+Unexpected IOException with stream: 2018-10-02 16:45:57 INFO  WebDriverListener:35 - Failure count: 4
+
+
+# Created at 2018-10-02T16:45:57.029
+Unexpected IOException with stream: 2018-10-02 16:45:57 INFO  WebDriverListener:36 - Ignored count: 0
+
+
+# Created at 2018-10-02T16:45:57.030
+Unexpected IOException with stream: 2018-10-02 16:45:57 INFO  WebDriverListener:32 - Result of the test run:
+
+
+# Created at 2018-10-02T16:45:57.030
+Unexpected IOException with stream: 2018-10-02 16:45:57 INFO  WebDriverListener:33 - Run time: 313319 ms
+
+
+# Created at 2018-10-02T16:45:57.031
+Unexpected IOException with stream: 2018-10-02 16:45:57 INFO  WebDriverListener:34 - Run count: 8
+
+
+# Created at 2018-10-02T16:45:57.031
+Unexpected IOException with stream: 2018-10-02 16:45:57 INFO  WebDriverListener:35 - Failure count: 4
+
+
+# Created at 2018-10-02T16:45:57.031
+Unexpected IOException with stream: 2018-10-02 16:45:57 INFO  WebDriverListener:36 - Ignored count: 0
+
+
+# Created at 2018-10-02T16:45:57.032
+Unexpected IOException with stream: 2018-10-02 16:45:57 INFO  WebDriverListener:32 - Result of the test run:
+
+
+# Created at 2018-10-02T16:45:57.032
+Unexpected IOException with stream: 2018-10-02 16:45:57 INFO  WebDriverListener:33 - Run time: 313319 ms
+
+
+# Created at 2018-10-02T16:45:57.033
+Unexpected IOException with stream: 2018-10-02 16:45:57 INFO  WebDriverListener:34 - Run count: 8
+
+
+# Created at 2018-10-02T16:45:57.034
+Unexpected IOException with stream: 2018-10-02 16:45:57 INFO  WebDriverListener:35 - Failure count: 4
+
+
+# Created at 2018-10-02T16:45:57.036
+Unexpected IOException with stream: 2018-10-02 16:45:57 INFO  WebDriverListener:36 - Ignored count: 0
+
+
+# Created at 2018-10-02T16:45:57.040
+Unexpected IOException with stream: 2018-10-02 16:45:57 INFO  WebDriverListener:32 - Result of the test run:
+
+
+# Created at 2018-10-02T16:45:57.041
+Unexpected IOException with stream: 2018-10-02 16:45:57 INFO  WebDriverListener:33 - Run time: 313319 ms
+
+
+# Created at 2018-10-02T16:45:57.043
+Unexpected IOException with stream: 2018-10-02 16:45:57 INFO  WebDriverListener:34 - Run count: 8
+
+
+# Created at 2018-10-02T16:45:57.044
+Unexpected IOException with stream: 2018-10-02 16:45:57 INFO  WebDriverListener:35 - Failure count: 4
+
+
+# Created at 2018-10-02T16:45:57.045
+Unexpected IOException with stream: 2018-10-02 16:45:57 INFO  WebDriverListener:36 - Ignored count: 0
+
+
+# Created at 2018-10-02T16:45:57.046
+Unexpected IOException with stream: 2018-10-02 16:45:57 INFO  WebDriverListener:32 - Result of the test run:
+
+
+# Created at 2018-10-02T16:45:57.047
+Unexpected IOException with stream: 2018-10-02 16:45:57 INFO  WebDriverListener:33 - Run time: 313319 ms
+
+
+# Created at 2018-10-02T16:45:57.048
+Unexpected IOException with stream: 2018-10-02 16:45:57 INFO  WebDriverListener:34 - Run count: 8
+
+
+# Created at 2018-10-02T16:45:57.049
+Unexpected IOException with stream: 2018-10-02 16:45:57 INFO  WebDriverListener:35 - Failure count: 4
+
+
+# Created at 2018-10-02T16:45:57.049
+Unexpected IOException with stream: 2018-10-02 16:45:57 INFO  WebDriverListener:36 - Ignored count: 0
+
+
+# Created at 2018-10-02T16:45:57.050
+Unexpected IOException with stream: 2018-10-02 16:45:57 INFO  WebDriverListener:32 - Result of the test run:
+
+
+# Created at 2018-10-02T16:45:57.051
+Unexpected IOException with stream: 2018-10-02 16:45:57 INFO  WebDriverListener:33 - Run time: 313319 ms
+
+
+# Created at 2018-10-02T16:45:57.052
+Unexpected IOException with stream: 2018-10-02 16:45:57 INFO  WebDriverListener:34 - Run count: 8
+
+
+# Created at 2018-10-02T16:45:57.053
+Unexpected IOException with stream: 2018-10-02 16:45:57 INFO  WebDriverListener:35 - Failure count: 4
+
+
+# Created at 2018-10-02T16:45:57.053
+Unexpected IOException with stream: 2018-10-02 16:45:57 INFO  WebDriverListener:36 - Ignored count: 0
+
+
+# Created at 2018-10-02T16:45:57.054
+Unexpected IOException with stream: 2018-10-02 16:45:57 INFO  WebDriverListener:32 - Result of the test run:
+
+
+# Created at 2018-10-02T16:45:57.055
+Unexpected IOException with stream: 2018-10-02 16:45:57 INFO  WebDriverListener:33 - Run time: 313319 ms
+
+
+# Created at 2018-10-02T16:45:57.056
+Unexpected IOException with stream: 2018-10-02 16:45:57 INFO  WebDriverListener:34 - Run count: 8
+
+
+# Created at 2018-10-02T16:45:57.057
+Unexpected IOException with stream: 2018-10-02 16:45:57 INFO  WebDriverListener:35 - Failure count: 4
+
+
+# Created at 2018-10-02T16:45:57.058
+Unexpected IOException with stream: 2018-10-02 16:45:57 INFO  WebDriverListener:36 - Ignored count: 0
+
+
+# Created at 2018-10-02T16:45:57.059
+Unexpected IOException with stream: 2018-10-02 16:45:57 INFO  WebDriverListener:32 - Result of the test run:
+
+
+# Created at 2018-10-02T16:45:57.060
+Unexpected IOException with stream: 2018-10-02 16:45:57 INFO  WebDriverListener:33 - Run time: 313319 ms
+
+
+# Created at 2018-10-02T16:45:57.060
+Unexpected IOException with stream: 2018-10-02 16:45:57 INFO  WebDriverListener:34 - Run count: 8
+
+
+# Created at 2018-10-02T16:45:57.061
+Unexpected IOException with stream: 2018-10-02 16:45:57 INFO  WebDriverListener:35 - Failure count: 4
+
+
+# Created at 2018-10-02T16:45:57.062
+Unexpected IOException with stream: 2018-10-02 16:45:57 INFO  WebDriverListener:36 - Ignored count: 0
+
+

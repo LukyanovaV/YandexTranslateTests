@@ -1,0 +1,37 @@
+{
+  "uid" : "79618205e7157b19",
+  "name" : "shareButtonTest",
+  "fullName" : "tests.ToolsButtonsTest.shareButtonTest",
+  "historyId" : "8905345a845747921d7c27b5ff453485",
+  "time" : {
+    "start" : 1538400612951,
+    "stop" : 1538400626997,
+    "duration" : 14046
+  },
+  "status" : "passed",
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "tests"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.ToolsButtonsTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "shareButtonTest"
+  }, {
+    "name" : "suite",
+    "value" : "tests.ToolsButtonsTest"
+  }, {
+    "name" : "host",
+    "value" : "Bondarenko"
+  }, {
+    "name" : "thread",
+    "value" : "2172@Bondarenko.main(1)"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "extra" : { }
+}

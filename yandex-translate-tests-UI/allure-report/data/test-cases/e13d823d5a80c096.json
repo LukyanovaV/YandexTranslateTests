@@ -1,0 +1,37 @@
+{
+  "uid" : "e13d823d5a80c096",
+  "name" : "imageClearTest",
+  "fullName" : "tests.ImageTranslationTest.imageClearTest",
+  "historyId" : "766ecc37cbf4368e4783b9feb2ba7f67",
+  "time" : {
+    "start" : 1538400418830,
+    "stop" : 1538400427795,
+    "duration" : 8965
+  },
+  "status" : "passed",
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "tests"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.ImageTranslationTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "imageClearTest"
+  }, {
+    "name" : "suite",
+    "value" : "tests.ImageTranslationTest"
+  }, {
+    "name" : "host",
+    "value" : "Bondarenko"
+  }, {
+    "name" : "thread",
+    "value" : "2172@Bondarenko.main(1)"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "extra" : { }
+}

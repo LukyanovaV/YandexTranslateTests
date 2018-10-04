@@ -1,0 +1,765 @@
+{
+  "c3abd60202765283891a145d4b6d1460" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "72bac9223f408f5d",
+      "status" : "failed",
+      "statusDetails" : "expected:<[n · hr]> but was:<[hi · hallo · salut]>",
+      "time" : {
+        "start" : 1538565747664,
+        "stop" : 1538565754353,
+        "duration" : 6689
+      }
+    } ]
+  },
+  "40dccf81df7450b13be7c71fb1157f28" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "77ce8754684732d9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1538491576843,
+        "stop" : 1538491589691,
+        "duration" : 12848
+      }
+    } ]
+  },
+  "29f7e769135e2417edab4c7dfbec78e6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e5822853d7b21a8c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1538565754360,
+        "stop" : 1538565759787,
+        "duration" : 5427
+      }
+    } ]
+  },
+  "ffca2a3dd770752f0a40beaf78341c84" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "92196a7fc048460",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for text ('100%') to be present in element found by By.id: progress (tried for 10 second(s) with 500 milliseconds interval)\nBuild info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'\nSystem info: host: 'BONDARENKO', ip: '172.20.1.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_172'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.37.544315 (730aa6a5fdba15..., userDataDir: C:\\Users\\BONDAR~1\\AppData\\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}\nSession ID: fbc0c60d219bde59722bd3eeac9558fc",
+      "time" : {
+        "start" : 1538491531674,
+        "stop" : 1538491546675,
+        "duration" : 15001
+      }
+    } ]
+  },
+  "1722ac84f01825de4f42fa3037f12731" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "577fc25bc3badf7f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1538491687350,
+        "stop" : 1538491703506,
+        "duration" : 16156
+      }
+    } ]
+  },
+  "4641056ee6d067407108fc8ab67ea404" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1bebd2792a3a4554",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1538491498893,
+        "stop" : 1538491498899,
+        "duration" : 6
+      }
+    } ]
+  },
+  "a0e16c75ec98886e7c36382ad53fa736" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4e7564fbf22ae1d3",
+      "status" : "broken",
+      "statusDetails" : "No value present",
+      "time" : {
+        "start" : 1538491725263,
+        "stop" : 1538491732792,
+        "duration" : 7529
+      }
+    } ]
+  },
+  "357920c76e40416126f19d0a2bf30953" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "536828197e6957f7",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1538491498883,
+        "stop" : 1538491498887,
+        "duration" : 4
+      }
+    } ]
+  },
+  "3e2abda4595b9c4303433f5898365440" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "35e9b698c9343d57",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1538491498910,
+        "stop" : 1538491498913,
+        "duration" : 3
+      }
+    } ]
+  },
+  "aa3498b85b687bd038ec1a60822f9ffc" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d6da141759ba372f",
+      "status" : "broken",
+      "statusDetails" : "unknown error: Element <div class=\"listbox-option state-unselectable\" data-value=\"fr\" unselectable=\"on\">...</div> is not clickable at point (823, 507). Other element would receive the click: <iframe frameborder=\"0\" src=\"https://yastatic.net/daas/distr-popup.html\" aria-hidden=\"true\" style=\"display: block; width: 364px; height: 180px; z-index: 42000000; transform: translate3d(0px, 0px, 0px); position: fixed; bottom: 15px; right: 15px;\"></iframe>\n  (Session info: chrome=69.0.3497.100)\n  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nBuild info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'\nSystem info: host: 'BONDARENKO', ip: '172.20.1.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_172'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.37.544315 (730aa6a5fdba15..., userDataDir: C:\\Users\\BONDAR~1\\AppData\\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}\nSession ID: ea61fe50743734d13bbb630d5de7b4aa",
+      "time" : {
+        "start" : 1538491569315,
+        "stop" : 1538491576822,
+        "duration" : 7507
+      }
+    } ]
+  },
+  "c4410e7739363aefb9a166e5e579269" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "105e47bce6f43721",
+      "status" : "failed",
+      "statusDetails" : "expected:<[ч, г]> but was:<[привет, добрый день, Здравствуйм]>",
+      "time" : {
+        "start" : 1538565766298,
+        "stop" : 1538565772443,
+        "duration" : 6145
+      }
+    } ]
+  },
+  "8905345a845747921d7c27b5ff453485" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a39c22575f08e06f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1538491710498,
+        "stop" : 1538491725212,
+        "duration" : 14714
+      }
+    } ]
+  },
+  "cb6c2094ea027552e9557a0ae2829b30" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "caba3ef24cf4bffe",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1538491498875,
+        "stop" : 1538491498880,
+        "duration" : 5
+      }
+    } ]
+  },
+  "9f80179d0f63d932470df52e8432e6a7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "78881bc5cc3cf7c4",
+      "status" : "broken",
+      "statusDetails" : "No runnable methods",
+      "time" : {
+        "start" : 1538491498563,
+        "stop" : 1538491498574,
+        "duration" : 11
+      }
+    } ]
+  },
+  "8f483a343fc867ad9cca700628ac42b4" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "244ca3ec5020e66e",
+      "status" : "failed",
+      "statusDetails" : "expected:<Готов[ый]> but was:<Готов[]>",
+      "time" : {
+        "start" : 1538491664460,
+        "stop" : 1538491675636,
+        "duration" : 11176
+      }
+    } ]
+  },
+  "77fd5b2dd0366712217c9a965852b83c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "787c2a2988d1edfb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1538491546693,
+        "stop" : 1538491557219,
+        "duration" : 10526
+      }
+    } ]
+  },
+  "83d43da71adcba12c443b5cde0084aee" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7890f33d7776ea09",
+      "status" : "broken",
+      "statusDetails" : "stale element reference: element is not attached to the page document\n  (Session info: chrome=69.0.3497.100)\n  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html\nBuild info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'\nSystem info: host: 'BONDARENKO', ip: '172.20.1.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_172'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.37.544315 (730aa6a5fdba15..., userDataDir: C:\\Users\\BONDAR~1\\AppData\\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}\nSession ID: 6cd2e2440bb6c21a2c15737b6a17e2e7",
+      "time" : {
+        "start" : 1538491613817,
+        "stop" : 1538491619679,
+        "duration" : 5862
+      }
+    } ]
+  },
+  "494a4da811287c5f1196f58b9b46357d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "af865c7db59cb9bf",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1538491498839,
+        "stop" : 1538491498858,
+        "duration" : 19
+      }
+    } ]
+  },
+  "bfe899fbb2dbc8d8e5ab83d65c1c0656" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8671a08b9edcdb2d",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1538491498919,
+        "stop" : 1538491498922,
+        "duration" : 3
+      }
+    } ]
+  },
+  "6165d6f341312182d90284094530e0de" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d2bffdebd7f98b94",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1538491498927,
+        "stop" : 1538491498931,
+        "duration" : 4
+      }
+    } ]
+  },
+  "49a5a8cb2535681c7166e66e24a67bfa" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "dd90d45594ad1666",
+      "status" : "passed",
+      "time" : {
+        "start" : 1538491633840,
+        "stop" : 1538491644153,
+        "duration" : 10313
+      }
+    } ]
+  },
+  "94f402d24c5cbf4c019e0249a6b34239" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "cb65f166d861f547",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1538491498903,
+        "stop" : 1538491498906,
+        "duration" : 3
+      }
+    } ]
+  },
+  "6d6420f4e95b1aaacb514a2bff4e0fe5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b9066a7664392816",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1538491498948,
+        "stop" : 1538491498951,
+        "duration" : 3
+      }
+    } ]
+  },
+  "b3b7980482eb94fe27396b4d3c99752d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2b5e5070736fb1f6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1538491675656,
+        "stop" : 1538491687324,
+        "duration" : 11668
+      }
+    } ]
+  },
+  "9928fe6df46690980279668c5266c3cb" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3e7138e0812fb0dc",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1538491498942,
+        "stop" : 1538491498945,
+        "duration" : 3
+      }
+    } ]
+  },
+  "4276ad6d4d18a84ae5ef5239df867d7b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "23c61581e3035cd6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1538491654612,
+        "stop" : 1538491664445,
+        "duration" : 9833
+      }
+    } ]
+  },
+  "6eb1e5367968459a54dc840fd4aecc72" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "270bfcd7f456e9a0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1538491557240,
+        "stop" : 1538491569290,
+        "duration" : 12050
+      }
+    } ]
+  },
+  "f8a4086e669363afb04b3e2ff7e271b9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8f335c97dcd25e07",
+      "status" : "passed",
+      "time" : {
+        "start" : 1538491619688,
+        "stop" : 1538491633827,
+        "duration" : 14139
+      }
+    } ]
+  },
+  "2a3ce4cda350cdff84a31185944add4c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d2e7517886ba729f",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1538491498935,
+        "stop" : 1538491498939,
+        "duration" : 4
+      }
+    } ]
+  },
+  "adec11ceb82632c82e1fcf0c11771ea8" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6c6d59ad16e13499",
+      "status" : "passed",
+      "time" : {
+        "start" : 1538491498966,
+        "stop" : 1538491521110,
+        "duration" : 22144
+      }
+    } ]
+  },
+  "ffb856383d75f2d432352e3e9f7ad6a5" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "cbb9a7512337b06d",
+      "status" : "failed",
+      "statusDetails" : "java.lang.AssertionError",
+      "time" : {
+        "start" : 1538491703524,
+        "stop" : 1538491710459,
+        "duration" : 6935
+      }
+    } ]
+  },
+  "4c49d27642a683596902d32561f2cb8e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1eb9aa11ebee011b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1538491644164,
+        "stop" : 1538491654582,
+        "duration" : 10418
+      }
+    } ]
+  },
+  "2d7107ea139db9ca9b6882e8b7360e36" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "941953bd8f3bd6f4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1538565740744,
+        "stop" : 1538565747570,
+        "duration" : 6826
+      }
+    } ]
+  },
+  "fe9a8481bc0468d312377ee4d61b50d1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f590cff5aa7192af",
+      "status" : "passed",
+      "time" : {
+        "start" : 1538491602112,
+        "stop" : 1538491613797,
+        "duration" : 11685
+      }
+    } ]
+  },
+  "e121fc21dac76003e37d7487e066280c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ed54578f6877b1cf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1538565772447,
+        "stop" : 1538565782785,
+        "duration" : 10338
+      }
+    } ]
+  },
+  "ea3f540e52ecb3aa5cc27204b42a0495" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6dde8e9c8a2e92f0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1538491589715,
+        "stop" : 1538491602099,
+        "duration" : 12384
+      }
+    } ]
+  },
+  "7f3b302b4c4980ca7c97131af21ebc89" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a4fd4fd9c4c92419",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1538491498861,
+        "stop" : 1538491498865,
+        "duration" : 4
+      }
+    } ]
+  },
+  "766ecc37cbf4368e4783b9feb2ba7f67" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "edfba5172f816579",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1538491498809,
+        "stop" : 1538491498825,
+        "duration" : 16
+      }
+    } ]
+  },
+  "d52d8027bbd755ef6070aca6236c15b8" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5f0bc8da3a403412",
+      "status" : "passed",
+      "time" : {
+        "start" : 1538565759799,
+        "stop" : 1538565766286,
+        "duration" : 6487
+      }
+    } ]
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "uid" : "5f0bc8da3a403412",
+  "name" : "testExamplesConversations",
+  "fullName" : "tests.TestTranslationTextPage.testExamplesConversations",
+  "historyId" : "d52d8027bbd755ef6070aca6236c15b8",
+  "time" : {
+    "start" : 1538565759799,
+    "stop" : 1538565766286,
+    "duration" : 6487
+  },
+  "status" : "passed",
+  "statusDetails" : {
+    "flaky" : true
+  },
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "tests"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.TestTranslationTextPage"
+  }, {
+    "name" : "testMethod",
+    "value" : "testExamplesConversations"
+  }, {
+    "name" : "suite",
+    "value" : "tests.TestTranslationTextPage"
+  }, {
+    "name" : "host",
+    "value" : "Bondarenko"
+  }, {
+    "name" : "thread",
+    "value" : "13944@Bondarenko.main(1)"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "39a0abd7e0dc9ef2",
+      "status" : "broken",
+      "time" : {
+        "start" : 1538565575330,
+        "stop" : 1538565581035,
+        "duration" : 5705
+      }
+    }, {
+      "uid" : "bc3c712e06ed91b8",
+      "status" : "broken",
+      "time" : {
+        "start" : 1538564745494,
+        "stop" : 1538564751352,
+        "duration" : 5858
+      }
+    } ],
+    "categories" : [ ]
+  }
+}

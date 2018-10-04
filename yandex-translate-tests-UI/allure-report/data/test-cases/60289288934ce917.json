@@ -1,0 +1,37 @@
+{
+  "uid" : "60289288934ce917",
+  "name" : "clickOnMenuToMail",
+  "fullName" : "tests.MainMenuTest.clickOnMenuToMail",
+  "historyId" : "357920c76e40416126f19d0a2bf30953",
+  "time" : {
+    "start" : 1538403783642,
+    "stop" : 1538403791136,
+    "duration" : 7494
+  },
+  "status" : "passed",
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "tests"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.MainMenuTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "clickOnMenuToMail"
+  }, {
+    "name" : "suite",
+    "value" : "tests.MainMenuTest"
+  }, {
+    "name" : "host",
+    "value" : "Bondarenko"
+  }, {
+    "name" : "thread",
+    "value" : "7924@Bondarenko.main(1)"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "extra" : { }
+}

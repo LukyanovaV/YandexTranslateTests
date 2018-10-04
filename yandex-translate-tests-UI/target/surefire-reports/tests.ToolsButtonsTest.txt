@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: tests.ToolsButtonsTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 1, Errors: 1, Skipped: 0, Time elapsed: 45.507 s <<< FAILURE! - in tests.ToolsButtonsTest
+spellerButtonTest(tests.ToolsButtonsTest)  Time elapsed: 6.852 s  <<< FAILURE!
+java.lang.AssertionError
+	at tests.ToolsButtonsTest.spellerButtonTest(ToolsButtonsTest.java:38)
+
+langHistoryBoxTest(tests.ToolsButtonsTest)  Time elapsed: 7.434 s  <<< ERROR!
+java.util.NoSuchElementException: No value present
+	at tests.ToolsButtonsTest.langHistoryBoxTest(ToolsButtonsTest.java:57)
+

@@ -1,0 +1,225 @@
+Test starts: langHistoryBoxTest(tests.ToolsButtonsTest)
+Test failed with: java.util.NoSuchElementException: No value present
+Test failed with: java.util.NoSuchElementException: No value present
+Test failed with: java.util.NoSuchElementException: No value present
+Test failed with: java.util.NoSuchElementException: No value present
+Test failed with: java.util.NoSuchElementException: No value present
+Test failed with: java.util.NoSuchElementException: No value present
+Test failed with: java.util.NoSuchElementException: No value present
+Test failed with: java.util.NoSuchElementException: No value present
+Test failed with: java.util.NoSuchElementException: No value present
+Test failed with: java.util.NoSuchElementException: No value present
+Test failed with: java.util.NoSuchElementException: No value present
+Test failed with: java.util.NoSuchElementException: No value present
+Test failed with: java.util.NoSuchElementException: No value present
+Test failed with: java.util.NoSuchElementException: No value present
+Test failed with: java.util.NoSuchElementException: No value present
+Test failed with: java.util.NoSuchElementException: No value present
+Test failed with: java.util.NoSuchElementException: No value present
+Test failed with: java.util.NoSuchElementException: No value present
+Test failed with: java.util.NoSuchElementException: No value present
+Test finished: langHistoryBoxTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: langHistoryBoxTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: langHistoryBoxTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: langHistoryBoxTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: langHistoryBoxTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: langHistoryBoxTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: langHistoryBoxTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: langHistoryBoxTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: langHistoryBoxTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: langHistoryBoxTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: langHistoryBoxTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: langHistoryBoxTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: langHistoryBoxTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: langHistoryBoxTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: langHistoryBoxTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: langHistoryBoxTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: langHistoryBoxTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: langHistoryBoxTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: langHistoryBoxTest(tests.ToolsButtonsTest)
+--------------------------------------
+Result of the test run:
+Run time: 234482 ms
+Run count: 35
+Failure count: 49
+Ignored count: 0
+Result of the test run:
+Run time: 234482 ms
+Run count: 35
+Failure count: 49
+Ignored count: 0
+Result of the test run:
+Run time: 234482 ms
+Run count: 35
+Failure count: 49
+Ignored count: 0
+Result of the test run:
+Run time: 234482 ms
+Run count: 35
+Failure count: 49
+Ignored count: 0
+Result of the test run:
+Run time: 234482 ms
+Run count: 35
+Failure count: 49
+Ignored count: 0
+Result of the test run:
+Run time: 234482 ms
+Run count: 35
+Failure count: 49
+Ignored count: 0
+Result of the test run:
+Run time: 234482 ms
+Run count: 35
+Failure count: 49
+Ignored count: 0
+Result of the test run:
+Run time: 234482 ms
+Run count: 35
+Failure count: 49
+Ignored count: 0
+Result of the test run:
+Run time: 234482 ms
+Run count: 35
+Failure count: 49
+Ignored count: 0
+Result of the test run:
+Run time: 234482 ms
+Run count: 35
+Failure count: 49
+Ignored count: 0
+Result of the test run:
+Run time: 234482 ms
+Run count: 35
+Failure count: 49
+Ignored count: 0
+Result of the test run:
+Run time: 234482 ms
+Run count: 35
+Failure count: 49
+Ignored count: 0
+Result of the test run:
+Run time: 234482 ms
+Run count: 35
+Failure count: 49
+Ignored count: 0
+Result of the test run:
+Run time: 234482 ms
+Run count: 35
+Failure count: 49
+Ignored count: 0
+Result of the test run:
+Run time: 234482 ms
+Run count: 35
+Failure count: 49
+Ignored count: 0
+Result of the test run:
+Run time: 234482 ms
+Run count: 35
+Failure count: 49
+Ignored count: 0
+Result of the test run:
+Run time: 234482 ms
+Run count: 35
+Failure count: 49
+Ignored count: 0
+Result of the test run:
+Run time: 234482 ms
+Run count: 35
+Failure count: 49
+Ignored count: 0
+Result of the test run:
+Run time: 234482 ms
+Run count: 35
+Failure count: 49
+Ignored count: 0
+ ms
+Run count: 35
+Failure count: 49
+Ignored count: 0
+ ms
+Run count: 35
+Failure count: 49
+Ignored count: 0
+ ms
+Run count: 35
+Failure count: 49
+Ignored count: 0
+ ms
+Run count: 35
+Failure count: 49
+Ignored count: 0
+ ms
+Run count: 35
+Failure count: 49
+Ignored count: 0
+ ms
+Run count: 35
+Failure count: 49
+Ignored count: 0
+ ms
+Run count: 35
+Failure count: 49
+Ignored count: 0
+ ms
+Run count: 35
+Failure count: 49
+Ignored count: 0
+ ms
+Run count: 35
+Failure count: 49
+Ignored count: 0
+ ms
+Run count: 35
+Failure count: 49
+Ignored count: 0
+ ms
+Run count: 35
+Failure count: 49
+Ignored count: 0
+ ms
+Run count: 35
+Failure count: 49
+Ignored count: 0
+ ms
+Run count: 35
+Failure count: 49
+Ignored count: 0
+ ms
+Run count: 35
+Failure count: 49
+Ignored count: 0
+ ms
+Run count: 35
+Failure count: 49
+Ignored count: 0
+ ms
+Run count: 35
+Failure count: 49
+Ignored count: 0
+ ms
+Run count: 35
+Failure count: 49
+Ignored count: 0
+ ms
+Run count: 35
+Failure count: 49
+Ignored count: 0

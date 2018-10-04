@@ -1,0 +1,56 @@
+-------------------------------------------------------------------------------
+Test set: tests.RunAllInChrome
+-------------------------------------------------------------------------------
+Tests run: 24, Failures: 2, Errors: 8, Skipped: 0, Time elapsed: 231.962 s <<< FAILURE! - in tests.RunAllInChrome
+imageTranslationTest(tests.ImageTranslationTest)  Time elapsed: 24.872 s  <<< ERROR!
+org.openqa.selenium.TimeoutException: 
+Expected condition failed: waiting for element to be clickable: [[ChromeDriver: chrome on XP (51e89a1c7c8d6c1581aadfbbdd10ad76)] -> css selector: span[data-action^="paste"]] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'BONDARENKO', ip: '172.20.1.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.37.544315 (730aa6a5fdba15..., userDataDir: C:\Users\BONDAR~1\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
+Session ID: 51e89a1c7c8d6c1581aadfbbdd10ad76
+	at tests.ImageTranslationTest.imageTranslationTest(ImageTranslationTest.java:26)
+
+clickOnMenuToMaps(tests.MainMenuTest)  Time elapsed: 9.6 s  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<...ce=tableau_translate[]> but was:<...ce=tableau_translate[&ll=38.935194%2C47.209580&z=13]>
+	at tests.MainMenuTest.clickOnMenuToMaps(MainMenuTest.java:43)
+
+testUrlTranslate(tests.SiteTranslationTest)  Time elapsed: 15.323 s  <<< ERROR!
+org.openqa.selenium.TimeoutException: 
+Expected condition failed: waiting for text ('100%') to be present in element found by By.id: progress (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'BONDARENKO', ip: '172.20.1.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.37.544315 (730aa6a5fdba15..., userDataDir: C:\Users\BONDAR~1\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
+Session ID: 131f57e2d858ae42c568f870cacf39f0
+	at tests.SiteTranslationTest.testUrlTranslate(SiteTranslationTest.java:23)
+
+testTranslationToRus[0](tests.TestTranslationToRus)  Time elapsed: 6.501 s  <<< ERROR!
+java.util.NoSuchElementException: No value present
+	at tests.TestTranslationToRus.testTranslationToRus(TestTranslationToRus.java:40)
+
+testTranslationToRus[1](tests.TestTranslationToRus)  Time elapsed: 6.911 s  <<< ERROR!
+java.util.NoSuchElementException: No value present
+	at tests.TestTranslationToRus.testTranslationToRus(TestTranslationToRus.java:40)
+
+testTranslationToRus[2](tests.TestTranslationToRus)  Time elapsed: 7.266 s  <<< ERROR!
+java.util.NoSuchElementException: No value present
+	at tests.TestTranslationToRus.testTranslationToRus(TestTranslationToRus.java:40)
+
+testTranslationToRus[3](tests.TestTranslationToRus)  Time elapsed: 6.564 s  <<< ERROR!
+java.util.NoSuchElementException: No value present
+	at tests.TestTranslationToRus.testTranslationToRus(TestTranslationToRus.java:40)
+
+testTranslationToRus[4](tests.TestTranslationToRus)  Time elapsed: 6.506 s  <<< ERROR!
+java.util.NoSuchElementException: No value present
+	at tests.TestTranslationToRus.testTranslationToRus(TestTranslationToRus.java:40)
+
+spellerButtonTest(tests.ToolsButtonsTest)  Time elapsed: 6.43 s  <<< FAILURE!
+java.lang.AssertionError
+	at tests.ToolsButtonsTest.spellerButtonTest(ToolsButtonsTest.java:38)
+
+langHistoryBoxTest(tests.ToolsButtonsTest)  Time elapsed: 7.431 s  <<< ERROR!
+java.util.NoSuchElementException: No value present
+	at tests.ToolsButtonsTest.langHistoryBoxTest(ToolsButtonsTest.java:57)
+

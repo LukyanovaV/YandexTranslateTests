@@ -1,0 +1,84 @@
+{
+  "uid" : "6c6d59ad16e13499",
+  "name" : "imageTranslationTest",
+  "fullName" : "tests.ImageTranslationTest.imageTranslationTest",
+  "historyId" : "adec11ceb82632c82e1fcf0c11771ea8",
+  "time" : {
+    "start" : 1538491498966,
+    "stop" : 1538491521110,
+    "duration" : 22144
+  },
+  "status" : "passed",
+  "statusDetails" : {
+    "flaky" : true
+  },
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "tests"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.ImageTranslationTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "imageTranslationTest"
+  }, {
+    "name" : "suite",
+    "value" : "tests.ImageTranslationTest"
+  }, {
+    "name" : "host",
+    "value" : "Bondarenko"
+  }, {
+    "name" : "thread",
+    "value" : "13856@Bondarenko.main(1)"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "a55f68e739839451",
+      "status" : "broken",
+      "time" : {
+        "start" : 1538491498829,
+        "stop" : 1538491498832,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "54b265bf9dc7050f",
+      "status" : "broken",
+      "time" : {
+        "start" : 1538403730245,
+        "stop" : 1538403755135,
+        "duration" : 24890
+      }
+    }, {
+      "uid" : "75d17b0303540436",
+      "status" : "passed",
+      "time" : {
+        "start" : 1538401619198,
+        "stop" : 1538401639642,
+        "duration" : 20444
+      }
+    }, {
+      "uid" : "cdec09f252f88d30",
+      "status" : "passed",
+      "time" : {
+        "start" : 1538400427938,
+        "stop" : 1538400439040,
+        "duration" : 11102
+      }
+    }, {
+      "uid" : "ecca1968cd7ce2d4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1538396417635,
+        "stop" : 1538396417638,
+        "duration" : 3
+      }
+    } ],
+    "categories" : [ ]
+  }
+}

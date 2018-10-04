@@ -1,0 +1,37 @@
+{
+  "uid" : "a5524a7ac29757b6",
+  "name" : "clickOnMenuToNews",
+  "fullName" : "tests.MainMenuTest.clickOnMenuToNews",
+  "historyId" : "94f402d24c5cbf4c019e0249a6b34239",
+  "time" : {
+    "start" : 1538401681505,
+    "stop" : 1538401689055,
+    "duration" : 7550
+  },
+  "status" : "passed",
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "tests"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.MainMenuTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "clickOnMenuToNews"
+  }, {
+    "name" : "suite",
+    "value" : "tests.MainMenuTest"
+  }, {
+    "name" : "host",
+    "value" : "Bondarenko"
+  }, {
+    "name" : "thread",
+    "value" : "14644@Bondarenko.main(1)"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "extra" : { }
+}

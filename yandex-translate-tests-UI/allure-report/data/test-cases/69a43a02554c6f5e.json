@@ -1,0 +1,37 @@
+{
+  "uid" : "69a43a02554c6f5e",
+  "name" : "clickOnMenuToMaps",
+  "fullName" : "tests.MainMenuTest.clickOnMenuToMaps",
+  "historyId" : "4641056ee6d067407108fc8ab67ea404",
+  "time" : {
+    "start" : 1538401673664,
+    "stop" : 1538401681500,
+    "duration" : 7836
+  },
+  "status" : "passed",
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "tests"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.MainMenuTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "clickOnMenuToMaps"
+  }, {
+    "name" : "suite",
+    "value" : "tests.MainMenuTest"
+  }, {
+    "name" : "host",
+    "value" : "Bondarenko"
+  }, {
+    "name" : "thread",
+    "value" : "14644@Bondarenko.main(1)"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "extra" : { }
+}

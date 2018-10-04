@@ -1,0 +1,37 @@
+{
+  "uid" : "fbeb741ae804613a",
+  "name" : "clickOnMenuToDisk",
+  "fullName" : "tests.MainMenuTest.clickOnMenuToDisk",
+  "historyId" : "cb6c2094ea027552e9557a0ae2829b30",
+  "time" : {
+    "start" : 1538403776133,
+    "stop" : 1538403783637,
+    "duration" : 7504
+  },
+  "status" : "passed",
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "tests"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.MainMenuTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "clickOnMenuToDisk"
+  }, {
+    "name" : "suite",
+    "value" : "tests.MainMenuTest"
+  }, {
+    "name" : "host",
+    "value" : "Bondarenko"
+  }, {
+    "name" : "thread",
+    "value" : "7924@Bondarenko.main(1)"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "extra" : { }
+}

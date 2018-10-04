@@ -1,0 +1,37 @@
+{
+  "uid" : "b3622a4145bc68f8",
+  "name" : "testUrlTranslate",
+  "fullName" : "tests.SiteTranslationTest.testUrlTranslate",
+  "historyId" : "ffca2a3dd770752f0a40beaf78341c84",
+  "time" : {
+    "start" : 1538400542686,
+    "stop" : 1538400554685,
+    "duration" : 11999
+  },
+  "status" : "passed",
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "tests"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.SiteTranslationTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "testUrlTranslate"
+  }, {
+    "name" : "suite",
+    "value" : "tests.SiteTranslationTest"
+  }, {
+    "name" : "host",
+    "value" : "Bondarenko"
+  }, {
+    "name" : "thread",
+    "value" : "2172@Bondarenko.main(1)"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "extra" : { }
+}

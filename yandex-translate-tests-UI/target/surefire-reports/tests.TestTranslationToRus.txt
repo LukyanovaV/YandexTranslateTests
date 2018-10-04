@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: tests.TestTranslationToRus
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 53.447 s <<< FAILURE! - in tests.TestTranslationToRus
+testTranslationToRus[3](tests.TestTranslationToRus)  Time elapsed: 11.09 s  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<Готов[ый]> but was:<Готов[]>
+	at tests.TestTranslationToRus.testTranslationToRus(TestTranslationToRus.java:45)
+

@@ -1,0 +1,37 @@
+{
+  "uid" : "cf660d37211aa0ca",
+  "name" : "clickOnMenuToMusic",
+  "fullName" : "tests.MainMenuTest.clickOnMenuToMusic",
+  "historyId" : "2a3ce4cda350cdff84a31185944add4c",
+  "time" : {
+    "start" : 1538403833595,
+    "stop" : 1538403843357,
+    "duration" : 9762
+  },
+  "status" : "passed",
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "tests"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.MainMenuTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "clickOnMenuToMusic"
+  }, {
+    "name" : "suite",
+    "value" : "tests.MainMenuTest"
+  }, {
+    "name" : "host",
+    "value" : "Bondarenko"
+  }, {
+    "name" : "thread",
+    "value" : "7924@Bondarenko.main(1)"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "extra" : { }
+}

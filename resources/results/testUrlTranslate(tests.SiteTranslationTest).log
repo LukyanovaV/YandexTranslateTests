@@ -1,0 +1,10 @@
+Test starts: testUrlTranslate(tests.SiteTranslationTest)
+Test failed with: java.lang.NullPointerException
+Test failed with: java.lang.NullPointerException
+Test finished: testUrlTranslate(tests.SiteTranslationTest)
+--------------------------------------
+Result of the test run:
+Run time: 28 ms
+Run count: 1
+Failure count: 2
+Ignored count: 0

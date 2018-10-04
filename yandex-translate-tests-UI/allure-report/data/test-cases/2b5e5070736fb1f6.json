@@ -1,0 +1,116 @@
+{
+  "uid" : "2b5e5070736fb1f6",
+  "name" : "testTranslationToRus[4]",
+  "fullName" : "tests.TestTranslationToRus.testTranslationToRus[4]",
+  "historyId" : "b3b7980482eb94fe27396b4d3c99752d",
+  "time" : {
+    "start" : 1538491675656,
+    "stop" : 1538491687324,
+    "duration" : 11668
+  },
+  "status" : "passed",
+  "statusDetails" : {
+    "flaky" : true
+  },
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "tests"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.TestTranslationToRus"
+  }, {
+    "name" : "testMethod",
+    "value" : "testTranslationToRus[4]"
+  }, {
+    "name" : "suite",
+    "value" : "tests.TestTranslationToRus"
+  }, {
+    "name" : "host",
+    "value" : "Bondarenko"
+  }, {
+    "name" : "thread",
+    "value" : "13856@Bondarenko.main(1)"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "c1ddb3b7c2dac6a3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1538481458086,
+        "stop" : 1538481469000,
+        "duration" : 10914
+      }
+    }, {
+      "uid" : "f5ea9b9608fd4100",
+      "status" : "passed",
+      "time" : {
+        "start" : 1538475795011,
+        "stop" : 1538475805824,
+        "duration" : 10813
+      }
+    }, {
+      "uid" : "ab35772cf8d80bb8",
+      "status" : "broken",
+      "time" : {
+        "start" : 1538403901905,
+        "stop" : 1538403908468,
+        "duration" : 6563
+      }
+    }, {
+      "uid" : "d9260a05006bd623",
+      "status" : "broken",
+      "time" : {
+        "start" : 1538401778457,
+        "stop" : 1538401785207,
+        "duration" : 6750
+      }
+    }, {
+      "uid" : "9cf39d43729222e4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1538400582974,
+        "stop" : 1538400590200,
+        "duration" : 7226
+      }
+    }, {
+      "uid" : "f29caeb5fa3e2bcf",
+      "status" : "broken",
+      "time" : {
+        "start" : 1538397898525,
+        "stop" : 1538397905237,
+        "duration" : 6712
+      }
+    }, {
+      "uid" : "abb244fecc37d963",
+      "status" : "broken",
+      "time" : {
+        "start" : 1538396581301,
+        "stop" : 1538396587923,
+        "duration" : 6622
+      }
+    }, {
+      "uid" : "d6db3211dbc13225",
+      "status" : "broken",
+      "time" : {
+        "start" : 1538396417832,
+        "stop" : 1538396417845,
+        "duration" : 13
+      }
+    }, {
+      "uid" : "cc21b7378f54a3b7",
+      "status" : "broken",
+      "time" : {
+        "start" : 1538395155840,
+        "stop" : 1538395162456,
+        "duration" : 6616
+      }
+    } ],
+    "categories" : [ ]
+  }
+}

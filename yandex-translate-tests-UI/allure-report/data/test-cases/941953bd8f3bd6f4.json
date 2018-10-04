@@ -1,0 +1,60 @@
+{
+  "uid" : "941953bd8f3bd6f4",
+  "name" : "testClickOnSiteBtn",
+  "fullName" : "tests.TestTranslationTextPage.testClickOnSiteBtn",
+  "historyId" : "2d7107ea139db9ca9b6882e8b7360e36",
+  "time" : {
+    "start" : 1538565740744,
+    "stop" : 1538565747570,
+    "duration" : 6826
+  },
+  "status" : "passed",
+  "statusDetails" : {
+    "flaky" : true
+  },
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "tests"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.TestTranslationTextPage"
+  }, {
+    "name" : "testMethod",
+    "value" : "testClickOnSiteBtn"
+  }, {
+    "name" : "suite",
+    "value" : "tests.TestTranslationTextPage"
+  }, {
+    "name" : "host",
+    "value" : "Bondarenko"
+  }, {
+    "name" : "thread",
+    "value" : "13944@Bondarenko.main(1)"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "acc6dbbf7fa79d96",
+      "status" : "passed",
+      "time" : {
+        "start" : 1538565554888,
+        "stop" : 1538565562824,
+        "duration" : 7936
+      }
+    }, {
+      "uid" : "348227fd4345b941",
+      "status" : "passed",
+      "time" : {
+        "start" : 1538564727221,
+        "stop" : 1538564734025,
+        "duration" : 6804
+      }
+    } ],
+    "categories" : [ ]
+  }
+}

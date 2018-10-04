@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="tests.RunAllInChrome" time="231.962" tests="24" errors="8" skipped="0" failures="2">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_172\jre\bin"/>
+    <property name="java.vm.version" value="25.172-b11"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="maven.multiModuleProjectDirectory" value="D:\IntelliJIDEA_Projects\yandextranslatetests\yandex-translate-tests-UI"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="RU"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value="Service Pack 1"/>
+    <property name="test" value="RunAllInChrome"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="D:\IntelliJIDEA_Projects\yandextranslatetests\yandex-translate-tests-UI"/>
+    <property name="java.runtime.version" value="1.8.0_172-b11"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_172\jre\lib\endorsed"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\BONDAR~1\AppData\Local\Temp\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 7"/>
+    <property name="classworlds.conf" value="C:\apache-maven-3.5.3\bin\..\bin\m2.conf"/>
+    <property name="sun.jnu.encoding" value="Cp1251"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_172\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\PROGRA~2\Borland\CBUILD~1\Bin;C:\PROGRA~2\Borland\CBUILD~1\Projects\Bpl;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\TortoiseSVN\bin;C:\Program Files (x86)\Rational\TestRealTime\bin\intel\win32;C:\Program Files (x86)\Rational\common;C:\apache-maven-3.5.3\bin;%PATH%;C:\MinGW\bin\;C:\MinGW\msys\1.0;C:\MinGW\include;C:\MinGW\lib\gcc\mingw32\6.3.0\include\;C:\Program Files\Git\cmd;C:\sqlite\;C:\Program Files\nodejs\;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\MinGW\msys\1.0\bin\;C:\Users\bondarenko\scoop\shims;C:\Users\bondarenko\AppData\Roaming\npm;C:\Program Files\Microsoft VS Code\bin;C:\MinGW\bin\;;."/>
+    <property name="maven.conf" value="C:\apache-maven-3.5.3\bin\../conf"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="6.1"/>
+    <property name="library.jansi.path" value="C:\apache-maven-3.5.3\bin\..\lib\jansi-native"/>
+    <property name="user.home" value="C:\Users\bondarenko"/>
+    <property name="user.timezone" value="GMT+03:00"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="file.encoding" value="Cp1251"/>
+    <property name="user.name" value="bondarenko"/>
+    <property name="java.class.path" value="C:\apache-maven-3.5.3\bin\..\boot\plexus-classworlds-2.5.2.jar"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_172\jre"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -Dtest=RunAllInChrome test"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="ru"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.8.0_172"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_172\jre\lib\ext;C:\Windows\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_172\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_172\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_172\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_172\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_172\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_172\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_172\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_172\jre\classes"/>
+    <property name="sun.stderr.encoding" value="cp866"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="C:\apache-maven-3.5.3\bin\.."/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.stdout.encoding" value="cp866"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase name="imageClearTest" classname="tests.ImageTranslationTest" time="10.593"/>
+  <testcase name="imageTranslationTest" classname="tests.ImageTranslationTest" time="24.872">
+    <error message="Expected condition failed: waiting for element to be clickable: [[ChromeDriver: chrome on XP (51e89a1c7c8d6c1581aadfbbdd10ad76)] -&gt; css selector: span[data-action^=&quot;paste&quot;]] (tried for 10 second(s) with 500 milliseconds interval)&#10;Build info: version: &apos;3.12.0&apos;, revision: &apos;7c6e0b3&apos;, time: &apos;2018-05-08T14:04:26.12Z&apos;&#10;System info: host: &apos;BONDARENKO&apos;, ip: &apos;172.20.1.75&apos;, os.name: &apos;Windows 7&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.1&apos;, java.version: &apos;1.8.0_172&apos;&#10;Driver info: org.openqa.selenium.chrome.ChromeDriver&#10;Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.37.544315 (730aa6a5fdba15..., userDataDir: C:\Users\BONDAR~1\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}&#10;Session ID: 51e89a1c7c8d6c1581aadfbbdd10ad76" type="org.openqa.selenium.TimeoutException">org.openqa.selenium.TimeoutException: 
+Expected condition failed: waiting for element to be clickable: [[ChromeDriver: chrome on XP (51e89a1c7c8d6c1581aadfbbdd10ad76)] -> css selector: span[data-action^="paste"]] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'BONDARENKO', ip: '172.20.1.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.37.544315 (730aa6a5fdba15..., userDataDir: C:\Users\BONDAR~1\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
+Session ID: 51e89a1c7c8d6c1581aadfbbdd10ad76
+	at tests.ImageTranslationTest.imageTranslationTest(ImageTranslationTest.java:26)
+</error>
+    <system-out><![CDATA[2018-10-01 17:22:10 INFO  WebDriverListener:50 - Test finished: imageClearTest(tests.ImageTranslationTest)
+2018-10-01 17:22:10 INFO  WebDriverListener:51 - --------------------------------------
+2018-10-01 17:22:10 INFO  WebDriverListener:43 - Test starts: imageTranslationTest(tests.ImageTranslationTest)
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7) on port 47140
+Only local connections are allowed.
+окт 01, 2018 5:22:12 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+]]></system-err>
+  </testcase>
+  <testcase name="clickOnMenuToImages" classname="tests.MainMenuTest" time="9.455"/>
+  <testcase name="clickOnMenuToMarket" classname="tests.MainMenuTest" time="11.421"/>
+  <testcase name="clickOnMenuToDisk" classname="tests.MainMenuTest" time="7.484"/>
+  <testcase name="clickOnMenuToMail" classname="tests.MainMenuTest" time="7.461"/>
+  <testcase name="clickOnMenuToMaps" classname="tests.MainMenuTest" time="9.6">
+    <failure message="expected:&lt;...ce=tableau_translate[]&gt; but was:&lt;...ce=tableau_translate[&amp;ll=38.935194%2C47.209580&amp;z=13]&gt;" type="org.junit.ComparisonFailure"><![CDATA[org.junit.ComparisonFailure: expected:<...ce=tableau_translate[]> but was:<...ce=tableau_translate[&ll=38.935194%2C47.209580&z=13]>
+	at tests.MainMenuTest.clickOnMenuToMaps(MainMenuTest.java:43)
+]]></failure>
+    <system-out><![CDATA[2018-10-01 17:23:11 INFO  WebDriverListener:50 - Test finished: clickOnMenuToMail(tests.MainMenuTest)
+2018-10-01 17:23:11 INFO  WebDriverListener:51 - --------------------------------------
+2018-10-01 17:23:11 INFO  WebDriverListener:50 - Test finished: clickOnMenuToMail(tests.MainMenuTest)
+2018-10-01 17:23:11 INFO  WebDriverListener:51 - --------------------------------------
+2018-10-01 17:23:11 INFO  WebDriverListener:43 - Test starts: clickOnMenuToMaps(tests.MainMenuTest)
+2018-10-01 17:23:11 INFO  WebDriverListener:43 - Test starts: clickOnMenuToMaps(tests.MainMenuTest)
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7) on port 37528
+Only local connections are allowed.
+окт 01, 2018 5:23:13 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+]]></system-err>
+  </testcase>
+  <testcase name="clickOnMenuToNews" classname="tests.MainMenuTest" time="7.489"/>
+  <testcase name="clickOnMenuToWeather" classname="tests.MainMenuTest" time="8.706"/>
+  <testcase name="clickOnMenuToTV" classname="tests.MainMenuTest" time="7.912"/>
+  <testcase name="clickOnMenuToMoney" classname="tests.MainMenuTest" time="8.6"/>
+  <testcase name="clickOnMenuToMusic" classname="tests.MainMenuTest" time="9.747"/>
+  <testcase name="clickOnMenuToVideo" classname="tests.MainMenuTest" time="8.639"/>
+  <testcase name="clickOnMenuToTranslate" classname="tests.MainMenuTest" time="6.966"/>
+  <testcase name="testUrlTranslate" classname="tests.SiteTranslationTest" time="15.323">
+    <error message="Expected condition failed: waiting for text (&apos;100%&apos;) to be present in element found by By.id: progress (tried for 10 second(s) with 500 milliseconds interval)&#10;Build info: version: &apos;3.12.0&apos;, revision: &apos;7c6e0b3&apos;, time: &apos;2018-05-08T14:04:26.12Z&apos;&#10;System info: host: &apos;BONDARENKO&apos;, ip: &apos;172.20.1.75&apos;, os.name: &apos;Windows 7&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.1&apos;, java.version: &apos;1.8.0_172&apos;&#10;Driver info: org.openqa.selenium.chrome.ChromeDriver&#10;Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.37.544315 (730aa6a5fdba15..., userDataDir: C:\Users\BONDAR~1\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}&#10;Session ID: 131f57e2d858ae42c568f870cacf39f0" type="org.openqa.selenium.TimeoutException">org.openqa.selenium.TimeoutException: 
+Expected condition failed: waiting for text ('100%') to be present in element found by By.id: progress (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'BONDARENKO', ip: '172.20.1.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.37.544315 (730aa6a5fdba15..., userDataDir: C:\Users\BONDAR~1\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
+Session ID: 131f57e2d858ae42c568f870cacf39f0
+	at tests.SiteTranslationTest.testUrlTranslate(SiteTranslationTest.java:23)
+</error>
+    <system-out><![CDATA[2018-10-01 17:24:19 INFO  WebDriverListener:50 - Test finished: clickOnMenuToTranslate(tests.MainMenuTest)
+2018-10-01 17:24:19 INFO  WebDriverListener:51 - --------------------------------------
+2018-10-01 17:24:19 INFO  WebDriverListener:50 - Test finished: clickOnMenuToTranslate(tests.MainMenuTest)
+2018-10-01 17:24:19 INFO  WebDriverListener:51 - --------------------------------------
+2018-10-01 17:24:19 INFO  WebDriverListener:43 - Test starts: testUrlTranslate(tests.SiteTranslationTest)
+2018-10-01 17:24:19 INFO  WebDriverListener:43 - Test starts: testUrlTranslate(tests.SiteTranslationTest)
+2018-10-01 17:24:19 INFO  WebDriverListener:43 - Test starts: testUrlTranslate(tests.SiteTranslationTest)
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7) on port 6437
+Only local connections are allowed.
+окт 01, 2018 5:24:21 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+]]></system-err>
+  </testcase>
+  <testcase name="testTranslationToRus[0]" classname="tests.TestTranslationToRus" time="6.501">
+    <error message="No value present" type="java.util.NoSuchElementException">java.util.NoSuchElementException: No value present
+	at tests.TestTranslationToRus.testTranslationToRus(TestTranslationToRus.java:40)
+</error>
+    <system-out><![CDATA[2018-10-01 17:24:34 ERROR WebDriverListener:57 - Test failed with: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for text ('100%') to be present in element found by By.id: progress (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'BONDARENKO', ip: '172.20.1.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.37.544315 (730aa6a5fdba15..., userDataDir: C:\Users\BONDAR~1\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
+Session ID: 131f57e2d858ae42c568f870cacf39f0
+2018-10-01 17:24:34 ERROR WebDriverListener:57 - Test failed with: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for text ('100%') to be present in element found by By.id: progress (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'BONDARENKO', ip: '172.20.1.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.37.544315 (730aa6a5fdba15..., userDataDir: C:\Users\BONDAR~1\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
+Session ID: 131f57e2d858ae42c568f870cacf39f0
+2018-10-01 17:24:34 ERROR WebDriverListener:57 - Test failed with: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for text ('100%') to be present in element found by By.id: progress (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'BONDARENKO', ip: '172.20.1.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.37.544315 (730aa6a5fdba15..., userDataDir: C:\Users\BONDAR~1\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
+Session ID: 131f57e2d858ae42c568f870cacf39f0
+2018-10-01 17:24:34 INFO  WebDriverListener:50 - Test finished: testUrlTranslate(tests.SiteTranslationTest)
+2018-10-01 17:24:34 INFO  WebDriverListener:51 - --------------------------------------
+2018-10-01 17:24:34 INFO  WebDriverListener:50 - Test finished: testUrlTranslate(tests.SiteTranslationTest)
+2018-10-01 17:24:34 INFO  WebDriverListener:51 - --------------------------------------
+2018-10-01 17:24:34 INFO  WebDriverListener:50 - Test finished: testUrlTranslate(tests.SiteTranslationTest)
+2018-10-01 17:24:34 INFO  WebDriverListener:51 - --------------------------------------
+2018-10-01 17:24:34 INFO  WebDriverListener:43 - Test starts: testTranslationToRus[0](tests.TestTranslationToRus)
+2018-10-01 17:24:34 INFO  WebDriverListener:43 - Test starts: testTranslationToRus[0](tests.TestTranslationToRus)
+2018-10-01 17:24:34 INFO  WebDriverListener:43 - Test starts: testTranslationToRus[0](tests.TestTranslationToRus)
+2018-10-01 17:24:34 INFO  WebDriverListener:43 - Test starts: testTranslationToRus[0](tests.TestTranslationToRus)
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7) on port 19336
+Only local connections are allowed.
+окт 01, 2018 5:24:36 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+]]></system-err>
+  </testcase>
+  <testcase name="testTranslationToRus[1]" classname="tests.TestTranslationToRus" time="6.911">
+    <error message="No value present" type="java.util.NoSuchElementException">java.util.NoSuchElementException: No value present
+	at tests.TestTranslationToRus.testTranslationToRus(TestTranslationToRus.java:40)
+</error>
+    <system-out><![CDATA[2018-10-01 17:24:40 ERROR WebDriverListener:57 - Test failed with: java.util.NoSuchElementException: No value present
+2018-10-01 17:24:40 ERROR WebDriverListener:57 - Test failed with: java.util.NoSuchElementException: No value present
+2018-10-01 17:24:40 ERROR WebDriverListener:57 - Test failed with: java.util.NoSuchElementException: No value present
+2018-10-01 17:24:40 ERROR WebDriverListener:57 - Test failed with: java.util.NoSuchElementException: No value present
+2018-10-01 17:24:40 INFO  WebDriverListener:50 - Test finished: testTranslationToRus[0](tests.TestTranslationToRus)
+2018-10-01 17:24:40 INFO  WebDriverListener:51 - --------------------------------------
+2018-10-01 17:24:40 INFO  WebDriverListener:50 - Test finished: testTranslationToRus[0](tests.TestTranslationToRus)
+2018-10-01 17:24:40 INFO  WebDriverListener:51 - --------------------------------------
+2018-10-01 17:24:40 INFO  WebDriverListener:50 - Test finished: testTranslationToRus[0](tests.TestTranslationToRus)
+2018-10-01 17:24:40 INFO  WebDriverListener:51 - --------------------------------------
+2018-10-01 17:24:40 INFO  WebDriverListener:50 - Test finished: testTranslationToRus[0](tests.TestTranslationToRus)
+2018-10-01 17:24:40 INFO  WebDriverListener:51 - --------------------------------------
+2018-10-01 17:24:40 INFO  WebDriverListener:43 - Test starts: testTranslationToRus[1](tests.TestTranslationToRus)
+2018-10-01 17:24:40 INFO  WebDriverListener:43 - Test starts: testTranslationToRus[1](tests.TestTranslationToRus)
+2018-10-01 17:24:40 INFO  WebDriverListener:43 - Test starts: testTranslationToRus[1](tests.TestTranslationToRus)
+2018-10-01 17:24:40 INFO  WebDriverListener:43 - Test starts: testTranslationToRus[1](tests.TestTranslationToRus)
+2018-10-01 17:24:40 INFO  WebDriverListener:43 - Test starts: testTranslationToRus[1](tests.TestTranslationToRus)
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7) on port 41360
+Only local connections are allowed.
+окт 01, 2018 5:24:43 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+]]></system-err>
+  </testcase>
+  <testcase name="testTranslationToRus[2]" classname="tests.TestTranslationToRus" time="7.266">
+    <error message="No value present" type="java.util.NoSuchElementException">java.util.NoSuchElementException: No value present
+	at tests.TestTranslationToRus.testTranslationToRus(TestTranslationToRus.java:40)
+</error>
+    <system-out><![CDATA[2018-10-01 17:24:47 ERROR WebDriverListener:57 - Test failed with: java.util.NoSuchElementException: No value present
+2018-10-01 17:24:47 ERROR WebDriverListener:57 - Test failed with: java.util.NoSuchElementException: No value present
+2018-10-01 17:24:47 ERROR WebDriverListener:57 - Test failed with: java.util.NoSuchElementException: No value present
+2018-10-01 17:24:47 ERROR WebDriverListener:57 - Test failed with: java.util.NoSuchElementException: No value present
+2018-10-01 17:24:47 ERROR WebDriverListener:57 - Test failed with: java.util.NoSuchElementException: No value present
+2018-10-01 17:24:47 INFO  WebDriverListener:50 - Test finished: testTranslationToRus[1](tests.TestTranslationToRus)
+2018-10-01 17:24:47 INFO  WebDriverListener:51 - --------------------------------------
+2018-10-01 17:24:47 INFO  WebDriverListener:50 - Test finished: testTranslationToRus[1](tests.TestTranslationToRus)
+2018-10-01 17:24:47 INFO  WebDriverListener:51 - --------------------------------------
+2018-10-01 17:24:47 INFO  WebDriverListener:50 - Test finished: testTranslationToRus[1](tests.TestTranslationToRus)
+2018-10-01 17:24:47 INFO  WebDriverListener:51 - --------------------------------------
+2018-10-01 17:24:47 INFO  WebDriverListener:50 - Test finished: testTranslationToRus[1](tests.TestTranslationToRus)
+2018-10-01 17:24:47 INFO  WebDriverListener:51 - --------------------------------------
+2018-10-01 17:24:47 INFO  WebDriverListener:50 - Test finished: testTranslationToRus[1](tests.TestTranslationToRus)
+2018-10-01 17:24:47 INFO  WebDriverListener:51 - --------------------------------------
+2018-10-01 17:24:47 INFO  WebDriverListener:43 - Test starts: testTranslationToRus[2](tests.TestTranslationToRus)
+2018-10-01 17:24:47 INFO  WebDriverListener:43 - Test starts: testTranslationToRus[2](tests.TestTranslationToRus)
+2018-10-01 17:24:47 INFO  WebDriverListener:43 - Test starts: testTranslationToRus[2](tests.TestTranslationToRus)
+2018-10-01 17:24:47 INFO  WebDriverListener:43 - Test starts: testTranslationToRus[2](tests.TestTranslationToRus)
+2018-10-01 17:24:47 INFO  WebDriverListener:43 - Test starts: testTranslationToRus[2](tests.TestTranslationToRus)
+2018-10-01 17:24:47 INFO  WebDriverListener:43 - Test starts: testTranslationToRus[2](tests.TestTranslationToRus)
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7) on port 8220
+Only local connections are allowed.
+окт 01, 2018 5:24:50 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+]]></system-err>
+  </testcase>
+  <testcase name="testTranslationToRus[3]" classname="tests.TestTranslationToRus" time="6.564">
+    <error message="No value present" type="java.util.NoSuchElementException">java.util.NoSuchElementException: No value present
+	at tests.TestTranslationToRus.testTranslationToRus(TestTranslationToRus.java:40)
+</error>
+    <system-out><![CDATA[2018-10-01 17:24:55 ERROR WebDriverListener:57 - Test failed with: java.util.NoSuchElementException: No value present
+2018-10-01 17:24:55 ERROR WebDriverListener:57 - Test failed with: java.util.NoSuchElementException: No value present
+2018-10-01 17:24:55 ERROR WebDriverListener:57 - Test failed with: java.util.NoSuchElementException: No value present
+2018-10-01 17:24:55 ERROR WebDriverListener:57 - Test failed with: java.util.NoSuchElementException: No value present
+2018-10-01 17:24:55 ERROR WebDriverListener:57 - Test failed with: java.util.NoSuchElementException: No value present
+2018-10-01 17:24:55 ERROR WebDriverListener:57 - Test failed with: java.util.NoSuchElementException: No value present
+2018-10-01 17:24:55 INFO  WebDriverListener:50 - Test finished: testTranslationToRus[2](tests.TestTranslationToRus)
+2018-10-01 17:24:55 INFO  WebDriverListener:51 - --------------------------------------
+2018-10-01 17:24:55 INFO  WebDriverListener:50 - Test finished: testTranslationToRus[2](tests.TestTranslationToRus)
+2018-10-01 17:24:55 INFO  WebDriverListener:51 - --------------------------------------
+2018-10-01 17:24:55 INFO  WebDriverListener:50 - Test finished: testTranslationToRus[2](tests.TestTranslationToRus)
+2018-10-01 17:24:55 INFO  WebDriverListener:51 - --------------------------------------
+2018-10-01 17:24:55 INFO  WebDriverListener:50 - Test finished: testTranslationToRus[2](tests.TestTranslationToRus)
+2018-10-01 17:24:55 INFO  WebDriverListener:51 - --------------------------------------
+2018-10-01 17:24:55 INFO  WebDriverListener:50 - Test finished: testTranslationToRus[2](tests.TestTranslationToRus)
+2018-10-01 17:24:55 INFO  WebDriverListener:51 - --------------------------------------
+2018-10-01 17:24:55 INFO  WebDriverListener:50 - Test finished: testTranslationToRus[2](tests.TestTranslationToRus)
+2018-10-01 17:24:55 INFO  WebDriverListener:51 - --------------------------------------
+2018-10-01 17:24:55 INFO  WebDriverListener:43 - Test starts: testTranslationToRus[3](tests.TestTranslationToRus)
+2018-10-01 17:24:55 INFO  WebDriverListener:43 - Test starts: testTranslationToRus[3](tests.TestTranslationToRus)
+2018-10-01 17:24:55 INFO  WebDriverListener:43 - Test starts: testTranslationToRus[3](tests.TestTranslationToRus)
+2018-10-01 17:24:55 INFO  WebDriverListener:43 - Test starts: testTranslationToRus[3](tests.TestTranslationToRus)
+2018-10-01 17:24:55 INFO  WebDriverListener:43 - Test starts: testTranslationToRus[3](tests.TestTranslationToRus)
+2018-10-01 17:24:55 INFO  WebDriverListener:43 - Test starts: testTranslationToRus[3](tests.TestTranslationToRus)
+2018-10-01 17:24:55 INFO  WebDriverListener:43 - Test starts: testTranslationToRus[3](tests.TestTranslationToRus)
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7) on port 9842
+Only local connections are allowed.
+окт 01, 2018 5:24:57 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+]]></system-err>
+  </testcase>
+  <testcase name="testTranslationToRus[4]" classname="tests.TestTranslationToRus" time="6.506">
+    <error message="No value present" type="java.util.NoSuchElementException">java.util.NoSuchElementException: No value present
+	at tests.TestTranslationToRus.testTranslationToRus(TestTranslationToRus.java:40)
+</error>
+    <system-out><![CDATA[2018-10-01 17:25:01 ERROR WebDriverListener:57 - Test failed with: java.util.NoSuchElementException: No value present
+2018-10-01 17:25:01 ERROR WebDriverListener:57 - Test failed with: java.util.NoSuchElementException: No value present
+2018-10-01 17:25:01 ERROR WebDriverListener:57 - Test failed with: java.util.NoSuchElementException: No value present
+2018-10-01 17:25:01 ERROR WebDriverListener:57 - Test failed with: java.util.NoSuchElementException: No value present
+2018-10-01 17:25:01 ERROR WebDriverListener:57 - Test failed with: java.util.NoSuchElementException: No value present
+2018-10-01 17:25:01 ERROR WebDriverListener:57 - Test failed with: java.util.NoSuchElementException: No value present
+2018-10-01 17:25:01 ERROR WebDriverListener:57 - Test failed with: java.util.NoSuchElementException: No value present
+2018-10-01 17:25:01 INFO  WebDriverListener:50 - Test finished: testTranslationToRus[3](tests.TestTranslationToRus)
+2018-10-01 17:25:01 INFO  WebDriverListener:51 - --------------------------------------
+2018-10-01 17:25:01 INFO  WebDriverListener:50 - Test finished: testTranslationToRus[3](tests.TestTranslationToRus)
+2018-10-01 17:25:01 INFO  WebDriverListener:51 - --------------------------------------
+2018-10-01 17:25:01 INFO  WebDriverListener:50 - Test finished: testTranslationToRus[3](tests.TestTranslationToRus)
+2018-10-01 17:25:01 INFO  WebDriverListener:51 - --------------------------------------
+2018-10-01 17:25:01 INFO  WebDriverListener:50 - Test finished: testTranslationToRus[3](tests.TestTranslationToRus)
+2018-10-01 17:25:01 INFO  WebDriverListener:51 - --------------------------------------
+2018-10-01 17:25:01 INFO  WebDriverListener:50 - Test finished: testTranslationToRus[3](tests.TestTranslationToRus)
+2018-10-01 17:25:01 INFO  WebDriverListener:51 - --------------------------------------
+2018-10-01 17:25:01 INFO  WebDriverListener:50 - Test finished: testTranslationToRus[3](tests.TestTranslationToRus)
+2018-10-01 17:25:01 INFO  WebDriverListener:51 - --------------------------------------
+2018-10-01 17:25:01 INFO  WebDriverListener:50 - Test finished: testTranslationToRus[3](tests.TestTranslationToRus)
+2018-10-01 17:25:01 INFO  WebDriverListener:51 - --------------------------------------
+2018-10-01 17:25:01 INFO  WebDriverListener:43 - Test starts: testTranslationToRus[4](tests.TestTranslationToRus)
+2018-10-01 17:25:01 INFO  WebDriverListener:43 - Test starts: testTranslationToRus[4](tests.TestTranslationToRus)
+2018-10-01 17:25:01 INFO  WebDriverListener:43 - Test starts: testTranslationToRus[4](tests.TestTranslationToRus)
+2018-10-01 17:25:01 INFO  WebDriverListener:43 - Test starts: testTranslationToRus[4](tests.TestTranslationToRus)
+2018-10-01 17:25:01 INFO  WebDriverListener:43 - Test starts: testTranslationToRus[4](tests.TestTranslationToRus)
+2018-10-01 17:25:01 INFO  WebDriverListener:43 - Test starts: testTranslationToRus[4](tests.TestTranslationToRus)
+2018-10-01 17:25:01 INFO  WebDriverListener:43 - Test starts: testTranslationToRus[4](tests.TestTranslationToRus)
+2018-10-01 17:25:01 INFO  WebDriverListener:43 - Test starts: testTranslationToRus[4](tests.TestTranslationToRus)
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7) on port 1073
+Only local connections are allowed.
+окт 01, 2018 5:25:04 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+]]></system-err>
+  </testcase>
+  <testcase name="clearButtonTest" classname="tests.ToolsButtonsTest" time="15.21"/>
+  <testcase name="spellerButtonTest" classname="tests.ToolsButtonsTest" time="6.43">
+    <failure type="java.lang.AssertionError">java.lang.AssertionError
+	at tests.ToolsButtonsTest.spellerButtonTest(ToolsButtonsTest.java:38)
+</failure>
+    <system-out><![CDATA[2018-10-01 17:25:23 INFO  WebDriverListener:50 - Test finished: clearButtonTest(tests.ToolsButtonsTest)
+2018-10-01 17:25:23 INFO  WebDriverListener:51 - --------------------------------------
+2018-10-01 17:25:23 INFO  WebDriverListener:50 - Test finished: clearButtonTest(tests.ToolsButtonsTest)
+2018-10-01 17:25:23 INFO  WebDriverListener:51 - --------------------------------------
+2018-10-01 17:25:23 INFO  WebDriverListener:50 - Test finished: clearButtonTest(tests.ToolsButtonsTest)
+2018-10-01 17:25:23 INFO  WebDriverListener:51 - --------------------------------------
+2018-10-01 17:25:23 INFO  WebDriverListener:50 - Test finished: clearButtonTest(tests.ToolsButtonsTest)
+2018-10-01 17:25:23 INFO  WebDriverListener:51 - --------------------------------------
+2018-10-01 17:25:23 INFO  WebDriverListener:50 - Test finished: clearButtonTest(tests.ToolsButtonsTest)
+2018-10-01 17:25:23 INFO  WebDriverListener:51 - --------------------------------------
+2018-10-01 17:25:23 INFO  WebDriverListener:50 - Test finished: clearButtonTest(tests.ToolsButtonsTest)
+2018-10-01 17:25:23 INFO  WebDriverListener:51 - --------------------------------------
+2018-10-01 17:25:23 INFO  WebDriverListener:50 - Test finished: clearButtonTest(tests.ToolsButtonsTest)
+2018-10-01 17:25:23 INFO  WebDriverListener:51 - --------------------------------------
+2018-10-01 17:25:23 INFO  WebDriverListener:50 - Test finished: clearButtonTest(tests.ToolsButtonsTest)
+2018-10-01 17:25:23 INFO  WebDriverListener:51 - --------------------------------------
+2018-10-01 17:25:23 INFO  WebDriverListener:50 - Test finished: clearButtonTest(tests.ToolsButtonsTest)
+2018-10-01 17:25:23 INFO  WebDriverListener:51 - --------------------------------------
+2018-10-01 17:25:23 INFO  WebDriverListener:43 - Test starts: spellerButtonTest(tests.ToolsButtonsTest)
+2018-10-01 17:25:23 INFO  WebDriverListener:43 - Test starts: spellerButtonTest(tests.ToolsButtonsTest)
+2018-10-01 17:25:23 INFO  WebDriverListener:43 - Test starts: spellerButtonTest(tests.ToolsButtonsTest)
+2018-10-01 17:25:23 INFO  WebDriverListener:43 - Test starts: spellerButtonTest(tests.ToolsButtonsTest)
+2018-10-01 17:25:23 INFO  WebDriverListener:43 - Test starts: spellerButtonTest(tests.ToolsButtonsTest)
+2018-10-01 17:25:23 INFO  WebDriverListener:43 - Test starts: spellerButtonTest(tests.ToolsButtonsTest)
+2018-10-01 17:25:23 INFO  WebDriverListener:43 - Test starts: spellerButtonTest(tests.ToolsButtonsTest)
+2018-10-01 17:25:23 INFO  WebDriverListener:43 - Test starts: spellerButtonTest(tests.ToolsButtonsTest)
+2018-10-01 17:25:23 INFO  WebDriverListener:43 - Test starts: spellerButtonTest(tests.ToolsButtonsTest)
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7) on port 27528
+Only local connections are allowed.
+окт 01, 2018 5:25:26 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+]]></system-err>
+  </testcase>
+  <testcase name="shareButtonTest" classname="tests.ToolsButtonsTest" time="13.381"/>
+  <testcase name="langHistoryBoxTest" classname="tests.ToolsButtonsTest" time="7.431">
+    <error message="No value present" type="java.util.NoSuchElementException">java.util.NoSuchElementException: No value present
+	at tests.ToolsButtonsTest.langHistoryBoxTest(ToolsButtonsTest.java:57)
+</error>
+    <system-out><![CDATA[2018-10-01 17:25:43 INFO  WebDriverListener:50 - Test finished: shareButtonTest(tests.ToolsButtonsTest)
+2018-10-01 17:25:43 INFO  WebDriverListener:51 - --------------------------------------
+2018-10-01 17:25:43 INFO  WebDriverListener:50 - Test finished: shareButtonTest(tests.ToolsButtonsTest)
+2018-10-01 17:25:43 INFO  WebDriverListener:51 - --------------------------------------
+2018-10-01 17:25:43 INFO  WebDriverListener:50 - Test finished: shareButtonTest(tests.ToolsButtonsTest)
+2018-10-01 17:25:43 INFO  WebDriverListener:51 - --------------------------------------
+2018-10-01 17:25:43 INFO  WebDriverListener:50 - Test finished: shareButtonTest(tests.ToolsButtonsTest)
+2018-10-01 17:25:43 INFO  WebDriverListener:51 - --------------------------------------
+2018-10-01 17:25:43 INFO  WebDriverListener:50 - Test finished: shareButtonTest(tests.ToolsButtonsTest)
+2018-10-01 17:25:43 INFO  WebDriverListener:51 - --------------------------------------
+2018-10-01 17:25:43 INFO  WebDriverListener:50 - Test finished: shareButtonTest(tests.ToolsButtonsTest)
+2018-10-01 17:25:43 INFO  WebDriverListener:51 - --------------------------------------
+2018-10-01 17:25:43 INFO  WebDriverListener:50 - Test finished: shareButtonTest(tests.ToolsButtonsTest)
+2018-10-01 17:25:43 INFO  WebDriverListener:51 - --------------------------------------
+2018-10-01 17:25:43 INFO  WebDriverListener:50 - Test finished: shareButtonTest(tests.ToolsButtonsTest)
+2018-10-01 17:25:43 INFO  WebDriverListener:51 - --------------------------------------
+2018-10-01 17:25:43 INFO  WebDriverListener:50 - Test finished: shareButtonTest(tests.ToolsButtonsTest)
+2018-10-01 17:25:43 INFO  WebDriverListener:51 - --------------------------------------
+2018-10-01 17:25:43 INFO  WebDriverListener:43 - Test starts: langHistoryBoxTest(tests.ToolsButtonsTest)
+2018-10-01 17:25:43 INFO  WebDriverListener:43 - Test starts: langHistoryBoxTest(tests.ToolsButtonsTest)
+2018-10-01 17:25:43 INFO  WebDriverListener:43 - Test starts: langHistoryBoxTest(tests.ToolsButtonsTest)
+2018-10-01 17:25:43 INFO  WebDriverListener:43 - Test starts: langHistoryBoxTest(tests.ToolsButtonsTest)
+2018-10-01 17:25:43 INFO  WebDriverListener:43 - Test starts: langHistoryBoxTest(tests.ToolsButtonsTest)
+2018-10-01 17:25:43 INFO  WebDriverListener:43 - Test starts: langHistoryBoxTest(tests.ToolsButtonsTest)
+2018-10-01 17:25:43 INFO  WebDriverListener:43 - Test starts: langHistoryBoxTest(tests.ToolsButtonsTest)
+2018-10-01 17:25:43 INFO  WebDriverListener:43 - Test starts: langHistoryBoxTest(tests.ToolsButtonsTest)
+2018-10-01 17:25:43 INFO  WebDriverListener:43 - Test starts: langHistoryBoxTest(tests.ToolsButtonsTest)
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7) on port 44950
+Only local connections are allowed.
+окт 01, 2018 5:25:45 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+]]></system-err>
+  </testcase>
+</testsuite>

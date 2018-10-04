@@ -1,0 +1,37 @@
+{
+  "uid" : "872172e3c4e53895",
+  "name" : "clearButtonTest",
+  "fullName" : "tests.ToolsButtonsTest.clearButtonTest",
+  "historyId" : "1722ac84f01825de4f42fa3037f12731",
+  "time" : {
+    "start" : 1538401785229,
+    "stop" : 1538401800539,
+    "duration" : 15310
+  },
+  "status" : "passed",
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "tests"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.ToolsButtonsTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "clearButtonTest"
+  }, {
+    "name" : "suite",
+    "value" : "tests.ToolsButtonsTest"
+  }, {
+    "name" : "host",
+    "value" : "Bondarenko"
+  }, {
+    "name" : "thread",
+    "value" : "14644@Bondarenko.main(1)"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "extra" : { }
+}

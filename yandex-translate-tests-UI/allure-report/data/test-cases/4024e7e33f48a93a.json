@@ -1,0 +1,37 @@
+{
+  "uid" : "4024e7e33f48a93a",
+  "name" : "testTranslationToOtherLangs[3]",
+  "fullName" : "tests.TestTranslationToLangs.testTranslationToOtherLangs[3]",
+  "historyId" : "40dccf81df7450b13be7c71fb1157f28",
+  "time" : {
+    "start" : 1538488373807,
+    "stop" : 1538488386890,
+    "duration" : 13083
+  },
+  "status" : "passed",
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "tests"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.TestTranslationToLangs"
+  }, {
+    "name" : "testMethod",
+    "value" : "testTranslationToOtherLangs[3]"
+  }, {
+    "name" : "suite",
+    "value" : "tests.TestTranslationToLangs"
+  }, {
+    "name" : "host",
+    "value" : "Bondarenko"
+  }, {
+    "name" : "thread",
+    "value" : "9388@Bondarenko.main(1)"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "extra" : { }
+}

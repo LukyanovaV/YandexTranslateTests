@@ -1,0 +1,37 @@
+{
+  "uid" : "985882d718164d3a",
+  "name" : "clickOnMenuToTV",
+  "fullName" : "tests.MainMenuTest.clickOnMenuToTV",
+  "historyId" : "bfe899fbb2dbc8d8e5ab83d65c1c0656",
+  "time" : {
+    "start" : 1538403817020,
+    "stop" : 1538403824957,
+    "duration" : 7937
+  },
+  "status" : "passed",
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "tests"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.MainMenuTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "clickOnMenuToTV"
+  }, {
+    "name" : "suite",
+    "value" : "tests.MainMenuTest"
+  }, {
+    "name" : "host",
+    "value" : "Bondarenko"
+  }, {
+    "name" : "thread",
+    "value" : "7924@Bondarenko.main(1)"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "extra" : { }
+}

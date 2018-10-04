@@ -1,0 +1,466 @@
+Test starts: testTranslationToRus[4](tests.TestTranslationToRus)
+Test finished: testTranslationToRus[4](tests.TestTranslationToRus)
+--------------------------------------
+Test finished: testTranslationToRus[4](tests.TestTranslationToRus)
+--------------------------------------
+Test finished: testTranslationToRus[4](tests.TestTranslationToRus)
+--------------------------------------
+Test finished: testTranslationToRus[4](tests.TestTranslationToRus)
+--------------------------------------
+Test finished: testTranslationToRus[4](tests.TestTranslationToRus)
+--------------------------------------
+Test finished: testTranslationToRus[4](tests.TestTranslationToRus)
+--------------------------------------
+Test finished: testTranslationToRus[4](tests.TestTranslationToRus)
+--------------------------------------
+Test finished: testTranslationToRus[4](tests.TestTranslationToRus)
+--------------------------------------
+Test finished: testTranslationToRus[4](tests.TestTranslationToRus)
+--------------------------------------
+Test finished: testTranslationToRus[4](tests.TestTranslationToRus)
+--------------------------------------
+Test finished: testTranslationToRus[4](tests.TestTranslationToRus)
+--------------------------------------
+Test finished: testTranslationToRus[4](tests.TestTranslationToRus)
+--------------------------------------
+Test finished: testTranslationToRus[4](tests.TestTranslationToRus)
+--------------------------------------
+Test finished: testTranslationToRus[4](tests.TestTranslationToRus)
+--------------------------------------
+Test finished: testTranslationToRus[4](tests.TestTranslationToRus)
+--------------------------------------
+Test finished: testTranslationToRus[4](tests.TestTranslationToRus)
+--------------------------------------
+Test finished: testTranslationToRus[4](tests.TestTranslationToRus)
+--------------------------------------
+Test finished: testTranslationToRus[4](tests.TestTranslationToRus)
+--------------------------------------
+Test starts: clearButtonTest(tests.ToolsButtonsTest)
+Test starts: clearButtonTest(tests.ToolsButtonsTest)
+Test starts: clearButtonTest(tests.ToolsButtonsTest)
+Test starts: clearButtonTest(tests.ToolsButtonsTest)
+Test starts: clearButtonTest(tests.ToolsButtonsTest)
+Test starts: clearButtonTest(tests.ToolsButtonsTest)
+Test starts: clearButtonTest(tests.ToolsButtonsTest)
+Test starts: clearButtonTest(tests.ToolsButtonsTest)
+Test starts: clearButtonTest(tests.ToolsButtonsTest)
+Test starts: clearButtonTest(tests.ToolsButtonsTest)
+Test starts: clearButtonTest(tests.ToolsButtonsTest)
+Test starts: clearButtonTest(tests.ToolsButtonsTest)
+Test starts: clearButtonTest(tests.ToolsButtonsTest)
+Test starts: clearButtonTest(tests.ToolsButtonsTest)
+Test starts: clearButtonTest(tests.ToolsButtonsTest)
+Test starts: clearButtonTest(tests.ToolsButtonsTest)
+Test starts: clearButtonTest(tests.ToolsButtonsTest)
+Test starts: clearButtonTest(tests.ToolsButtonsTest)
+Test starts: clearButtonTest(tests.ToolsButtonsTest)
+Test finished: clearButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: clearButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: clearButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: clearButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: clearButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: clearButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: clearButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: clearButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: clearButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: clearButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: clearButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: clearButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: clearButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: clearButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: clearButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: clearButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: clearButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: clearButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: clearButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test starts: spellerButtonTest(tests.ToolsButtonsTest)
+Test starts: spellerButtonTest(tests.ToolsButtonsTest)
+Test starts: spellerButtonTest(tests.ToolsButtonsTest)
+Test starts: spellerButtonTest(tests.ToolsButtonsTest)
+Test starts: spellerButtonTest(tests.ToolsButtonsTest)
+Test starts: spellerButtonTest(tests.ToolsButtonsTest)
+Test starts: spellerButtonTest(tests.ToolsButtonsTest)
+Test starts: spellerButtonTest(tests.ToolsButtonsTest)
+Test starts: spellerButtonTest(tests.ToolsButtonsTest)
+Test starts: spellerButtonTest(tests.ToolsButtonsTest)
+Test starts: spellerButtonTest(tests.ToolsButtonsTest)
+Test starts: spellerButtonTest(tests.ToolsButtonsTest)
+Test starts: spellerButtonTest(tests.ToolsButtonsTest)
+Test starts: spellerButtonTest(tests.ToolsButtonsTest)
+Test starts: spellerButtonTest(tests.ToolsButtonsTest)
+Test starts: spellerButtonTest(tests.ToolsButtonsTest)
+Test starts: spellerButtonTest(tests.ToolsButtonsTest)
+Test starts: spellerButtonTest(tests.ToolsButtonsTest)
+Test starts: spellerButtonTest(tests.ToolsButtonsTest)
+Test failed with: java.lang.AssertionError
+Test failed with: java.lang.AssertionError
+Test failed with: java.lang.AssertionError
+Test failed with: java.lang.AssertionError
+Test failed with: java.lang.AssertionError
+Test failed with: java.lang.AssertionError
+Test failed with: java.lang.AssertionError
+Test failed with: java.lang.AssertionError
+Test failed with: java.lang.AssertionError
+Test failed with: java.lang.AssertionError
+Test failed with: java.lang.AssertionError
+Test failed with: java.lang.AssertionError
+Test failed with: java.lang.AssertionError
+Test failed with: java.lang.AssertionError
+Test failed with: java.lang.AssertionError
+Test failed with: java.lang.AssertionError
+Test failed with: java.lang.AssertionError
+Test failed with: java.lang.AssertionError
+Test failed with: java.lang.AssertionError
+Test finished: spellerButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: spellerButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: spellerButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: spellerButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: spellerButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: spellerButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: spellerButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: spellerButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: spellerButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: spellerButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: spellerButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: spellerButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: spellerButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: spellerButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: spellerButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: spellerButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: spellerButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: spellerButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: spellerButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test starts: shareButtonTest(tests.ToolsButtonsTest)
+Test starts: shareButtonTest(tests.ToolsButtonsTest)
+Test starts: shareButtonTest(tests.ToolsButtonsTest)
+Test starts: shareButtonTest(tests.ToolsButtonsTest)
+Test starts: shareButtonTest(tests.ToolsButtonsTest)
+Test starts: shareButtonTest(tests.ToolsButtonsTest)
+Test starts: shareButtonTest(tests.ToolsButtonsTest)
+Test starts: shareButtonTest(tests.ToolsButtonsTest)
+Test starts: shareButtonTest(tests.ToolsButtonsTest)
+Test starts: shareButtonTest(tests.ToolsButtonsTest)
+Test starts: shareButtonTest(tests.ToolsButtonsTest)
+Test starts: shareButtonTest(tests.ToolsButtonsTest)
+Test starts: shareButtonTest(tests.ToolsButtonsTest)
+Test starts: shareButtonTest(tests.ToolsButtonsTest)
+Test starts: shareButtonTest(tests.ToolsButtonsTest)
+Test starts: shareButtonTest(tests.ToolsButtonsTest)
+Test starts: shareButtonTest(tests.ToolsButtonsTest)
+Test starts: shareButtonTest(tests.ToolsButtonsTest)
+Test starts: shareButtonTest(tests.ToolsButtonsTest)
+Test finished: shareButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: shareButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: shareButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: shareButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: shareButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: shareButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: shareButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: shareButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: shareButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: shareButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: shareButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: shareButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: shareButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: shareButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: shareButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: shareButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: shareButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: shareButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: shareButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test starts: langHistoryBoxTest(tests.ToolsButtonsTest)
+Test starts: langHistoryBoxTest(tests.ToolsButtonsTest)
+Test starts: langHistoryBoxTest(tests.ToolsButtonsTest)
+Test starts: langHistoryBoxTest(tests.ToolsButtonsTest)
+Test starts: langHistoryBoxTest(tests.ToolsButtonsTest)
+Test starts: langHistoryBoxTest(tests.ToolsButtonsTest)
+Test starts: langHistoryBoxTest(tests.ToolsButtonsTest)
+Test starts: langHistoryBoxTest(tests.ToolsButtonsTest)
+Test starts: langHistoryBoxTest(tests.ToolsButtonsTest)
+Test starts: langHistoryBoxTest(tests.ToolsButtonsTest)
+Test starts: langHistoryBoxTest(tests.ToolsButtonsTest)
+Test starts: langHistoryBoxTest(tests.ToolsButtonsTest)
+Test starts: langHistoryBoxTest(tests.ToolsButtonsTest)
+Test starts: langHistoryBoxTest(tests.ToolsButtonsTest)
+Test starts: langHistoryBoxTest(tests.ToolsButtonsTest)
+Test starts: langHistoryBoxTest(tests.ToolsButtonsTest)
+Test starts: langHistoryBoxTest(tests.ToolsButtonsTest)
+Test starts: langHistoryBoxTest(tests.ToolsButtonsTest)
+Test starts: langHistoryBoxTest(tests.ToolsButtonsTest)
+Test failed with: java.util.NoSuchElementException: No value present
+Test failed with: java.util.NoSuchElementException: No value present
+Test failed with: java.util.NoSuchElementException: No value present
+Test failed with: java.util.NoSuchElementException: No value present
+Test failed with: java.util.NoSuchElementException: No value present
+Test failed with: java.util.NoSuchElementException: No value present
+Test failed with: java.util.NoSuchElementException: No value present
+Test failed with: java.util.NoSuchElementException: No value present
+Test failed with: java.util.NoSuchElementException: No value present
+Test failed with: java.util.NoSuchElementException: No value present
+Test failed with: java.util.NoSuchElementException: No value present
+Test failed with: java.util.NoSuchElementException: No value present
+Test failed with: java.util.NoSuchElementException: No value present
+Test failed with: java.util.NoSuchElementException: No value present
+Test failed with: java.util.NoSuchElementException: No value present
+Test failed with: java.util.NoSuchElementException: No value present
+Test failed with: java.util.NoSuchElementException: No value present
+Test failed with: java.util.NoSuchElementException: No value present
+Test failed with: java.util.NoSuchElementException: No value present
+Test finished: langHistoryBoxTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: langHistoryBoxTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: langHistoryBoxTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: langHistoryBoxTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: langHistoryBoxTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: langHistoryBoxTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: langHistoryBoxTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: langHistoryBoxTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: langHistoryBoxTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: langHistoryBoxTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: langHistoryBoxTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: langHistoryBoxTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: langHistoryBoxTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: langHistoryBoxTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: langHistoryBoxTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: langHistoryBoxTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: langHistoryBoxTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: langHistoryBoxTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: langHistoryBoxTest(tests.ToolsButtonsTest)
+--------------------------------------
+Result of the test run:
+Run time: 234482 ms
+Run count: 35
+Failure count: 49
+Ignored count: 0
+Result of the test run:
+Run time: 234482 ms
+Run count: 35
+Failure count: 49
+Ignored count: 0
+Result of the test run:
+Run time: 234482 ms
+Run count: 35
+Failure count: 49
+Ignored count: 0
+Result of the test run:
+Run time: 234482 ms
+Run count: 35
+Failure count: 49
+Ignored count: 0
+Result of the test run:
+Run time: 234482 ms
+Run count: 35
+Failure count: 49
+Ignored count: 0
+Result of the test run:
+Run time: 234482 ms
+Run count: 35
+Failure count: 49
+Ignored count: 0
+Result of the test run:
+Run time: 234482 ms
+Run count: 35
+Failure count: 49
+Ignored count: 0
+Result of the test run:
+Run time: 234482 ms
+Run count: 35
+Failure count: 49
+Ignored count: 0
+Result of the test run:
+Run time: 234482 ms
+Run count: 35
+Failure count: 49
+Ignored count: 0
+Result of the test run:
+Run time: 234482 ms
+Run count: 35
+Failure count: 49
+Ignored count: 0
+Result of the test run:
+Run time: 234482 ms
+Run count: 35
+Failure count: 49
+Ignored count: 0
+Result of the test run:
+Run time: 234482 ms
+Run count: 35
+Failure count: 49
+Ignored count: 0
+Result of the test run:
+Run time: 234482 ms
+Run count: 35
+Failure count: 49
+Ignored count: 0
+Result of the test run:
+Run time: 234482 ms
+Run count: 35
+Failure count: 49
+Ignored count: 0
+Result of the test run:
+Run time: 234482 ms
+Run count: 35
+Failure count: 49
+Ignored count: 0
+Result of the test run:
+Run time: 234482 ms
+Run count: 35
+Failure count: 49
+Ignored count: 0
+Result of the test run:
+Run time: 234482 ms
+Run count: 35
+Failure count: 49
+Ignored count: 0
+Result of the test run:
+Run time: 234482 ms
+Run count: 35
+Failure count: 49
+Ignored count: 0
+Result of the test run:
+Run time: 234482 ms
+Run count: 35
+Failure count: 49
+Ignored count: 0
+e: 234482 ms
+Run count: 35
+Failure count: 49
+Ignored count: 0
+e: 234482 ms
+Run count: 35
+Failure count: 49
+Ignored count: 0
+e: 234482 ms
+Run count: 35
+Failure count: 49
+Ignored count: 0
+e: 234482 ms
+Run count: 35
+Failure count: 49
+Ignored count: 0
+e: 234482 ms
+Run count: 35
+Failure count: 49
+Ignored count: 0
+e: 234482 ms
+Run count: 35
+Failure count: 49
+Ignored count: 0
+e: 234482 ms
+Run count: 35
+Failure count: 49
+Ignored count: 0
+e: 234482 ms
+Run count: 35
+Failure count: 49
+Ignored count: 0
+e: 234482 ms
+Run count: 35
+Failure count: 49
+Ignored count: 0
+e: 234482 ms
+Run count: 35
+Failure count: 49
+Ignored count: 0
+e: 234482 ms
+Run count: 35
+Failure count: 49
+Ignored count: 0
+e: 234482 ms
+Run count: 35
+Failure count: 49
+Ignored count: 0
+e: 234482 ms
+Run count: 35
+Failure count: 49
+Ignored count: 0
+e: 234482 ms
+Run count: 35
+Failure count: 49
+Ignored count: 0
+e: 234482 ms
+Run count: 35
+Failure count: 49
+Ignored count: 0
+e: 234482 ms
+Run count: 35
+Failure count: 49
+Ignored count: 0
+e: 234482 ms
+Run count: 35
+Failure count: 49
+Ignored count: 0

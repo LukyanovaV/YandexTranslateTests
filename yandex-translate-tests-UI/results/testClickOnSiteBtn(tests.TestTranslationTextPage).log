@@ -1,0 +1,24 @@
+Test starts: testClickOnSiteBtn(tests.TestTranslationTextPage)
+Test finished: testClickOnSiteBtn(tests.TestTranslationTextPage)
+--------------------------------------
+Test starts: testSynonymsOriginText(tests.TestTranslationTextPage)
+Test failed with: org.junit.ComparisonFailure: expected:<[n · hr]> but was:<[hi · hallo · salut]>
+Test finished: testSynonymsOriginText(tests.TestTranslationTextPage)
+--------------------------------------
+Test starts: testClickOnImageBtn(tests.TestTranslationTextPage)
+Test finished: testClickOnImageBtn(tests.TestTranslationTextPage)
+--------------------------------------
+Test starts: testExamplesConversations(tests.TestTranslationTextPage)
+Test finished: testExamplesConversations(tests.TestTranslationTextPage)
+--------------------------------------
+Test starts: testSynonymsTranslateText(tests.TestTranslationTextPage)
+Test finished: testSynonymsTranslateText(tests.TestTranslationTextPage)
+--------------------------------------
+Test starts: testTranslationToRus(tests.TestTranslationTextPage)
+Test finished: testTranslationToRus(tests.TestTranslationTextPage)
+--------------------------------------
+Result of the test run:
+Run time: 44315 ms
+Run count: 6
+Failure count: 1
+Ignored count: 0

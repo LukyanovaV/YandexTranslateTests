@@ -1,0 +1,513 @@
+{
+  "statistic" : {
+    "failed" : 4,
+    "broken" : 18,
+    "skipped" : 0,
+    "passed" : 0,
+    "unknown" : 0,
+    "total" : 22
+  },
+  "time" : {
+    "minDuration" : 3,
+    "maxDuration" : 15001,
+    "sumDuration" : 66932,
+    "start" : 1538491498563,
+    "stop" : 1538565772443,
+    "duration" : 74273880
+  },
+  "children" : [ {
+    "uid" : "efdaa0ba1a09db5c",
+    "name" : "Product defects",
+    "time" : {
+      "minDuration" : 6145,
+      "maxDuration" : 11176,
+      "sumDuration" : 30945,
+      "start" : 1538491664460,
+      "stop" : 1538565772443,
+      "duration" : 74107983
+    },
+    "statistic" : {
+      "failed" : 4,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "type" : "TestGroupNode",
+    "children" : [ {
+      "uid" : "97deef5063e2fff6",
+      "name" : "java.lang.AssertionError",
+      "time" : {
+        "minDuration" : 6935,
+        "maxDuration" : 6935,
+        "sumDuration" : 6935,
+        "start" : 1538491703524,
+        "stop" : 1538491710459,
+        "duration" : 6935
+      },
+      "statistic" : {
+        "failed" : 1,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 0,
+        "unknown" : 0,
+        "total" : 1
+      },
+      "type" : "TestGroupNode",
+      "children" : [ {
+        "uid" : "cbb9a7512337b06d",
+        "name" : "spellerButtonTest",
+        "time" : {
+          "start" : 1538491703524,
+          "stop" : 1538491710459,
+          "duration" : 6935
+        },
+        "status" : "failed",
+        "flaky" : true,
+        "type" : "TestCaseNode"
+      } ]
+    }, {
+      "uid" : "af24b97c9b4ce78b",
+      "name" : "expected:<[n · hr]> but was:<[hi · hallo · salut]>",
+      "time" : {
+        "minDuration" : 6689,
+        "maxDuration" : 6689,
+        "sumDuration" : 6689,
+        "start" : 1538565747664,
+        "stop" : 1538565754353,
+        "duration" : 6689
+      },
+      "statistic" : {
+        "failed" : 1,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 0,
+        "unknown" : 0,
+        "total" : 1
+      },
+      "type" : "TestGroupNode",
+      "children" : [ {
+        "uid" : "72bac9223f408f5d",
+        "name" : "testSynonymsOriginText",
+        "time" : {
+          "start" : 1538565747664,
+          "stop" : 1538565754353,
+          "duration" : 6689
+        },
+        "status" : "failed",
+        "flaky" : true,
+        "type" : "TestCaseNode"
+      } ]
+    }, {
+      "uid" : "73b76f329ac7298d",
+      "name" : "expected:<Готов[ый]> but was:<Готов[]>",
+      "time" : {
+        "minDuration" : 11176,
+        "maxDuration" : 11176,
+        "sumDuration" : 11176,
+        "start" : 1538491664460,
+        "stop" : 1538491675636,
+        "duration" : 11176
+      },
+      "statistic" : {
+        "failed" : 1,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 0,
+        "unknown" : 0,
+        "total" : 1
+      },
+      "type" : "TestGroupNode",
+      "children" : [ {
+        "uid" : "244ca3ec5020e66e",
+        "name" : "testTranslationToRus[3]",
+        "time" : {
+          "start" : 1538491664460,
+          "stop" : 1538491675636,
+          "duration" : 11176
+        },
+        "status" : "failed",
+        "flaky" : true,
+        "type" : "TestCaseNode"
+      } ]
+    }, {
+      "uid" : "6772ec5f09ee13f8",
+      "name" : "expected:<[ч, г]> but was:<[привет, добрый день, Здравствуйм]>",
+      "time" : {
+        "minDuration" : 6145,
+        "maxDuration" : 6145,
+        "sumDuration" : 6145,
+        "start" : 1538565766298,
+        "stop" : 1538565772443,
+        "duration" : 6145
+      },
+      "statistic" : {
+        "failed" : 1,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 0,
+        "unknown" : 0,
+        "total" : 1
+      },
+      "type" : "TestGroupNode",
+      "children" : [ {
+        "uid" : "105e47bce6f43721",
+        "name" : "testSynonymsTranslateText",
+        "time" : {
+          "start" : 1538565766298,
+          "stop" : 1538565772443,
+          "duration" : 6145
+        },
+        "status" : "failed",
+        "flaky" : true,
+        "type" : "TestCaseNode"
+      } ]
+    } ]
+  }, {
+    "uid" : "4271b6e6df8f1b92",
+    "name" : "Test defects",
+    "time" : {
+      "minDuration" : 3,
+      "maxDuration" : 15001,
+      "sumDuration" : 35987,
+      "start" : 1538491498563,
+      "stop" : 1538491732792,
+      "duration" : 234229
+    },
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 18,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 18
+    },
+    "type" : "TestGroupNode",
+    "children" : [ {
+      "uid" : "3712d6ae59010019",
+      "name" : "Expected condition failed: waiting for text ('100%') to be present in element found by By.id: progress (tried for 10 second(s) with 500 milliseconds interval)\nBuild info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'\nSystem info: host: 'BONDARENKO', ip: '172.20.1.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_172'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.37.544315 (730aa6a5fdba15..., userDataDir: C:\\Users\\BONDAR~1\\AppData\\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}\nSession ID: fbc0c60d219bde59722bd3eeac9558fc",
+      "time" : {
+        "minDuration" : 15001,
+        "maxDuration" : 15001,
+        "sumDuration" : 15001,
+        "start" : 1538491531674,
+        "stop" : 1538491546675,
+        "duration" : 15001
+      },
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 1,
+        "skipped" : 0,
+        "passed" : 0,
+        "unknown" : 0,
+        "total" : 1
+      },
+      "type" : "TestGroupNode",
+      "children" : [ {
+        "uid" : "92196a7fc048460",
+        "name" : "testUrlTranslate",
+        "time" : {
+          "start" : 1538491531674,
+          "stop" : 1538491546675,
+          "duration" : 15001
+        },
+        "status" : "broken",
+        "flaky" : true,
+        "type" : "TestCaseNode"
+      } ]
+    }, {
+      "uid" : "dc43daf5274ab3c7",
+      "name" : "java.lang.NullPointerException",
+      "time" : {
+        "minDuration" : 3,
+        "maxDuration" : 19,
+        "sumDuration" : 77,
+        "start" : 1538491498809,
+        "stop" : 1538491498951,
+        "duration" : 142
+      },
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 13,
+        "skipped" : 0,
+        "passed" : 0,
+        "unknown" : 0,
+        "total" : 13
+      },
+      "type" : "TestGroupNode",
+      "children" : [ {
+        "uid" : "35e9b698c9343d57",
+        "name" : "clickOnMenuToWeather",
+        "time" : {
+          "start" : 1538491498910,
+          "stop" : 1538491498913,
+          "duration" : 3
+        },
+        "status" : "broken",
+        "flaky" : true,
+        "type" : "TestCaseNode"
+      }, {
+        "uid" : "af865c7db59cb9bf",
+        "name" : "clickOnMenuToImages",
+        "time" : {
+          "start" : 1538491498839,
+          "stop" : 1538491498858,
+          "duration" : 19
+        },
+        "status" : "broken",
+        "flaky" : true,
+        "type" : "TestCaseNode"
+      }, {
+        "uid" : "b9066a7664392816",
+        "name" : "clickOnMenuToTranslate",
+        "time" : {
+          "start" : 1538491498948,
+          "stop" : 1538491498951,
+          "duration" : 3
+        },
+        "status" : "broken",
+        "flaky" : true,
+        "type" : "TestCaseNode"
+      }, {
+        "uid" : "3e7138e0812fb0dc",
+        "name" : "clickOnMenuToVideo",
+        "time" : {
+          "start" : 1538491498942,
+          "stop" : 1538491498945,
+          "duration" : 3
+        },
+        "status" : "broken",
+        "flaky" : true,
+        "type" : "TestCaseNode"
+      }, {
+        "uid" : "d2bffdebd7f98b94",
+        "name" : "clickOnMenuToMoney",
+        "time" : {
+          "start" : 1538491498927,
+          "stop" : 1538491498931,
+          "duration" : 4
+        },
+        "status" : "broken",
+        "flaky" : true,
+        "type" : "TestCaseNode"
+      }, {
+        "uid" : "a4fd4fd9c4c92419",
+        "name" : "clickOnMenuToMarket",
+        "time" : {
+          "start" : 1538491498861,
+          "stop" : 1538491498865,
+          "duration" : 4
+        },
+        "status" : "broken",
+        "flaky" : true,
+        "type" : "TestCaseNode"
+      }, {
+        "uid" : "d2e7517886ba729f",
+        "name" : "clickOnMenuToMusic",
+        "time" : {
+          "start" : 1538491498935,
+          "stop" : 1538491498939,
+          "duration" : 4
+        },
+        "status" : "broken",
+        "flaky" : true,
+        "type" : "TestCaseNode"
+      }, {
+        "uid" : "1bebd2792a3a4554",
+        "name" : "clickOnMenuToMaps",
+        "time" : {
+          "start" : 1538491498893,
+          "stop" : 1538491498899,
+          "duration" : 6
+        },
+        "status" : "broken",
+        "flaky" : true,
+        "type" : "TestCaseNode"
+      }, {
+        "uid" : "8671a08b9edcdb2d",
+        "name" : "clickOnMenuToTV",
+        "time" : {
+          "start" : 1538491498919,
+          "stop" : 1538491498922,
+          "duration" : 3
+        },
+        "status" : "broken",
+        "flaky" : true,
+        "type" : "TestCaseNode"
+      }, {
+        "uid" : "cb65f166d861f547",
+        "name" : "clickOnMenuToNews",
+        "time" : {
+          "start" : 1538491498903,
+          "stop" : 1538491498906,
+          "duration" : 3
+        },
+        "status" : "broken",
+        "flaky" : true,
+        "type" : "TestCaseNode"
+      }, {
+        "uid" : "536828197e6957f7",
+        "name" : "clickOnMenuToMail",
+        "time" : {
+          "start" : 1538491498883,
+          "stop" : 1538491498887,
+          "duration" : 4
+        },
+        "status" : "broken",
+        "flaky" : true,
+        "type" : "TestCaseNode"
+      }, {
+        "uid" : "caba3ef24cf4bffe",
+        "name" : "clickOnMenuToDisk",
+        "time" : {
+          "start" : 1538491498875,
+          "stop" : 1538491498880,
+          "duration" : 5
+        },
+        "status" : "broken",
+        "flaky" : true,
+        "type" : "TestCaseNode"
+      }, {
+        "uid" : "edfba5172f816579",
+        "name" : "imageClearTest",
+        "time" : {
+          "start" : 1538491498809,
+          "stop" : 1538491498825,
+          "duration" : 16
+        },
+        "status" : "broken",
+        "flaky" : true,
+        "type" : "TestCaseNode"
+      } ]
+    }, {
+      "uid" : "c7a78fc0682dc9d",
+      "name" : "No value present",
+      "time" : {
+        "minDuration" : 7529,
+        "maxDuration" : 7529,
+        "sumDuration" : 7529,
+        "start" : 1538491725263,
+        "stop" : 1538491732792,
+        "duration" : 7529
+      },
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 1,
+        "skipped" : 0,
+        "passed" : 0,
+        "unknown" : 0,
+        "total" : 1
+      },
+      "type" : "TestGroupNode",
+      "children" : [ {
+        "uid" : "4e7564fbf22ae1d3",
+        "name" : "langHistoryBoxTest",
+        "time" : {
+          "start" : 1538491725263,
+          "stop" : 1538491732792,
+          "duration" : 7529
+        },
+        "status" : "broken",
+        "flaky" : true,
+        "type" : "TestCaseNode"
+      } ]
+    }, {
+      "uid" : "bf484527cd3d4c4c",
+      "name" : "unknown error: Element <div class=\"listbox-option state-unselectable\" data-value=\"fr\" unselectable=\"on\">...</div> is not clickable at point (823, 507). Other element would receive the click: <iframe frameborder=\"0\" src=\"https://yastatic.net/daas/distr-popup.html\" aria-hidden=\"true\" style=\"display: block; width: 364px; height: 180px; z-index: 42000000; transform: translate3d(0px, 0px, 0px); position: fixed; bottom: 15px; right: 15px;\"></iframe>\n  (Session info: chrome=69.0.3497.100)\n  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nBuild info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'\nSystem info: host: 'BONDARENKO', ip: '172.20.1.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_172'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.37.544315 (730aa6a5fdba15..., userDataDir: C:\\Users\\BONDAR~1\\AppData\\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}\nSession ID: ea61fe50743734d13bbb630d5de7b4aa",
+      "time" : {
+        "minDuration" : 7507,
+        "maxDuration" : 7507,
+        "sumDuration" : 7507,
+        "start" : 1538491569315,
+        "stop" : 1538491576822,
+        "duration" : 7507
+      },
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 1,
+        "skipped" : 0,
+        "passed" : 0,
+        "unknown" : 0,
+        "total" : 1
+      },
+      "type" : "TestGroupNode",
+      "children" : [ {
+        "uid" : "d6da141759ba372f",
+        "name" : "testTranslationToOtherLangs[2]",
+        "time" : {
+          "start" : 1538491569315,
+          "stop" : 1538491576822,
+          "duration" : 7507
+        },
+        "status" : "broken",
+        "flaky" : true,
+        "type" : "TestCaseNode"
+      } ]
+    }, {
+      "uid" : "446680afd66f84c5",
+      "name" : "stale element reference: element is not attached to the page document\n  (Session info: chrome=69.0.3497.100)\n  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html\nBuild info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'\nSystem info: host: 'BONDARENKO', ip: '172.20.1.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_172'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.37.544315 (730aa6a5fdba15..., userDataDir: C:\\Users\\BONDAR~1\\AppData\\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}\nSession ID: 6cd2e2440bb6c21a2c15737b6a17e2e7",
+      "time" : {
+        "minDuration" : 5862,
+        "maxDuration" : 5862,
+        "sumDuration" : 5862,
+        "start" : 1538491613817,
+        "stop" : 1538491619679,
+        "duration" : 5862
+      },
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 1,
+        "skipped" : 0,
+        "passed" : 0,
+        "unknown" : 0,
+        "total" : 1
+      },
+      "type" : "TestGroupNode",
+      "children" : [ {
+        "uid" : "7890f33d7776ea09",
+        "name" : "testTranslationToOtherLangs[6]",
+        "time" : {
+          "start" : 1538491613817,
+          "stop" : 1538491619679,
+          "duration" : 5862
+        },
+        "status" : "broken",
+        "flaky" : true,
+        "type" : "TestCaseNode"
+      } ]
+    }, {
+      "uid" : "4c26fc41b2317bb1",
+      "name" : "No runnable methods",
+      "time" : {
+        "minDuration" : 11,
+        "maxDuration" : 11,
+        "sumDuration" : 11,
+        "start" : 1538491498563,
+        "stop" : 1538491498574,
+        "duration" : 11
+      },
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 1,
+        "skipped" : 0,
+        "passed" : 0,
+        "unknown" : 0,
+        "total" : 1
+      },
+      "type" : "TestGroupNode",
+      "children" : [ {
+        "uid" : "78881bc5cc3cf7c4",
+        "name" : "initializationError",
+        "time" : {
+          "start" : 1538491498563,
+          "stop" : 1538491498574,
+          "duration" : 11
+        },
+        "status" : "broken",
+        "flaky" : true,
+        "type" : "TestCaseNode"
+      } ]
+    } ]
+  } ]
+}

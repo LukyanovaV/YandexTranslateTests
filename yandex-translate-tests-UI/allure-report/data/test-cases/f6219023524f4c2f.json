@@ -1,0 +1,37 @@
+{
+  "uid" : "f6219023524f4c2f",
+  "name" : "clickOnMenuToMarket",
+  "fullName" : "tests.MainMenuTest.clickOnMenuToMarket",
+  "historyId" : "7f3b302b4c4980ca7c97131af21ebc89",
+  "time" : {
+    "start" : 1538401649451,
+    "stop" : 1538401659007,
+    "duration" : 9556
+  },
+  "status" : "passed",
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "tests"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.MainMenuTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "clickOnMenuToMarket"
+  }, {
+    "name" : "suite",
+    "value" : "tests.MainMenuTest"
+  }, {
+    "name" : "host",
+    "value" : "Bondarenko"
+  }, {
+    "name" : "thread",
+    "value" : "14644@Bondarenko.main(1)"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "extra" : { }
+}

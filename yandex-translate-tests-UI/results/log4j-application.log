@@ -1,0 +1,8 @@
+2018-10-03 15:54:30 INFO  WebDriverListener:43 - Test starts: testSynonymsOriginText(tests.TestTranslationTextPage)
+2018-10-03 15:54:37 INFO  WebDriverListener:50 - Test finished: testSynonymsOriginText(tests.TestTranslationTextPage)
+2018-10-03 15:54:37 INFO  WebDriverListener:51 - --------------------------------------
+2018-10-03 15:54:37 INFO  WebDriverListener:32 - Result of the test run:
+2018-10-03 15:54:37 INFO  WebDriverListener:33 - Run time: 7514 ms
+2018-10-03 15:54:37 INFO  WebDriverListener:34 - Run count: 1
+2018-10-03 15:54:37 INFO  WebDriverListener:35 - Failure count: 0
+2018-10-03 15:54:37 INFO  WebDriverListener:36 - Ignored count: 0

@@ -1,0 +1,211 @@
+{
+  "uid" : "d6da141759ba372f",
+  "name" : "testTranslationToOtherLangs[2]",
+  "fullName" : "tests.TestTranslationToLangs.testTranslationToOtherLangs[2]",
+  "historyId" : "aa3498b85b687bd038ec1a60822f9ffc",
+  "time" : {
+    "start" : 1538491569315,
+    "stop" : 1538491576822,
+    "duration" : 7507
+  },
+  "status" : "broken",
+  "statusDetails" : {
+    "message" : "unknown error: Element <div class=\"listbox-option state-unselectable\" data-value=\"fr\" unselectable=\"on\">...</div> is not clickable at point (823, 507). Other element would receive the click: <iframe frameborder=\"0\" src=\"https://yastatic.net/daas/distr-popup.html\" aria-hidden=\"true\" style=\"display: block; width: 364px; height: 180px; z-index: 42000000; transform: translate3d(0px, 0px, 0px); position: fixed; bottom: 15px; right: 15px;\"></iframe>\n  (Session info: chrome=69.0.3497.100)\n  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nBuild info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'\nSystem info: host: 'BONDARENKO', ip: '172.20.1.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_172'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.37.544315 (730aa6a5fdba15..., userDataDir: C:\\Users\\BONDAR~1\\AppData\\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}\nSession ID: ea61fe50743734d13bbb630d5de7b4aa",
+    "trace" : "org.openqa.selenium.WebDriverException: unknown error: Element <div class=\"listbox-option state-unselectable\" data-value=\"fr\" unselectable=\"on\">...</div> is not clickable at point (823, 507). Other element would receive the click: <iframe frameborder=\"0\" src=\"https://yastatic.net/daas/distr-popup.html\" aria-hidden=\"true\" style=\"display: block; width: 364px; height: 180px; z-index: 42000000; transform: translate3d(0px, 0px, 0px); position: fixed; bottom: 15px; right: 15px;\"></iframe>\n  (Session info: chrome=69.0.3497.100)\n  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nBuild info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'\nSystem info: host: 'BONDARENKO', ip: '172.20.1.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_172'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.37.544315 (730aa6a5fdba15..., userDataDir: C:\\Users\\BONDAR~1\\AppData\\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}\nSession ID: ea61fe50743734d13bbb630d5de7b4aa\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.lang.reflect.Constructor.newInstance(Constructor.java:423)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)\r\n\tat org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:276)\r\n\tat org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:83)\r\n\tat pages.TextTranslatePage.changeLangTranslation(TextTranslatePage.java:131)\r\n\tat tests.TestTranslationToLangs.testTranslationToOtherLangs(TestTranslationToLangs.java:40)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)\r\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\r\n\tat java.lang.reflect.Method.invoke(Method.java:498)\r\n\tat org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)\r\n\tat org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)\r\n\tat org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)\r\n\tat org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)\r\n\tat org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)\r\n\tat org.junit.rules.TestWatcher$1.evaluate(TestWatcher.java:55)\r\n\tat org.junit.rules.RunRules.evaluate(RunRules.java:20)\r\n\tat org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)\r\n\tat org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)\r\n\tat org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:363)\r\n\tat environment.JUnitRunListenerWithParameters.run(JUnitRunListenerWithParameters.java:23)\r\n\tat org.junit.runners.Suite.runChild(Suite.java:128)\r\n\tat org.junit.runners.Suite.runChild(Suite.java:27)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:363)\r\n\tat org.apache.maven.surefire.junit4.JUnit4Provider.execute(JUnit4Provider.java:365)\r\n\tat org.apache.maven.surefire.junit4.JUnit4Provider.executeWithRerun(JUnit4Provider.java:273)\r\n\tat org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:238)\r\n\tat org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:159)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:383)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:344)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:125)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:417)\r\n",
+    "flaky" : true
+  },
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusDetails" : {
+      "message" : "unknown error: Element <div class=\"listbox-option state-unselectable\" data-value=\"fr\" unselectable=\"on\">...</div> is not clickable at point (823, 507). Other element would receive the click: <iframe frameborder=\"0\" src=\"https://yastatic.net/daas/distr-popup.html\" aria-hidden=\"true\" style=\"display: block; width: 364px; height: 180px; z-index: 42000000; transform: translate3d(0px, 0px, 0px); position: fixed; bottom: 15px; right: 15px;\"></iframe>\n  (Session info: chrome=69.0.3497.100)\n  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nBuild info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'\nSystem info: host: 'BONDARENKO', ip: '172.20.1.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_172'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.37.544315 (730aa6a5fdba15..., userDataDir: C:\\Users\\BONDAR~1\\AppData\\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}\nSession ID: ea61fe50743734d13bbb630d5de7b4aa",
+      "trace" : "org.openqa.selenium.WebDriverException: unknown error: Element <div class=\"listbox-option state-unselectable\" data-value=\"fr\" unselectable=\"on\">...</div> is not clickable at point (823, 507). Other element would receive the click: <iframe frameborder=\"0\" src=\"https://yastatic.net/daas/distr-popup.html\" aria-hidden=\"true\" style=\"display: block; width: 364px; height: 180px; z-index: 42000000; transform: translate3d(0px, 0px, 0px); position: fixed; bottom: 15px; right: 15px;\"></iframe>\n  (Session info: chrome=69.0.3497.100)\n  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nBuild info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'\nSystem info: host: 'BONDARENKO', ip: '172.20.1.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_172'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.37.544315 (730aa6a5fdba15..., userDataDir: C:\\Users\\BONDAR~1\\AppData\\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}\nSession ID: ea61fe50743734d13bbb630d5de7b4aa\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.lang.reflect.Constructor.newInstance(Constructor.java:423)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)\r\n\tat org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:276)\r\n\tat org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:83)\r\n\tat pages.TextTranslatePage.changeLangTranslation(TextTranslatePage.java:131)\r\n\tat tests.TestTranslationToLangs.testTranslationToOtherLangs(TestTranslationToLangs.java:40)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)\r\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\r\n\tat java.lang.reflect.Method.invoke(Method.java:498)\r\n\tat org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)\r\n\tat org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)\r\n\tat org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)\r\n\tat org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)\r\n\tat org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)\r\n\tat org.junit.rules.TestWatcher$1.evaluate(TestWatcher.java:55)\r\n\tat org.junit.rules.RunRules.evaluate(RunRules.java:20)\r\n\tat org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)\r\n\tat org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)\r\n\tat org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:363)\r\n\tat environment.JUnitRunListenerWithParameters.run(JUnitRunListenerWithParameters.java:23)\r\n\tat org.junit.runners.Suite.runChild(Suite.java:128)\r\n\tat org.junit.runners.Suite.runChild(Suite.java:27)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:363)\r\n\tat org.apache.maven.surefire.junit4.JUnit4Provider.execute(JUnit4Provider.java:365)\r\n\tat org.apache.maven.surefire.junit4.JUnit4Provider.executeWithRerun(JUnit4Provider.java:273)\r\n\tat org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:238)\r\n\tat org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:159)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:383)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:344)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:125)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:417)\r\n",
+      "flaky" : false
+    },
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "83b583c0c744f675",
+      "name" : "Page screenshot",
+      "source" : "83b583c0c744f675.png",
+      "type" : "image/png",
+      "size" : 134597
+    } ],
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "tests"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.TestTranslationToLangs"
+  }, {
+    "name" : "testMethod",
+    "value" : "testTranslationToOtherLangs[2]"
+  }, {
+    "name" : "suite",
+    "value" : "tests.TestTranslationToLangs"
+  }, {
+    "name" : "host",
+    "value" : "Bondarenko"
+  }, {
+    "name" : "thread",
+    "value" : "13856@Bondarenko.main(1)"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "55931c3427455883",
+      "status" : "passed",
+      "time" : {
+        "start" : 1538489077896,
+        "stop" : 1538489091087,
+        "duration" : 13191
+      }
+    }, {
+      "uid" : "8aced4b8eaf98a17",
+      "status" : "broken",
+      "time" : {
+        "start" : 1538488961101,
+        "stop" : 1538488967923,
+        "duration" : 6822
+      }
+    }, {
+      "uid" : "92cea361d6d3b54e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1538488654516,
+        "stop" : 1538488667611,
+        "duration" : 13095
+      }
+    }, {
+      "uid" : "d6c95b8dc3686512",
+      "status" : "passed",
+      "time" : {
+        "start" : 1538488521084,
+        "stop" : 1538488534489,
+        "duration" : 13405
+      }
+    }, {
+      "uid" : "fc45a319aedb9b4f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1538488360308,
+        "stop" : 1538488373798,
+        "duration" : 13490
+      }
+    }, {
+      "uid" : "91cabfa48a8ee76d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1538488204634,
+        "stop" : 1538488218233,
+        "duration" : 13599
+      }
+    }, {
+      "uid" : "79c763e14b1e822a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1538487894484,
+        "stop" : 1538487907690,
+        "duration" : 13206
+      }
+    }, {
+      "uid" : "cbf6f0f1006ef51d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1538487545102,
+        "stop" : 1538487558187,
+        "duration" : 13085
+      }
+    }, {
+      "uid" : "f5b6465455d54d24",
+      "status" : "passed",
+      "time" : {
+        "start" : 1538487287743,
+        "stop" : 1538487300895,
+        "duration" : 13152
+      }
+    }, {
+      "uid" : "ded2f9b86ef33e0c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1538487192284,
+        "stop" : 1538487205472,
+        "duration" : 13188
+      }
+    }, {
+      "uid" : "cd8863e8f4782918",
+      "status" : "passed",
+      "time" : {
+        "start" : 1538487076546,
+        "stop" : 1538487090130,
+        "duration" : 13584
+      }
+    }, {
+      "uid" : "9b7e73a73d48ac0f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1538486501314,
+        "stop" : 1538486514496,
+        "duration" : 13182
+      }
+    }, {
+      "uid" : "772d86ca69e2c818",
+      "status" : "passed",
+      "time" : {
+        "start" : 1538486353969,
+        "stop" : 1538486367058,
+        "duration" : 13089
+      }
+    }, {
+      "uid" : "92e3946439855148",
+      "status" : "broken",
+      "time" : {
+        "start" : 1538485636933,
+        "stop" : 1538485652064,
+        "duration" : 15131
+      }
+    }, {
+      "uid" : "15fb321b1f2fe5e7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1538484549022,
+        "stop" : 1538484562235,
+        "duration" : 13213
+      }
+    }, {
+      "uid" : "29b7563e2b935a64",
+      "status" : "passed",
+      "time" : {
+        "start" : 1538481868276,
+        "stop" : 1538481881006,
+        "duration" : 12730
+      }
+    }, {
+      "uid" : "d7bd5beb8fa20e6b",
+      "status" : "broken",
+      "time" : {
+        "start" : 1538481645160,
+        "stop" : 1538481677388,
+        "duration" : 32228
+      }
+    }, {
+      "uid" : "5ff424e8dd9f49c3",
+      "status" : "broken",
+      "time" : {
+        "start" : 1538481122747,
+        "stop" : 1538481129230,
+        "duration" : 6483
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Test defects"
+    } ]
+  }
+}

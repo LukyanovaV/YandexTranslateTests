@@ -1,0 +1,80 @@
+{
+  "uid" : "1bebd2792a3a4554",
+  "name" : "clickOnMenuToMaps",
+  "fullName" : "tests.MainMenuTest.clickOnMenuToMaps",
+  "historyId" : "4641056ee6d067407108fc8ab67ea404",
+  "time" : {
+    "start" : 1538491498893,
+    "stop" : 1538491498899,
+    "duration" : 6
+  },
+  "status" : "broken",
+  "statusDetails" : {
+    "message" : "java.lang.NullPointerException",
+    "trace" : "java.lang.NullPointerException\r\n\tat tests.BaseTest$1.finished(BaseTest.java:35)\r\n\tat org.junit.rules.TestWatcher.finishedQuietly(TestWatcher.java:117)\r\n\tat org.junit.rules.TestWatcher.access$400(TestWatcher.java:46)\r\n\tat org.junit.rules.TestWatcher$1.evaluate(TestWatcher.java:64)\r\n\tat org.junit.rules.RunRules.evaluate(RunRules.java:20)\r\n\tat org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)\r\n\tat org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)\r\n\tat org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:363)\r\n\tat environment.JUnitRunListener.run(JUnitRunListener.java:19)\r\n\tat org.apache.maven.surefire.junit4.JUnit4Provider.execute(JUnit4Provider.java:365)\r\n\tat org.apache.maven.surefire.junit4.JUnit4Provider.executeWithRerun(JUnit4Provider.java:273)\r\n\tat org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:238)\r\n\tat org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:159)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:383)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:344)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:125)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:417)\r\n",
+    "flaky" : true
+  },
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "tests"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.MainMenuTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "clickOnMenuToMaps"
+  }, {
+    "name" : "suite",
+    "value" : "tests.MainMenuTest"
+  }, {
+    "name" : "host",
+    "value" : "Bondarenko"
+  }, {
+    "name" : "thread",
+    "value" : "13856@Bondarenko.main(1)"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "72a2f11577aa4af3",
+      "status" : "failed",
+      "time" : {
+        "start" : 1538403791140,
+        "stop" : 1538403800757,
+        "duration" : 9617
+      }
+    }, {
+      "uid" : "69a43a02554c6f5e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1538401673664,
+        "stop" : 1538401681500,
+        "duration" : 7836
+      }
+    }, {
+      "uid" : "781ac3b4f6f99bc0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1538400474017,
+        "stop" : 1538400482003,
+        "duration" : 7986
+      }
+    }, {
+      "uid" : "817b3156f31b324d",
+      "status" : "broken",
+      "time" : {
+        "start" : 1538396417678,
+        "stop" : 1538396417682,
+        "duration" : 4
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Test defects"
+    } ]
+  }
+}

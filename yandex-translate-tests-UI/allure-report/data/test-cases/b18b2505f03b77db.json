@@ -1,0 +1,37 @@
+{
+  "uid" : "b18b2505f03b77db",
+  "name" : "clickOnMenuToWeather",
+  "fullName" : "tests.MainMenuTest.clickOnMenuToWeather",
+  "historyId" : "3e2abda4595b9c4303433f5898365440",
+  "time" : {
+    "start" : 1538401689068,
+    "stop" : 1538401696694,
+    "duration" : 7626
+  },
+  "status" : "passed",
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "tests"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.MainMenuTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "clickOnMenuToWeather"
+  }, {
+    "name" : "suite",
+    "value" : "tests.MainMenuTest"
+  }, {
+    "name" : "host",
+    "value" : "Bondarenko"
+  }, {
+    "name" : "thread",
+    "value" : "14644@Bondarenko.main(1)"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "extra" : { }
+}

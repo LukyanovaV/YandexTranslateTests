@@ -1,0 +1,1166 @@
+Test starts: clickOnMenuToTV(tests.MainMenuTest)
+Test failed with: java.lang.NullPointerException
+Test failed with: java.lang.NullPointerException
+Test failed with: java.lang.NullPointerException
+Test failed with: java.lang.NullPointerException
+Test failed with: java.lang.NullPointerException
+Test failed with: java.lang.NullPointerException
+Test finished: clickOnMenuToTV(tests.MainMenuTest)
+--------------------------------------
+Test finished: clickOnMenuToTV(tests.MainMenuTest)
+--------------------------------------
+Test starts: clickOnMenuToMoney(tests.MainMenuTest)
+Test starts: clickOnMenuToMoney(tests.MainMenuTest)
+Test failed with: java.lang.NullPointerException
+Test failed with: java.lang.NullPointerException
+Test failed with: java.lang.NullPointerException
+Test failed with: java.lang.NullPointerException
+Test failed with: java.lang.NullPointerException
+Test failed with: java.lang.NullPointerException
+Test finished: clickOnMenuToMoney(tests.MainMenuTest)
+--------------------------------------
+Test finished: clickOnMenuToMoney(tests.MainMenuTest)
+--------------------------------------
+Test starts: clickOnMenuToMusic(tests.MainMenuTest)
+Test starts: clickOnMenuToMusic(tests.MainMenuTest)
+Test failed with: java.lang.NullPointerException
+Test failed with: java.lang.NullPointerException
+Test failed with: java.lang.NullPointerException
+Test failed with: java.lang.NullPointerException
+Test failed with: java.lang.NullPointerException
+Test failed with: java.lang.NullPointerException
+Test finished: clickOnMenuToMusic(tests.MainMenuTest)
+--------------------------------------
+Test finished: clickOnMenuToMusic(tests.MainMenuTest)
+--------------------------------------
+Test starts: clickOnMenuToVideo(tests.MainMenuTest)
+Test starts: clickOnMenuToVideo(tests.MainMenuTest)
+Test failed with: java.lang.NullPointerException
+Test failed with: java.lang.NullPointerException
+Test failed with: java.lang.NullPointerException
+Test failed with: java.lang.NullPointerException
+Test failed with: java.lang.NullPointerException
+Test failed with: java.lang.NullPointerException
+Test finished: clickOnMenuToVideo(tests.MainMenuTest)
+--------------------------------------
+Test finished: clickOnMenuToVideo(tests.MainMenuTest)
+--------------------------------------
+Test starts: clickOnMenuToTranslate(tests.MainMenuTest)
+Test starts: clickOnMenuToTranslate(tests.MainMenuTest)
+Test failed with: java.lang.NullPointerException
+Test failed with: java.lang.NullPointerException
+Test failed with: java.lang.NullPointerException
+Test failed with: java.lang.NullPointerException
+Test failed with: java.lang.NullPointerException
+Test failed with: java.lang.NullPointerException
+Test finished: clickOnMenuToTranslate(tests.MainMenuTest)
+--------------------------------------
+Test finished: clickOnMenuToTranslate(tests.MainMenuTest)
+--------------------------------------
+Test starts: imageTranslationTest(tests.ImageTranslationTest)
+Test starts: imageTranslationTest(tests.ImageTranslationTest)
+Test starts: imageTranslationTest(tests.ImageTranslationTest)
+Test finished: imageTranslationTest(tests.ImageTranslationTest)
+--------------------------------------
+Test finished: imageTranslationTest(tests.ImageTranslationTest)
+--------------------------------------
+Test finished: imageTranslationTest(tests.ImageTranslationTest)
+--------------------------------------
+Test starts: testUrlTranslate(tests.SiteTranslationTest)
+Test starts: testUrlTranslate(tests.SiteTranslationTest)
+Test starts: testUrlTranslate(tests.SiteTranslationTest)
+Test starts: testUrlTranslate(tests.SiteTranslationTest)
+Test finished: testUrlTranslate(tests.SiteTranslationTest)
+--------------------------------------
+Test finished: testUrlTranslate(tests.SiteTranslationTest)
+--------------------------------------
+Test finished: testUrlTranslate(tests.SiteTranslationTest)
+--------------------------------------
+Test finished: testUrlTranslate(tests.SiteTranslationTest)
+--------------------------------------
+Test starts: testUrlTranslate(tests.SiteTranslationTest)
+Test starts: testUrlTranslate(tests.SiteTranslationTest)
+Test starts: testUrlTranslate(tests.SiteTranslationTest)
+Test starts: testUrlTranslate(tests.SiteTranslationTest)
+Test starts: testUrlTranslate(tests.SiteTranslationTest)
+Test failed with: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for text ('100%') to be present in element found by By.id: progress (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'BONDARENKO', ip: '172.20.1.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.37.544315 (730aa6a5fdba15..., userDataDir: C:\Users\BONDAR~1\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
+Session ID: fbc0c60d219bde59722bd3eeac9558fc
+Test failed with: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for text ('100%') to be present in element found by By.id: progress (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'BONDARENKO', ip: '172.20.1.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.37.544315 (730aa6a5fdba15..., userDataDir: C:\Users\BONDAR~1\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
+Session ID: fbc0c60d219bde59722bd3eeac9558fc
+Test failed with: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for text ('100%') to be present in element found by By.id: progress (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'BONDARENKO', ip: '172.20.1.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.37.544315 (730aa6a5fdba15..., userDataDir: C:\Users\BONDAR~1\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
+Session ID: fbc0c60d219bde59722bd3eeac9558fc
+Test failed with: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for text ('100%') to be present in element found by By.id: progress (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'BONDARENKO', ip: '172.20.1.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.37.544315 (730aa6a5fdba15..., userDataDir: C:\Users\BONDAR~1\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
+Session ID: fbc0c60d219bde59722bd3eeac9558fc
+Test failed with: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for text ('100%') to be present in element found by By.id: progress (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'BONDARENKO', ip: '172.20.1.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.37.544315 (730aa6a5fdba15..., userDataDir: C:\Users\BONDAR~1\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
+Session ID: fbc0c60d219bde59722bd3eeac9558fc
+Test finished: testUrlTranslate(tests.SiteTranslationTest)
+--------------------------------------
+Test finished: testUrlTranslate(tests.SiteTranslationTest)
+--------------------------------------
+Test finished: testUrlTranslate(tests.SiteTranslationTest)
+--------------------------------------
+Test finished: testUrlTranslate(tests.SiteTranslationTest)
+--------------------------------------
+Test finished: testUrlTranslate(tests.SiteTranslationTest)
+--------------------------------------
+Test starts: testTranslationToOtherLangs[0](tests.TestTranslationToLangs)
+Test starts: testTranslationToOtherLangs[0](tests.TestTranslationToLangs)
+Test starts: testTranslationToOtherLangs[0](tests.TestTranslationToLangs)
+Test starts: testTranslationToOtherLangs[0](tests.TestTranslationToLangs)
+Test starts: testTranslationToOtherLangs[0](tests.TestTranslationToLangs)
+Test starts: testTranslationToOtherLangs[0](tests.TestTranslationToLangs)
+Test finished: testTranslationToOtherLangs[0](tests.TestTranslationToLangs)
+--------------------------------------
+Test finished: testTranslationToOtherLangs[0](tests.TestTranslationToLangs)
+--------------------------------------
+Test finished: testTranslationToOtherLangs[0](tests.TestTranslationToLangs)
+--------------------------------------
+Test finished: testTranslationToOtherLangs[0](tests.TestTranslationToLangs)
+--------------------------------------
+Test finished: testTranslationToOtherLangs[0](tests.TestTranslationToLangs)
+--------------------------------------
+Test finished: testTranslationToOtherLangs[0](tests.TestTranslationToLangs)
+--------------------------------------
+Test starts: testTranslationToOtherLangs[1](tests.TestTranslationToLangs)
+Test starts: testTranslationToOtherLangs[1](tests.TestTranslationToLangs)
+Test starts: testTranslationToOtherLangs[1](tests.TestTranslationToLangs)
+Test starts: testTranslationToOtherLangs[1](tests.TestTranslationToLangs)
+Test starts: testTranslationToOtherLangs[1](tests.TestTranslationToLangs)
+Test starts: testTranslationToOtherLangs[1](tests.TestTranslationToLangs)
+Test starts: testTranslationToOtherLangs[1](tests.TestTranslationToLangs)
+Test finished: testTranslationToOtherLangs[1](tests.TestTranslationToLangs)
+--------------------------------------
+Test finished: testTranslationToOtherLangs[1](tests.TestTranslationToLangs)
+--------------------------------------
+Test finished: testTranslationToOtherLangs[1](tests.TestTranslationToLangs)
+--------------------------------------
+Test finished: testTranslationToOtherLangs[1](tests.TestTranslationToLangs)
+--------------------------------------
+Test finished: testTranslationToOtherLangs[1](tests.TestTranslationToLangs)
+--------------------------------------
+Test finished: testTranslationToOtherLangs[1](tests.TestTranslationToLangs)
+--------------------------------------
+Test finished: testTranslationToOtherLangs[1](tests.TestTranslationToLangs)
+--------------------------------------
+Test starts: testTranslationToOtherLangs[2](tests.TestTranslationToLangs)
+Test starts: testTranslationToOtherLangs[2](tests.TestTranslationToLangs)
+Test starts: testTranslationToOtherLangs[2](tests.TestTranslationToLangs)
+Test starts: testTranslationToOtherLangs[2](tests.TestTranslationToLangs)
+Test starts: testTranslationToOtherLangs[2](tests.TestTranslationToLangs)
+Test starts: testTranslationToOtherLangs[2](tests.TestTranslationToLangs)
+Test starts: testTranslationToOtherLangs[2](tests.TestTranslationToLangs)
+Test starts: testTranslationToOtherLangs[2](tests.TestTranslationToLangs)
+Test failed with: org.openqa.selenium.WebDriverException: unknown error: Element <div class="listbox-option state-unselectable" data-value="fr" unselectable="on">...</div> is not clickable at point (823, 507). Other element would receive the click: <iframe frameborder="0" src="https://yastatic.net/daas/distr-popup.html" aria-hidden="true" style="display: block; width: 364px; height: 180px; z-index: 42000000; transform: translate3d(0px, 0px, 0px); position: fixed; bottom: 15px; right: 15px;"></iframe>
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'BONDARENKO', ip: '172.20.1.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.37.544315 (730aa6a5fdba15..., userDataDir: C:\Users\BONDAR~1\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
+Session ID: ea61fe50743734d13bbb630d5de7b4aa
+Test failed with: org.openqa.selenium.WebDriverException: unknown error: Element <div class="listbox-option state-unselectable" data-value="fr" unselectable="on">...</div> is not clickable at point (823, 507). Other element would receive the click: <iframe frameborder="0" src="https://yastatic.net/daas/distr-popup.html" aria-hidden="true" style="display: block; width: 364px; height: 180px; z-index: 42000000; transform: translate3d(0px, 0px, 0px); position: fixed; bottom: 15px; right: 15px;"></iframe>
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'BONDARENKO', ip: '172.20.1.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.37.544315 (730aa6a5fdba15..., userDataDir: C:\Users\BONDAR~1\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
+Session ID: ea61fe50743734d13bbb630d5de7b4aa
+Test failed with: org.openqa.selenium.WebDriverException: unknown error: Element <div class="listbox-option state-unselectable" data-value="fr" unselectable="on">...</div> is not clickable at point (823, 507). Other element would receive the click: <iframe frameborder="0" src="https://yastatic.net/daas/distr-popup.html" aria-hidden="true" style="display: block; width: 364px; height: 180px; z-index: 42000000; transform: translate3d(0px, 0px, 0px); position: fixed; bottom: 15px; right: 15px;"></iframe>
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'BONDARENKO', ip: '172.20.1.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.37.544315 (730aa6a5fdba15..., userDataDir: C:\Users\BONDAR~1\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
+Session ID: ea61fe50743734d13bbb630d5de7b4aa
+Test failed with: org.openqa.selenium.WebDriverException: unknown error: Element <div class="listbox-option state-unselectable" data-value="fr" unselectable="on">...</div> is not clickable at point (823, 507). Other element would receive the click: <iframe frameborder="0" src="https://yastatic.net/daas/distr-popup.html" aria-hidden="true" style="display: block; width: 364px; height: 180px; z-index: 42000000; transform: translate3d(0px, 0px, 0px); position: fixed; bottom: 15px; right: 15px;"></iframe>
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'BONDARENKO', ip: '172.20.1.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.37.544315 (730aa6a5fdba15..., userDataDir: C:\Users\BONDAR~1\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
+Session ID: ea61fe50743734d13bbb630d5de7b4aa
+Test failed with: org.openqa.selenium.WebDriverException: unknown error: Element <div class="listbox-option state-unselectable" data-value="fr" unselectable="on">...</div> is not clickable at point (823, 507). Other element would receive the click: <iframe frameborder="0" src="https://yastatic.net/daas/distr-popup.html" aria-hidden="true" style="display: block; width: 364px; height: 180px; z-index: 42000000; transform: translate3d(0px, 0px, 0px); position: fixed; bottom: 15px; right: 15px;"></iframe>
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'BONDARENKO', ip: '172.20.1.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.37.544315 (730aa6a5fdba15..., userDataDir: C:\Users\BONDAR~1\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
+Session ID: ea61fe50743734d13bbb630d5de7b4aa
+Test failed with: org.openqa.selenium.WebDriverException: unknown error: Element <div class="listbox-option state-unselectable" data-value="fr" unselectable="on">...</div> is not clickable at point (823, 507). Other element would receive the click: <iframe frameborder="0" src="https://yastatic.net/daas/distr-popup.html" aria-hidden="true" style="display: block; width: 364px; height: 180px; z-index: 42000000; transform: translate3d(0px, 0px, 0px); position: fixed; bottom: 15px; right: 15px;"></iframe>
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'BONDARENKO', ip: '172.20.1.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.37.544315 (730aa6a5fdba15..., userDataDir: C:\Users\BONDAR~1\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
+Session ID: ea61fe50743734d13bbb630d5de7b4aa
+Test failed with: org.openqa.selenium.WebDriverException: unknown error: Element <div class="listbox-option state-unselectable" data-value="fr" unselectable="on">...</div> is not clickable at point (823, 507). Other element would receive the click: <iframe frameborder="0" src="https://yastatic.net/daas/distr-popup.html" aria-hidden="true" style="display: block; width: 364px; height: 180px; z-index: 42000000; transform: translate3d(0px, 0px, 0px); position: fixed; bottom: 15px; right: 15px;"></iframe>
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'BONDARENKO', ip: '172.20.1.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.37.544315 (730aa6a5fdba15..., userDataDir: C:\Users\BONDAR~1\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
+Session ID: ea61fe50743734d13bbb630d5de7b4aa
+Test failed with: org.openqa.selenium.WebDriverException: unknown error: Element <div class="listbox-option state-unselectable" data-value="fr" unselectable="on">...</div> is not clickable at point (823, 507). Other element would receive the click: <iframe frameborder="0" src="https://yastatic.net/daas/distr-popup.html" aria-hidden="true" style="display: block; width: 364px; height: 180px; z-index: 42000000; transform: translate3d(0px, 0px, 0px); position: fixed; bottom: 15px; right: 15px;"></iframe>
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'BONDARENKO', ip: '172.20.1.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.37.544315 (730aa6a5fdba15..., userDataDir: C:\Users\BONDAR~1\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
+Session ID: ea61fe50743734d13bbb630d5de7b4aa
+Test finished: testTranslationToOtherLangs[2](tests.TestTranslationToLangs)
+--------------------------------------
+Test finished: testTranslationToOtherLangs[2](tests.TestTranslationToLangs)
+--------------------------------------
+Test finished: testTranslationToOtherLangs[2](tests.TestTranslationToLangs)
+--------------------------------------
+Test finished: testTranslationToOtherLangs[2](tests.TestTranslationToLangs)
+--------------------------------------
+Test finished: testTranslationToOtherLangs[2](tests.TestTranslationToLangs)
+--------------------------------------
+Test finished: testTranslationToOtherLangs[2](tests.TestTranslationToLangs)
+--------------------------------------
+Test finished: testTranslationToOtherLangs[2](tests.TestTranslationToLangs)
+--------------------------------------
+Test finished: testTranslationToOtherLangs[2](tests.TestTranslationToLangs)
+--------------------------------------
+Test starts: testTranslationToOtherLangs[3](tests.TestTranslationToLangs)
+Test starts: testTranslationToOtherLangs[3](tests.TestTranslationToLangs)
+Test starts: testTranslationToOtherLangs[3](tests.TestTranslationToLangs)
+Test starts: testTranslationToOtherLangs[3](tests.TestTranslationToLangs)
+Test starts: testTranslationToOtherLangs[3](tests.TestTranslationToLangs)
+Test starts: testTranslationToOtherLangs[3](tests.TestTranslationToLangs)
+Test starts: testTranslationToOtherLangs[3](tests.TestTranslationToLangs)
+Test starts: testTranslationToOtherLangs[3](tests.TestTranslationToLangs)
+Test starts: testTranslationToOtherLangs[3](tests.TestTranslationToLangs)
+Test finished: testTranslationToOtherLangs[3](tests.TestTranslationToLangs)
+--------------------------------------
+Test finished: testTranslationToOtherLangs[3](tests.TestTranslationToLangs)
+--------------------------------------
+Test finished: testTranslationToOtherLangs[3](tests.TestTranslationToLangs)
+--------------------------------------
+Test finished: testTranslationToOtherLangs[3](tests.TestTranslationToLangs)
+--------------------------------------
+Test finished: testTranslationToOtherLangs[3](tests.TestTranslationToLangs)
+--------------------------------------
+Test finished: testTranslationToOtherLangs[3](tests.TestTranslationToLangs)
+--------------------------------------
+Test finished: testTranslationToOtherLangs[3](tests.TestTranslationToLangs)
+--------------------------------------
+Test finished: testTranslationToOtherLangs[3](tests.TestTranslationToLangs)
+--------------------------------------
+Test finished: testTranslationToOtherLangs[3](tests.TestTranslationToLangs)
+--------------------------------------
+Test starts: testTranslationToOtherLangs[4](tests.TestTranslationToLangs)
+Test starts: testTranslationToOtherLangs[4](tests.TestTranslationToLangs)
+Test starts: testTranslationToOtherLangs[4](tests.TestTranslationToLangs)
+Test starts: testTranslationToOtherLangs[4](tests.TestTranslationToLangs)
+Test starts: testTranslationToOtherLangs[4](tests.TestTranslationToLangs)
+Test starts: testTranslationToOtherLangs[4](tests.TestTranslationToLangs)
+Test starts: testTranslationToOtherLangs[4](tests.TestTranslationToLangs)
+Test starts: testTranslationToOtherLangs[4](tests.TestTranslationToLangs)
+Test starts: testTranslationToOtherLangs[4](tests.TestTranslationToLangs)
+Test starts: testTranslationToOtherLangs[4](tests.TestTranslationToLangs)
+Test finished: testTranslationToOtherLangs[4](tests.TestTranslationToLangs)
+--------------------------------------
+Test finished: testTranslationToOtherLangs[4](tests.TestTranslationToLangs)
+--------------------------------------
+Test finished: testTranslationToOtherLangs[4](tests.TestTranslationToLangs)
+--------------------------------------
+Test finished: testTranslationToOtherLangs[4](tests.TestTranslationToLangs)
+--------------------------------------
+Test finished: testTranslationToOtherLangs[4](tests.TestTranslationToLangs)
+--------------------------------------
+Test finished: testTranslationToOtherLangs[4](tests.TestTranslationToLangs)
+--------------------------------------
+Test finished: testTranslationToOtherLangs[4](tests.TestTranslationToLangs)
+--------------------------------------
+Test finished: testTranslationToOtherLangs[4](tests.TestTranslationToLangs)
+--------------------------------------
+Test finished: testTranslationToOtherLangs[4](tests.TestTranslationToLangs)
+--------------------------------------
+Test finished: testTranslationToOtherLangs[4](tests.TestTranslationToLangs)
+--------------------------------------
+Test starts: testTranslationToOtherLangs[5](tests.TestTranslationToLangs)
+Test starts: testTranslationToOtherLangs[5](tests.TestTranslationToLangs)
+Test starts: testTranslationToOtherLangs[5](tests.TestTranslationToLangs)
+Test starts: testTranslationToOtherLangs[5](tests.TestTranslationToLangs)
+Test starts: testTranslationToOtherLangs[5](tests.TestTranslationToLangs)
+Test starts: testTranslationToOtherLangs[5](tests.TestTranslationToLangs)
+Test starts: testTranslationToOtherLangs[5](tests.TestTranslationToLangs)
+Test starts: testTranslationToOtherLangs[5](tests.TestTranslationToLangs)
+Test starts: testTranslationToOtherLangs[5](tests.TestTranslationToLangs)
+Test starts: testTranslationToOtherLangs[5](tests.TestTranslationToLangs)
+Test starts: testTranslationToOtherLangs[5](tests.TestTranslationToLangs)
+Test finished: testTranslationToOtherLangs[5](tests.TestTranslationToLangs)
+--------------------------------------
+Test finished: testTranslationToOtherLangs[5](tests.TestTranslationToLangs)
+--------------------------------------
+Test finished: testTranslationToOtherLangs[5](tests.TestTranslationToLangs)
+--------------------------------------
+Test finished: testTranslationToOtherLangs[5](tests.TestTranslationToLangs)
+--------------------------------------
+Test finished: testTranslationToOtherLangs[5](tests.TestTranslationToLangs)
+--------------------------------------
+Test finished: testTranslationToOtherLangs[5](tests.TestTranslationToLangs)
+--------------------------------------
+Test finished: testTranslationToOtherLangs[5](tests.TestTranslationToLangs)
+--------------------------------------
+Test finished: testTranslationToOtherLangs[5](tests.TestTranslationToLangs)
+--------------------------------------
+Test finished: testTranslationToOtherLangs[5](tests.TestTranslationToLangs)
+--------------------------------------
+Test finished: testTranslationToOtherLangs[5](tests.TestTranslationToLangs)
+--------------------------------------
+Test finished: testTranslationToOtherLangs[5](tests.TestTranslationToLangs)
+--------------------------------------
+Test starts: testTranslationToOtherLangs[6](tests.TestTranslationToLangs)
+Test starts: testTranslationToOtherLangs[6](tests.TestTranslationToLangs)
+Test starts: testTranslationToOtherLangs[6](tests.TestTranslationToLangs)
+Test starts: testTranslationToOtherLangs[6](tests.TestTranslationToLangs)
+Test starts: testTranslationToOtherLangs[6](tests.TestTranslationToLangs)
+Test starts: testTranslationToOtherLangs[6](tests.TestTranslationToLangs)
+Test starts: testTranslationToOtherLangs[6](tests.TestTranslationToLangs)
+Test starts: testTranslationToOtherLangs[6](tests.TestTranslationToLangs)
+Test starts: testTranslationToOtherLangs[6](tests.TestTranslationToLangs)
+Test starts: testTranslationToOtherLangs[6](tests.TestTranslationToLangs)
+Test starts: testTranslationToOtherLangs[6](tests.TestTranslationToLangs)
+Test starts: testTranslationToOtherLangs[6](tests.TestTranslationToLangs)
+Test failed with: org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'BONDARENKO', ip: '172.20.1.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.37.544315 (730aa6a5fdba15..., userDataDir: C:\Users\BONDAR~1\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
+Session ID: 6cd2e2440bb6c21a2c15737b6a17e2e7
+Test failed with: org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'BONDARENKO', ip: '172.20.1.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.37.544315 (730aa6a5fdba15..., userDataDir: C:\Users\BONDAR~1\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
+Session ID: 6cd2e2440bb6c21a2c15737b6a17e2e7
+Test failed with: org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'BONDARENKO', ip: '172.20.1.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.37.544315 (730aa6a5fdba15..., userDataDir: C:\Users\BONDAR~1\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
+Session ID: 6cd2e2440bb6c21a2c15737b6a17e2e7
+Test failed with: org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'BONDARENKO', ip: '172.20.1.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.37.544315 (730aa6a5fdba15..., userDataDir: C:\Users\BONDAR~1\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
+Session ID: 6cd2e2440bb6c21a2c15737b6a17e2e7
+Test failed with: org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'BONDARENKO', ip: '172.20.1.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.37.544315 (730aa6a5fdba15..., userDataDir: C:\Users\BONDAR~1\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
+Session ID: 6cd2e2440bb6c21a2c15737b6a17e2e7
+Test failed with: org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'BONDARENKO', ip: '172.20.1.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.37.544315 (730aa6a5fdba15..., userDataDir: C:\Users\BONDAR~1\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
+Session ID: 6cd2e2440bb6c21a2c15737b6a17e2e7
+Test failed with: org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'BONDARENKO', ip: '172.20.1.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.37.544315 (730aa6a5fdba15..., userDataDir: C:\Users\BONDAR~1\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
+Session ID: 6cd2e2440bb6c21a2c15737b6a17e2e7
+Test failed with: org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'BONDARENKO', ip: '172.20.1.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.37.544315 (730aa6a5fdba15..., userDataDir: C:\Users\BONDAR~1\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
+Session ID: 6cd2e2440bb6c21a2c15737b6a17e2e7
+Test failed with: org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'BONDARENKO', ip: '172.20.1.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.37.544315 (730aa6a5fdba15..., userDataDir: C:\Users\BONDAR~1\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
+Session ID: 6cd2e2440bb6c21a2c15737b6a17e2e7
+Test failed with: org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'BONDARENKO', ip: '172.20.1.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.37.544315 (730aa6a5fdba15..., userDataDir: C:\Users\BONDAR~1\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
+Session ID: 6cd2e2440bb6c21a2c15737b6a17e2e7
+Test failed with: org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'BONDARENKO', ip: '172.20.1.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.37.544315 (730aa6a5fdba15..., userDataDir: C:\Users\BONDAR~1\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
+Session ID: 6cd2e2440bb6c21a2c15737b6a17e2e7
+Test failed with: org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'BONDARENKO', ip: '172.20.1.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.37.544315 (730aa6a5fdba15..., userDataDir: C:\Users\BONDAR~1\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
+Session ID: 6cd2e2440bb6c21a2c15737b6a17e2e7
+Test finished: testTranslationToOtherLangs[6](tests.TestTranslationToLangs)
+--------------------------------------
+Test finished: testTranslationToOtherLangs[6](tests.TestTranslationToLangs)
+--------------------------------------
+Test finished: testTranslationToOtherLangs[6](tests.TestTranslationToLangs)
+--------------------------------------
+Test finished: testTranslationToOtherLangs[6](tests.TestTranslationToLangs)
+--------------------------------------
+Test finished: testTranslationToOtherLangs[6](tests.TestTranslationToLangs)
+--------------------------------------
+Test finished: testTranslationToOtherLangs[6](tests.TestTranslationToLangs)
+--------------------------------------
+Test finished: testTranslationToOtherLangs[6](tests.TestTranslationToLangs)
+--------------------------------------
+Test finished: testTranslationToOtherLangs[6](tests.TestTranslationToLangs)
+--------------------------------------
+Test finished: testTranslationToOtherLangs[6](tests.TestTranslationToLangs)
+--------------------------------------
+Test finished: testTranslationToOtherLangs[6](tests.TestTranslationToLangs)
+--------------------------------------
+Test finished: testTranslationToOtherLangs[6](tests.TestTranslationToLangs)
+--------------------------------------
+Test finished: testTranslationToOtherLangs[6](tests.TestTranslationToLangs)
+--------------------------------------
+Test starts: testTranslationToOtherLangs[7](tests.TestTranslationToLangs)
+Test starts: testTranslationToOtherLangs[7](tests.TestTranslationToLangs)
+Test starts: testTranslationToOtherLangs[7](tests.TestTranslationToLangs)
+Test starts: testTranslationToOtherLangs[7](tests.TestTranslationToLangs)
+Test starts: testTranslationToOtherLangs[7](tests.TestTranslationToLangs)
+Test starts: testTranslationToOtherLangs[7](tests.TestTranslationToLangs)
+Test starts: testTranslationToOtherLangs[7](tests.TestTranslationToLangs)
+Test starts: testTranslationToOtherLangs[7](tests.TestTranslationToLangs)
+Test starts: testTranslationToOtherLangs[7](tests.TestTranslationToLangs)
+Test starts: testTranslationToOtherLangs[7](tests.TestTranslationToLangs)
+Test starts: testTranslationToOtherLangs[7](tests.TestTranslationToLangs)
+Test starts: testTranslationToOtherLangs[7](tests.TestTranslationToLangs)
+Test starts: testTranslationToOtherLangs[7](tests.TestTranslationToLangs)
+Test finished: testTranslationToOtherLangs[7](tests.TestTranslationToLangs)
+--------------------------------------
+Test finished: testTranslationToOtherLangs[7](tests.TestTranslationToLangs)
+--------------------------------------
+Test finished: testTranslationToOtherLangs[7](tests.TestTranslationToLangs)
+--------------------------------------
+Test finished: testTranslationToOtherLangs[7](tests.TestTranslationToLangs)
+--------------------------------------
+Test finished: testTranslationToOtherLangs[7](tests.TestTranslationToLangs)
+--------------------------------------
+Test finished: testTranslationToOtherLangs[7](tests.TestTranslationToLangs)
+--------------------------------------
+Test finished: testTranslationToOtherLangs[7](tests.TestTranslationToLangs)
+--------------------------------------
+Test finished: testTranslationToOtherLangs[7](tests.TestTranslationToLangs)
+--------------------------------------
+Test finished: testTranslationToOtherLangs[7](tests.TestTranslationToLangs)
+--------------------------------------
+Test finished: testTranslationToOtherLangs[7](tests.TestTranslationToLangs)
+--------------------------------------
+Test finished: testTranslationToOtherLangs[7](tests.TestTranslationToLangs)
+--------------------------------------
+Test finished: testTranslationToOtherLangs[7](tests.TestTranslationToLangs)
+--------------------------------------
+Test finished: testTranslationToOtherLangs[7](tests.TestTranslationToLangs)
+--------------------------------------
+Test starts: testTranslationToRus[0](tests.TestTranslationToRus)
+Test starts: testTranslationToRus[0](tests.TestTranslationToRus)
+Test starts: testTranslationToRus[0](tests.TestTranslationToRus)
+Test starts: testTranslationToRus[0](tests.TestTranslationToRus)
+Test starts: testTranslationToRus[0](tests.TestTranslationToRus)
+Test starts: testTranslationToRus[0](tests.TestTranslationToRus)
+Test starts: testTranslationToRus[0](tests.TestTranslationToRus)
+Test starts: testTranslationToRus[0](tests.TestTranslationToRus)
+Test starts: testTranslationToRus[0](tests.TestTranslationToRus)
+Test starts: testTranslationToRus[0](tests.TestTranslationToRus)
+Test starts: testTranslationToRus[0](tests.TestTranslationToRus)
+Test starts: testTranslationToRus[0](tests.TestTranslationToRus)
+Test starts: testTranslationToRus[0](tests.TestTranslationToRus)
+Test starts: testTranslationToRus[0](tests.TestTranslationToRus)
+Test finished: testTranslationToRus[0](tests.TestTranslationToRus)
+--------------------------------------
+Test finished: testTranslationToRus[0](tests.TestTranslationToRus)
+--------------------------------------
+Test finished: testTranslationToRus[0](tests.TestTranslationToRus)
+--------------------------------------
+Test finished: testTranslationToRus[0](tests.TestTranslationToRus)
+--------------------------------------
+Test finished: testTranslationToRus[0](tests.TestTranslationToRus)
+--------------------------------------
+Test finished: testTranslationToRus[0](tests.TestTranslationToRus)
+--------------------------------------
+Test finished: testTranslationToRus[0](tests.TestTranslationToRus)
+--------------------------------------
+Test finished: testTranslationToRus[0](tests.TestTranslationToRus)
+--------------------------------------
+Test finished: testTranslationToRus[0](tests.TestTranslationToRus)
+--------------------------------------
+Test finished: testTranslationToRus[0](tests.TestTranslationToRus)
+--------------------------------------
+Test finished: testTranslationToRus[0](tests.TestTranslationToRus)
+--------------------------------------
+Test finished: testTranslationToRus[0](tests.TestTranslationToRus)
+--------------------------------------
+Test finished: testTranslationToRus[0](tests.TestTranslationToRus)
+--------------------------------------
+Test finished: testTranslationToRus[0](tests.TestTranslationToRus)
+--------------------------------------
+Test starts: testTranslationToRus[1](tests.TestTranslationToRus)
+Test starts: testTranslationToRus[1](tests.TestTranslationToRus)
+Test starts: testTranslationToRus[1](tests.TestTranslationToRus)
+Test starts: testTranslationToRus[1](tests.TestTranslationToRus)
+Test starts: testTranslationToRus[1](tests.TestTranslationToRus)
+Test starts: testTranslationToRus[1](tests.TestTranslationToRus)
+Test starts: testTranslationToRus[1](tests.TestTranslationToRus)
+Test starts: testTranslationToRus[1](tests.TestTranslationToRus)
+Test starts: testTranslationToRus[1](tests.TestTranslationToRus)
+Test starts: testTranslationToRus[1](tests.TestTranslationToRus)
+Test starts: testTranslationToRus[1](tests.TestTranslationToRus)
+Test starts: testTranslationToRus[1](tests.TestTranslationToRus)
+Test starts: testTranslationToRus[1](tests.TestTranslationToRus)
+Test starts: testTranslationToRus[1](tests.TestTranslationToRus)
+Test starts: testTranslationToRus[1](tests.TestTranslationToRus)
+Test finished: testTranslationToRus[1](tests.TestTranslationToRus)
+--------------------------------------
+Test finished: testTranslationToRus[1](tests.TestTranslationToRus)
+--------------------------------------
+Test finished: testTranslationToRus[1](tests.TestTranslationToRus)
+--------------------------------------
+Test finished: testTranslationToRus[1](tests.TestTranslationToRus)
+--------------------------------------
+Test finished: testTranslationToRus[1](tests.TestTranslationToRus)
+--------------------------------------
+Test finished: testTranslationToRus[1](tests.TestTranslationToRus)
+--------------------------------------
+Test finished: testTranslationToRus[1](tests.TestTranslationToRus)
+--------------------------------------
+Test finished: testTranslationToRus[1](tests.TestTranslationToRus)
+--------------------------------------
+Test finished: testTranslationToRus[1](tests.TestTranslationToRus)
+--------------------------------------
+Test finished: testTranslationToRus[1](tests.TestTranslationToRus)
+--------------------------------------
+Test finished: testTranslationToRus[1](tests.TestTranslationToRus)
+--------------------------------------
+Test finished: testTranslationToRus[1](tests.TestTranslationToRus)
+--------------------------------------
+Test finished: testTranslationToRus[1](tests.TestTranslationToRus)
+--------------------------------------
+Test finished: testTranslationToRus[1](tests.TestTranslationToRus)
+--------------------------------------
+Test finished: testTranslationToRus[1](tests.TestTranslationToRus)
+--------------------------------------
+Test starts: testTranslationToRus[2](tests.TestTranslationToRus)
+Test starts: testTranslationToRus[2](tests.TestTranslationToRus)
+Test starts: testTranslationToRus[2](tests.TestTranslationToRus)
+Test starts: testTranslationToRus[2](tests.TestTranslationToRus)
+Test starts: testTranslationToRus[2](tests.TestTranslationToRus)
+Test starts: testTranslationToRus[2](tests.TestTranslationToRus)
+Test starts: testTranslationToRus[2](tests.TestTranslationToRus)
+Test starts: testTranslationToRus[2](tests.TestTranslationToRus)
+Test starts: testTranslationToRus[2](tests.TestTranslationToRus)
+Test starts: testTranslationToRus[2](tests.TestTranslationToRus)
+Test starts: testTranslationToRus[2](tests.TestTranslationToRus)
+Test starts: testTranslationToRus[2](tests.TestTranslationToRus)
+Test starts: testTranslationToRus[2](tests.TestTranslationToRus)
+Test starts: testTranslationToRus[2](tests.TestTranslationToRus)
+Test starts: testTranslationToRus[2](tests.TestTranslationToRus)
+Test starts: testTranslationToRus[2](tests.TestTranslationToRus)
+Test finished: testTranslationToRus[2](tests.TestTranslationToRus)
+--------------------------------------
+Test finished: testTranslationToRus[2](tests.TestTranslationToRus)
+--------------------------------------
+Test finished: testTranslationToRus[2](tests.TestTranslationToRus)
+--------------------------------------
+Test finished: testTranslationToRus[2](tests.TestTranslationToRus)
+--------------------------------------
+Test finished: testTranslationToRus[2](tests.TestTranslationToRus)
+--------------------------------------
+Test finished: testTranslationToRus[2](tests.TestTranslationToRus)
+--------------------------------------
+Test finished: testTranslationToRus[2](tests.TestTranslationToRus)
+--------------------------------------
+Test finished: testTranslationToRus[2](tests.TestTranslationToRus)
+--------------------------------------
+Test finished: testTranslationToRus[2](tests.TestTranslationToRus)
+--------------------------------------
+Test finished: testTranslationToRus[2](tests.TestTranslationToRus)
+--------------------------------------
+Test finished: testTranslationToRus[2](tests.TestTranslationToRus)
+--------------------------------------
+Test finished: testTranslationToRus[2](tests.TestTranslationToRus)
+--------------------------------------
+Test finished: testTranslationToRus[2](tests.TestTranslationToRus)
+--------------------------------------
+Test finished: testTranslationToRus[2](tests.TestTranslationToRus)
+--------------------------------------
+Test finished: testTranslationToRus[2](tests.TestTranslationToRus)
+--------------------------------------
+Test finished: testTranslationToRus[2](tests.TestTranslationToRus)
+--------------------------------------
+Test starts: testTranslationToRus[3](tests.TestTranslationToRus)
+Test starts: testTranslationToRus[3](tests.TestTranslationToRus)
+Test starts: testTranslationToRus[3](tests.TestTranslationToRus)
+Test starts: testTranslationToRus[3](tests.TestTranslationToRus)
+Test starts: testTranslationToRus[3](tests.TestTranslationToRus)
+Test starts: testTranslationToRus[3](tests.TestTranslationToRus)
+Test starts: testTranslationToRus[3](tests.TestTranslationToRus)
+Test starts: testTranslationToRus[3](tests.TestTranslationToRus)
+Test starts: testTranslationToRus[3](tests.TestTranslationToRus)
+Test starts: testTranslationToRus[3](tests.TestTranslationToRus)
+Test starts: testTranslationToRus[3](tests.TestTranslationToRus)
+Test starts: testTranslationToRus[3](tests.TestTranslationToRus)
+Test starts: testTranslationToRus[3](tests.TestTranslationToRus)
+Test starts: testTranslationToRus[3](tests.TestTranslationToRus)
+Test starts: testTranslationToRus[3](tests.TestTranslationToRus)
+Test starts: testTranslationToRus[3](tests.TestTranslationToRus)
+Test starts: testTranslationToRus[3](tests.TestTranslationToRus)
+Test failed with: org.junit.ComparisonFailure: expected:<Готов[ый]> but was:<Готов[]>
+Test failed with: org.junit.ComparisonFailure: expected:<Готов[ый]> but was:<Готов[]>
+Test failed with: org.junit.ComparisonFailure: expected:<Готов[ый]> but was:<Готов[]>
+Test failed with: org.junit.ComparisonFailure: expected:<Готов[ый]> but was:<Готов[]>
+Test failed with: org.junit.ComparisonFailure: expected:<Готов[ый]> but was:<Готов[]>
+Test failed with: org.junit.ComparisonFailure: expected:<Готов[ый]> but was:<Готов[]>
+Test failed with: org.junit.ComparisonFailure: expected:<Готов[ый]> but was:<Готов[]>
+Test failed with: org.junit.ComparisonFailure: expected:<Готов[ый]> but was:<Готов[]>
+Test failed with: org.junit.ComparisonFailure: expected:<Готов[ый]> but was:<Готов[]>
+Test failed with: org.junit.ComparisonFailure: expected:<Готов[ый]> but was:<Готов[]>
+Test failed with: org.junit.ComparisonFailure: expected:<Готов[ый]> but was:<Готов[]>
+Test failed with: org.junit.ComparisonFailure: expected:<Готов[ый]> but was:<Готов[]>
+Test failed with: org.junit.ComparisonFailure: expected:<Готов[ый]> but was:<Готов[]>
+Test failed with: org.junit.ComparisonFailure: expected:<Готов[ый]> but was:<Готов[]>
+Test failed with: org.junit.ComparisonFailure: expected:<Готов[ый]> but was:<Готов[]>
+Test failed with: org.junit.ComparisonFailure: expected:<Готов[ый]> but was:<Готов[]>
+Test failed with: org.junit.ComparisonFailure: expected:<Готов[ый]> but was:<Готов[]>
+Test finished: testTranslationToRus[3](tests.TestTranslationToRus)
+--------------------------------------
+Test finished: testTranslationToRus[3](tests.TestTranslationToRus)
+--------------------------------------
+Test finished: testTranslationToRus[3](tests.TestTranslationToRus)
+--------------------------------------
+Test finished: testTranslationToRus[3](tests.TestTranslationToRus)
+--------------------------------------
+Test finished: testTranslationToRus[3](tests.TestTranslationToRus)
+--------------------------------------
+Test finished: testTranslationToRus[3](tests.TestTranslationToRus)
+--------------------------------------
+Test finished: testTranslationToRus[3](tests.TestTranslationToRus)
+--------------------------------------
+Test finished: testTranslationToRus[3](tests.TestTranslationToRus)
+--------------------------------------
+Test finished: testTranslationToRus[3](tests.TestTranslationToRus)
+--------------------------------------
+Test finished: testTranslationToRus[3](tests.TestTranslationToRus)
+--------------------------------------
+Test finished: testTranslationToRus[3](tests.TestTranslationToRus)
+--------------------------------------
+Test finished: testTranslationToRus[3](tests.TestTranslationToRus)
+--------------------------------------
+Test finished: testTranslationToRus[3](tests.TestTranslationToRus)
+--------------------------------------
+Test finished: testTranslationToRus[3](tests.TestTranslationToRus)
+--------------------------------------
+Test finished: testTranslationToRus[3](tests.TestTranslationToRus)
+--------------------------------------
+Test finished: testTranslationToRus[3](tests.TestTranslationToRus)
+--------------------------------------
+Test finished: testTranslationToRus[3](tests.TestTranslationToRus)
+--------------------------------------
+Test starts: testTranslationToRus[4](tests.TestTranslationToRus)
+Test starts: testTranslationToRus[4](tests.TestTranslationToRus)
+Test starts: testTranslationToRus[4](tests.TestTranslationToRus)
+Test starts: testTranslationToRus[4](tests.TestTranslationToRus)
+Test starts: testTranslationToRus[4](tests.TestTranslationToRus)
+Test starts: testTranslationToRus[4](tests.TestTranslationToRus)
+Test starts: testTranslationToRus[4](tests.TestTranslationToRus)
+Test starts: testTranslationToRus[4](tests.TestTranslationToRus)
+Test starts: testTranslationToRus[4](tests.TestTranslationToRus)
+Test starts: testTranslationToRus[4](tests.TestTranslationToRus)
+Test starts: testTranslationToRus[4](tests.TestTranslationToRus)
+Test starts: testTranslationToRus[4](tests.TestTranslationToRus)
+Test starts: testTranslationToRus[4](tests.TestTranslationToRus)
+Test starts: testTranslationToRus[4](tests.TestTranslationToRus)
+Test starts: testTranslationToRus[4](tests.TestTranslationToRus)
+Test starts: testTranslationToRus[4](tests.TestTranslationToRus)
+Test starts: testTranslationToRus[4](tests.TestTranslationToRus)
+Test starts: testTranslationToRus[4](tests.TestTranslationToRus)
+Test finished: testTranslationToRus[4](tests.TestTranslationToRus)
+--------------------------------------
+Test finished: testTranslationToRus[4](tests.TestTranslationToRus)
+--------------------------------------
+Test finished: testTranslationToRus[4](tests.TestTranslationToRus)
+--------------------------------------
+Test finished: testTranslationToRus[4](tests.TestTranslationToRus)
+--------------------------------------
+Test finished: testTranslationToRus[4](tests.TestTranslationToRus)
+--------------------------------------
+Test finished: testTranslationToRus[4](tests.TestTranslationToRus)
+--------------------------------------
+Test finished: testTranslationToRus[4](tests.TestTranslationToRus)
+--------------------------------------
+Test finished: testTranslationToRus[4](tests.TestTranslationToRus)
+--------------------------------------
+Test finished: testTranslationToRus[4](tests.TestTranslationToRus)
+--------------------------------------
+Test finished: testTranslationToRus[4](tests.TestTranslationToRus)
+--------------------------------------
+Test finished: testTranslationToRus[4](tests.TestTranslationToRus)
+--------------------------------------
+Test finished: testTranslationToRus[4](tests.TestTranslationToRus)
+--------------------------------------
+Test finished: testTranslationToRus[4](tests.TestTranslationToRus)
+--------------------------------------
+Test finished: testTranslationToRus[4](tests.TestTranslationToRus)
+--------------------------------------
+Test finished: testTranslationToRus[4](tests.TestTranslationToRus)
+--------------------------------------
+Test finished: testTranslationToRus[4](tests.TestTranslationToRus)
+--------------------------------------
+Test finished: testTranslationToRus[4](tests.TestTranslationToRus)
+--------------------------------------
+Test finished: testTranslationToRus[4](tests.TestTranslationToRus)
+--------------------------------------
+Test starts: clearButtonTest(tests.ToolsButtonsTest)
+Test starts: clearButtonTest(tests.ToolsButtonsTest)
+Test starts: clearButtonTest(tests.ToolsButtonsTest)
+Test starts: clearButtonTest(tests.ToolsButtonsTest)
+Test starts: clearButtonTest(tests.ToolsButtonsTest)
+Test starts: clearButtonTest(tests.ToolsButtonsTest)
+Test starts: clearButtonTest(tests.ToolsButtonsTest)
+Test starts: clearButtonTest(tests.ToolsButtonsTest)
+Test starts: clearButtonTest(tests.ToolsButtonsTest)
+Test starts: clearButtonTest(tests.ToolsButtonsTest)
+Test starts: clearButtonTest(tests.ToolsButtonsTest)
+Test starts: clearButtonTest(tests.ToolsButtonsTest)
+Test starts: clearButtonTest(tests.ToolsButtonsTest)
+Test starts: clearButtonTest(tests.ToolsButtonsTest)
+Test starts: clearButtonTest(tests.ToolsButtonsTest)
+Test starts: clearButtonTest(tests.ToolsButtonsTest)
+Test starts: clearButtonTest(tests.ToolsButtonsTest)
+Test starts: clearButtonTest(tests.ToolsButtonsTest)
+Test starts: clearButtonTest(tests.ToolsButtonsTest)
+Test finished: clearButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: clearButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: clearButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: clearButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: clearButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: clearButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: clearButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: clearButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: clearButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: clearButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: clearButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: clearButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: clearButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: clearButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: clearButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: clearButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: clearButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: clearButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: clearButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test starts: spellerButtonTest(tests.ToolsButtonsTest)
+Test starts: spellerButtonTest(tests.ToolsButtonsTest)
+Test starts: spellerButtonTest(tests.ToolsButtonsTest)
+Test starts: spellerButtonTest(tests.ToolsButtonsTest)
+Test starts: spellerButtonTest(tests.ToolsButtonsTest)
+Test starts: spellerButtonTest(tests.ToolsButtonsTest)
+Test starts: spellerButtonTest(tests.ToolsButtonsTest)
+Test starts: spellerButtonTest(tests.ToolsButtonsTest)
+Test starts: spellerButtonTest(tests.ToolsButtonsTest)
+Test starts: spellerButtonTest(tests.ToolsButtonsTest)
+Test starts: spellerButtonTest(tests.ToolsButtonsTest)
+Test starts: spellerButtonTest(tests.ToolsButtonsTest)
+Test starts: spellerButtonTest(tests.ToolsButtonsTest)
+Test starts: spellerButtonTest(tests.ToolsButtonsTest)
+Test starts: spellerButtonTest(tests.ToolsButtonsTest)
+Test starts: spellerButtonTest(tests.ToolsButtonsTest)
+Test starts: spellerButtonTest(tests.ToolsButtonsTest)
+Test starts: spellerButtonTest(tests.ToolsButtonsTest)
+Test starts: spellerButtonTest(tests.ToolsButtonsTest)
+Test failed with: java.lang.AssertionError
+Test failed with: java.lang.AssertionError
+Test failed with: java.lang.AssertionError
+Test failed with: java.lang.AssertionError
+Test failed with: java.lang.AssertionError
+Test failed with: java.lang.AssertionError
+Test failed with: java.lang.AssertionError
+Test failed with: java.lang.AssertionError
+Test failed with: java.lang.AssertionError
+Test failed with: java.lang.AssertionError
+Test failed with: java.lang.AssertionError
+Test failed with: java.lang.AssertionError
+Test failed with: java.lang.AssertionError
+Test failed with: java.lang.AssertionError
+Test failed with: java.lang.AssertionError
+Test failed with: java.lang.AssertionError
+Test failed with: java.lang.AssertionError
+Test failed with: java.lang.AssertionError
+Test failed with: java.lang.AssertionError
+Test finished: spellerButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: spellerButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: spellerButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: spellerButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: spellerButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: spellerButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: spellerButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: spellerButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: spellerButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: spellerButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: spellerButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: spellerButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: spellerButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: spellerButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: spellerButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: spellerButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: spellerButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: spellerButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: spellerButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test starts: shareButtonTest(tests.ToolsButtonsTest)
+Test starts: shareButtonTest(tests.ToolsButtonsTest)
+Test starts: shareButtonTest(tests.ToolsButtonsTest)
+Test starts: shareButtonTest(tests.ToolsButtonsTest)
+Test starts: shareButtonTest(tests.ToolsButtonsTest)
+Test starts: shareButtonTest(tests.ToolsButtonsTest)
+Test starts: shareButtonTest(tests.ToolsButtonsTest)
+Test starts: shareButtonTest(tests.ToolsButtonsTest)
+Test starts: shareButtonTest(tests.ToolsButtonsTest)
+Test starts: shareButtonTest(tests.ToolsButtonsTest)
+Test starts: shareButtonTest(tests.ToolsButtonsTest)
+Test starts: shareButtonTest(tests.ToolsButtonsTest)
+Test starts: shareButtonTest(tests.ToolsButtonsTest)
+Test starts: shareButtonTest(tests.ToolsButtonsTest)
+Test starts: shareButtonTest(tests.ToolsButtonsTest)
+Test starts: shareButtonTest(tests.ToolsButtonsTest)
+Test starts: shareButtonTest(tests.ToolsButtonsTest)
+Test starts: shareButtonTest(tests.ToolsButtonsTest)
+Test starts: shareButtonTest(tests.ToolsButtonsTest)
+Test finished: shareButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: shareButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: shareButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: shareButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: shareButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: shareButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: shareButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: shareButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: shareButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: shareButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: shareButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: shareButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: shareButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: shareButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: shareButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: shareButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: shareButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: shareButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: shareButtonTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test starts: langHistoryBoxTest(tests.ToolsButtonsTest)
+Test starts: langHistoryBoxTest(tests.ToolsButtonsTest)
+Test starts: langHistoryBoxTest(tests.ToolsButtonsTest)
+Test starts: langHistoryBoxTest(tests.ToolsButtonsTest)
+Test starts: langHistoryBoxTest(tests.ToolsButtonsTest)
+Test starts: langHistoryBoxTest(tests.ToolsButtonsTest)
+Test starts: langHistoryBoxTest(tests.ToolsButtonsTest)
+Test starts: langHistoryBoxTest(tests.ToolsButtonsTest)
+Test starts: langHistoryBoxTest(tests.ToolsButtonsTest)
+Test starts: langHistoryBoxTest(tests.ToolsButtonsTest)
+Test starts: langHistoryBoxTest(tests.ToolsButtonsTest)
+Test starts: langHistoryBoxTest(tests.ToolsButtonsTest)
+Test starts: langHistoryBoxTest(tests.ToolsButtonsTest)
+Test starts: langHistoryBoxTest(tests.ToolsButtonsTest)
+Test starts: langHistoryBoxTest(tests.ToolsButtonsTest)
+Test starts: langHistoryBoxTest(tests.ToolsButtonsTest)
+Test starts: langHistoryBoxTest(tests.ToolsButtonsTest)
+Test starts: langHistoryBoxTest(tests.ToolsButtonsTest)
+Test starts: langHistoryBoxTest(tests.ToolsButtonsTest)
+Test failed with: java.util.NoSuchElementException: No value present
+Test failed with: java.util.NoSuchElementException: No value present
+Test failed with: java.util.NoSuchElementException: No value present
+Test failed with: java.util.NoSuchElementException: No value present
+Test failed with: java.util.NoSuchElementException: No value present
+Test failed with: java.util.NoSuchElementException: No value present
+Test failed with: java.util.NoSuchElementException: No value present
+Test failed with: java.util.NoSuchElementException: No value present
+Test failed with: java.util.NoSuchElementException: No value present
+Test failed with: java.util.NoSuchElementException: No value present
+Test failed with: java.util.NoSuchElementException: No value present
+Test failed with: java.util.NoSuchElementException: No value present
+Test failed with: java.util.NoSuchElementException: No value present
+Test failed with: java.util.NoSuchElementException: No value present
+Test failed with: java.util.NoSuchElementException: No value present
+Test failed with: java.util.NoSuchElementException: No value present
+Test failed with: java.util.NoSuchElementException: No value present
+Test failed with: java.util.NoSuchElementException: No value present
+Test failed with: java.util.NoSuchElementException: No value present
+Test finished: langHistoryBoxTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: langHistoryBoxTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: langHistoryBoxTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: langHistoryBoxTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: langHistoryBoxTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: langHistoryBoxTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: langHistoryBoxTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: langHistoryBoxTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: langHistoryBoxTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: langHistoryBoxTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: langHistoryBoxTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: langHistoryBoxTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: langHistoryBoxTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: langHistoryBoxTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: langHistoryBoxTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: langHistoryBoxTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: langHistoryBoxTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: langHistoryBoxTest(tests.ToolsButtonsTest)
+--------------------------------------
+Test finished: langHistoryBoxTest(tests.ToolsButtonsTest)
+--------------------------------------
+Result of the test run:
+Run time: 234482 ms
+Run count: 35
+Failure count: 49
+Ignored count: 0
+Result of the test run:
+Run time: 234482 ms
+Run count: 35
+Failure count: 49
+Ignored count: 0
+Result of the test run:
+Run time: 234482 ms
+Run count: 35
+Failure count: 49
+Ignored count: 0
+Result of the test run:
+Run time: 234482 ms
+Run count: 35
+Failure count: 49
+Ignored count: 0
+Result of the test run:
+Run time: 234482 ms
+Run count: 35
+Failure count: 49
+Ignored count: 0
+Result of the test run:
+Run time: 234482 ms
+Run count: 35
+Failure count: 49
+Ignored count: 0
+Result of the test run:
+Run time: 234482 ms
+Run count: 35
+Failure count: 49
+Ignored count: 0
+Result of the test run:
+Run time: 234482 ms
+Run count: 35
+Failure count: 49
+Ignored count: 0
+Result of the test run:
+Run time: 234482 ms
+Run count: 35
+Failure count: 49
+Ignored count: 0
+Result of the test run:
+Run time: 234482 ms
+Run count: 35
+Failure count: 49
+Ignored count: 0
+Result of the test run:
+Run time: 234482 ms
+Run count: 35
+Failure count: 49
+Ignored count: 0
+Result of the test run:
+Run time: 234482 ms
+Run count: 35
+Failure count: 49
+Ignored count: 0
+Result of the test run:
+Run time: 234482 ms
+Run count: 35
+Failure count: 49
+Ignored count: 0
+Result of the test run:
+Run time: 234482 ms
+Run count: 35
+Failure count: 49
+Ignored count: 0
+Result of the test run:
+Run time: 234482 ms
+Run count: 35
+Failure count: 49
+Ignored count: 0
+Result of the test run:
+Run time: 234482 ms
+Run count: 35
+Failure count: 49
+Ignored count: 0
+Result of the test run:
+Run time: 234482 ms
+Run count: 35
+Failure count: 49
+Ignored count: 0
+Result of the test run:
+Run time: 234482 ms
+Run count: 35
+Failure count: 49
+Ignored count: 0
+Result of the test run:
+Run time: 234482 ms
+Run count: 35
+Failure count: 49
+Ignored count: 0
+n count: 35
+Failure count: 49
+Ignored count: 0

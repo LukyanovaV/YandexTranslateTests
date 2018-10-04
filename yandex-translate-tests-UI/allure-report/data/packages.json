@@ -1,0 +1,469 @@
+{
+  "statistic" : {
+    "failed" : 4,
+    "broken" : 18,
+    "skipped" : 0,
+    "passed" : 17,
+    "unknown" : 0,
+    "total" : 39
+  },
+  "time" : {
+    "minDuration" : 3,
+    "maxDuration" : 22144,
+    "sumDuration" : 264888,
+    "start" : 1538491498563,
+    "stop" : 1538565782785,
+    "duration" : 74284222
+  },
+  "children" : [ {
+    "uid" : "2f030abbe75f3fd7",
+    "name" : "tests",
+    "time" : {
+      "minDuration" : 3,
+      "maxDuration" : 22144,
+      "sumDuration" : 264888,
+      "start" : 1538491498563,
+      "stop" : 1538565782785,
+      "duration" : 74284222
+    },
+    "statistic" : {
+      "failed" : 4,
+      "broken" : 18,
+      "skipped" : 0,
+      "passed" : 17,
+      "unknown" : 0,
+      "total" : 39
+    },
+    "type" : "TestGroupNode",
+    "children" : [ {
+      "uid" : "cbb9a7512337b06d",
+      "name" : "spellerButtonTest",
+      "time" : {
+        "start" : 1538491703524,
+        "stop" : 1538491710459,
+        "duration" : 6935
+      },
+      "status" : "failed",
+      "flaky" : true,
+      "type" : "TestCaseNode"
+    }, {
+      "uid" : "787c2a2988d1edfb",
+      "name" : "testTranslationToOtherLangs[0]",
+      "time" : {
+        "start" : 1538491546693,
+        "stop" : 1538491557219,
+        "duration" : 10526
+      },
+      "status" : "passed",
+      "flaky" : true,
+      "type" : "TestCaseNode"
+    }, {
+      "uid" : "6c6d59ad16e13499",
+      "name" : "imageTranslationTest",
+      "time" : {
+        "start" : 1538491498966,
+        "stop" : 1538491521110,
+        "duration" : 22144
+      },
+      "status" : "passed",
+      "flaky" : true,
+      "type" : "TestCaseNode"
+    }, {
+      "uid" : "1eb9aa11ebee011b",
+      "name" : "testTranslationToRus[1]",
+      "time" : {
+        "start" : 1538491644164,
+        "stop" : 1538491654582,
+        "duration" : 10418
+      },
+      "status" : "passed",
+      "flaky" : true,
+      "type" : "TestCaseNode"
+    }, {
+      "uid" : "92196a7fc048460",
+      "name" : "testUrlTranslate",
+      "time" : {
+        "start" : 1538491531674,
+        "stop" : 1538491546675,
+        "duration" : 15001
+      },
+      "status" : "broken",
+      "flaky" : true,
+      "type" : "TestCaseNode"
+    }, {
+      "uid" : "72bac9223f408f5d",
+      "name" : "testSynonymsOriginText",
+      "time" : {
+        "start" : 1538565747664,
+        "stop" : 1538565754353,
+        "duration" : 6689
+      },
+      "status" : "failed",
+      "flaky" : true,
+      "type" : "TestCaseNode"
+    }, {
+      "uid" : "77ce8754684732d9",
+      "name" : "testTranslationToOtherLangs[3]",
+      "time" : {
+        "start" : 1538491576843,
+        "stop" : 1538491589691,
+        "duration" : 12848
+      },
+      "status" : "passed",
+      "flaky" : true,
+      "type" : "TestCaseNode"
+    }, {
+      "uid" : "35e9b698c9343d57",
+      "name" : "clickOnMenuToWeather",
+      "time" : {
+        "start" : 1538491498910,
+        "stop" : 1538491498913,
+        "duration" : 3
+      },
+      "status" : "broken",
+      "flaky" : true,
+      "type" : "TestCaseNode"
+    }, {
+      "uid" : "af865c7db59cb9bf",
+      "name" : "clickOnMenuToImages",
+      "time" : {
+        "start" : 1538491498839,
+        "stop" : 1538491498858,
+        "duration" : 19
+      },
+      "status" : "broken",
+      "flaky" : true,
+      "type" : "TestCaseNode"
+    }, {
+      "uid" : "b9066a7664392816",
+      "name" : "clickOnMenuToTranslate",
+      "time" : {
+        "start" : 1538491498948,
+        "stop" : 1538491498951,
+        "duration" : 3
+      },
+      "status" : "broken",
+      "flaky" : true,
+      "type" : "TestCaseNode"
+    }, {
+      "uid" : "270bfcd7f456e9a0",
+      "name" : "testTranslationToOtherLangs[1]",
+      "time" : {
+        "start" : 1538491557240,
+        "stop" : 1538491569290,
+        "duration" : 12050
+      },
+      "status" : "passed",
+      "flaky" : true,
+      "type" : "TestCaseNode"
+    }, {
+      "uid" : "3e7138e0812fb0dc",
+      "name" : "clickOnMenuToVideo",
+      "time" : {
+        "start" : 1538491498942,
+        "stop" : 1538491498945,
+        "duration" : 3
+      },
+      "status" : "broken",
+      "flaky" : true,
+      "type" : "TestCaseNode"
+    }, {
+      "uid" : "d2bffdebd7f98b94",
+      "name" : "clickOnMenuToMoney",
+      "time" : {
+        "start" : 1538491498927,
+        "stop" : 1538491498931,
+        "duration" : 4
+      },
+      "status" : "broken",
+      "flaky" : true,
+      "type" : "TestCaseNode"
+    }, {
+      "uid" : "a4fd4fd9c4c92419",
+      "name" : "clickOnMenuToMarket",
+      "time" : {
+        "start" : 1538491498861,
+        "stop" : 1538491498865,
+        "duration" : 4
+      },
+      "status" : "broken",
+      "flaky" : true,
+      "type" : "TestCaseNode"
+    }, {
+      "uid" : "4e7564fbf22ae1d3",
+      "name" : "langHistoryBoxTest",
+      "time" : {
+        "start" : 1538491725263,
+        "stop" : 1538491732792,
+        "duration" : 7529
+      },
+      "status" : "broken",
+      "flaky" : true,
+      "type" : "TestCaseNode"
+    }, {
+      "uid" : "d2e7517886ba729f",
+      "name" : "clickOnMenuToMusic",
+      "time" : {
+        "start" : 1538491498935,
+        "stop" : 1538491498939,
+        "duration" : 4
+      },
+      "status" : "broken",
+      "flaky" : true,
+      "type" : "TestCaseNode"
+    }, {
+      "uid" : "1bebd2792a3a4554",
+      "name" : "clickOnMenuToMaps",
+      "time" : {
+        "start" : 1538491498893,
+        "stop" : 1538491498899,
+        "duration" : 6
+      },
+      "status" : "broken",
+      "flaky" : true,
+      "type" : "TestCaseNode"
+    }, {
+      "uid" : "8f335c97dcd25e07",
+      "name" : "testTranslationToOtherLangs[7]",
+      "time" : {
+        "start" : 1538491619688,
+        "stop" : 1538491633827,
+        "duration" : 14139
+      },
+      "status" : "passed",
+      "flaky" : true,
+      "type" : "TestCaseNode"
+    }, {
+      "uid" : "d6da141759ba372f",
+      "name" : "testTranslationToOtherLangs[2]",
+      "time" : {
+        "start" : 1538491569315,
+        "stop" : 1538491576822,
+        "duration" : 7507
+      },
+      "status" : "broken",
+      "flaky" : true,
+      "type" : "TestCaseNode"
+    }, {
+      "uid" : "e5822853d7b21a8c",
+      "name" : "testClickOnImageBtn",
+      "time" : {
+        "start" : 1538565754360,
+        "stop" : 1538565759787,
+        "duration" : 5427
+      },
+      "status" : "passed",
+      "flaky" : true,
+      "type" : "TestCaseNode"
+    }, {
+      "uid" : "7890f33d7776ea09",
+      "name" : "testTranslationToOtherLangs[6]",
+      "time" : {
+        "start" : 1538491613817,
+        "stop" : 1538491619679,
+        "duration" : 5862
+      },
+      "status" : "broken",
+      "flaky" : true,
+      "type" : "TestCaseNode"
+    }, {
+      "uid" : "8671a08b9edcdb2d",
+      "name" : "clickOnMenuToTV",
+      "time" : {
+        "start" : 1538491498919,
+        "stop" : 1538491498922,
+        "duration" : 3
+      },
+      "status" : "broken",
+      "flaky" : true,
+      "type" : "TestCaseNode"
+    }, {
+      "uid" : "cb65f166d861f547",
+      "name" : "clickOnMenuToNews",
+      "time" : {
+        "start" : 1538491498903,
+        "stop" : 1538491498906,
+        "duration" : 3
+      },
+      "status" : "broken",
+      "flaky" : true,
+      "type" : "TestCaseNode"
+    }, {
+      "uid" : "dd90d45594ad1666",
+      "name" : "testTranslationToRus[0]",
+      "time" : {
+        "start" : 1538491633840,
+        "stop" : 1538491644153,
+        "duration" : 10313
+      },
+      "status" : "passed",
+      "flaky" : true,
+      "type" : "TestCaseNode"
+    }, {
+      "uid" : "ed54578f6877b1cf",
+      "name" : "testTranslationToRus",
+      "time" : {
+        "start" : 1538565772447,
+        "stop" : 1538565782785,
+        "duration" : 10338
+      },
+      "status" : "passed",
+      "flaky" : true,
+      "type" : "TestCaseNode"
+    }, {
+      "uid" : "f590cff5aa7192af",
+      "name" : "testTranslationToOtherLangs[5]",
+      "time" : {
+        "start" : 1538491602112,
+        "stop" : 1538491613797,
+        "duration" : 11685
+      },
+      "status" : "passed",
+      "flaky" : true,
+      "type" : "TestCaseNode"
+    }, {
+      "uid" : "536828197e6957f7",
+      "name" : "clickOnMenuToMail",
+      "time" : {
+        "start" : 1538491498883,
+        "stop" : 1538491498887,
+        "duration" : 4
+      },
+      "status" : "broken",
+      "flaky" : true,
+      "type" : "TestCaseNode"
+    }, {
+      "uid" : "6dde8e9c8a2e92f0",
+      "name" : "testTranslationToOtherLangs[4]",
+      "time" : {
+        "start" : 1538491589715,
+        "stop" : 1538491602099,
+        "duration" : 12384
+      },
+      "status" : "passed",
+      "flaky" : true,
+      "type" : "TestCaseNode"
+    }, {
+      "uid" : "577fc25bc3badf7f",
+      "name" : "clearButtonTest",
+      "time" : {
+        "start" : 1538491687350,
+        "stop" : 1538491703506,
+        "duration" : 16156
+      },
+      "status" : "passed",
+      "flaky" : true,
+      "type" : "TestCaseNode"
+    }, {
+      "uid" : "caba3ef24cf4bffe",
+      "name" : "clickOnMenuToDisk",
+      "time" : {
+        "start" : 1538491498875,
+        "stop" : 1538491498880,
+        "duration" : 5
+      },
+      "status" : "broken",
+      "flaky" : true,
+      "type" : "TestCaseNode"
+    }, {
+      "uid" : "5f0bc8da3a403412",
+      "name" : "testExamplesConversations",
+      "time" : {
+        "start" : 1538565759799,
+        "stop" : 1538565766286,
+        "duration" : 6487
+      },
+      "status" : "passed",
+      "flaky" : true,
+      "type" : "TestCaseNode"
+    }, {
+      "uid" : "78881bc5cc3cf7c4",
+      "name" : "initializationError",
+      "time" : {
+        "start" : 1538491498563,
+        "stop" : 1538491498574,
+        "duration" : 11
+      },
+      "status" : "broken",
+      "flaky" : true,
+      "type" : "TestCaseNode"
+    }, {
+      "uid" : "941953bd8f3bd6f4",
+      "name" : "testClickOnSiteBtn",
+      "time" : {
+        "start" : 1538565740744,
+        "stop" : 1538565747570,
+        "duration" : 6826
+      },
+      "status" : "passed",
+      "flaky" : true,
+      "type" : "TestCaseNode"
+    }, {
+      "uid" : "a39c22575f08e06f",
+      "name" : "shareButtonTest",
+      "time" : {
+        "start" : 1538491710498,
+        "stop" : 1538491725212,
+        "duration" : 14714
+      },
+      "status" : "passed",
+      "flaky" : true,
+      "type" : "TestCaseNode"
+    }, {
+      "uid" : "23c61581e3035cd6",
+      "name" : "testTranslationToRus[2]",
+      "time" : {
+        "start" : 1538491654612,
+        "stop" : 1538491664445,
+        "duration" : 9833
+      },
+      "status" : "passed",
+      "flaky" : true,
+      "type" : "TestCaseNode"
+    }, {
+      "uid" : "2b5e5070736fb1f6",
+      "name" : "testTranslationToRus[4]",
+      "time" : {
+        "start" : 1538491675656,
+        "stop" : 1538491687324,
+        "duration" : 11668
+      },
+      "status" : "passed",
+      "flaky" : true,
+      "type" : "TestCaseNode"
+    }, {
+      "uid" : "244ca3ec5020e66e",
+      "name" : "testTranslationToRus[3]",
+      "time" : {
+        "start" : 1538491664460,
+        "stop" : 1538491675636,
+        "duration" : 11176
+      },
+      "status" : "failed",
+      "flaky" : true,
+      "type" : "TestCaseNode"
+    }, {
+      "uid" : "edfba5172f816579",
+      "name" : "imageClearTest",
+      "time" : {
+        "start" : 1538491498809,
+        "stop" : 1538491498825,
+        "duration" : 16
+      },
+      "status" : "broken",
+      "flaky" : true,
+      "type" : "TestCaseNode"
+    }, {
+      "uid" : "105e47bce6f43721",
+      "name" : "testSynonymsTranslateText",
+      "time" : {
+        "start" : 1538565766298,
+        "stop" : 1538565772443,
+        "duration" : 6145
+      },
+      "status" : "failed",
+      "flaky" : true,
+      "type" : "TestCaseNode"
+    } ]
+  } ]
+}

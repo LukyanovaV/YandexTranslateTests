@@ -1,0 +1,76 @@
+{
+  "uid" : "577fc25bc3badf7f",
+  "name" : "clearButtonTest",
+  "fullName" : "tests.ToolsButtonsTest.clearButtonTest",
+  "historyId" : "1722ac84f01825de4f42fa3037f12731",
+  "time" : {
+    "start" : 1538491687350,
+    "stop" : 1538491703506,
+    "duration" : 16156
+  },
+  "status" : "passed",
+  "statusDetails" : {
+    "flaky" : true
+  },
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "tests"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.ToolsButtonsTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "clearButtonTest"
+  }, {
+    "name" : "suite",
+    "value" : "tests.ToolsButtonsTest"
+  }, {
+    "name" : "host",
+    "value" : "Bondarenko"
+  }, {
+    "name" : "thread",
+    "value" : "13856@Bondarenko.main(1)"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "fa7fab6a9bd20f04",
+      "status" : "passed",
+      "time" : {
+        "start" : 1538403908480,
+        "stop" : 1538403923748,
+        "duration" : 15268
+      }
+    }, {
+      "uid" : "872172e3c4e53895",
+      "status" : "passed",
+      "time" : {
+        "start" : 1538401785229,
+        "stop" : 1538401800539,
+        "duration" : 15310
+      }
+    }, {
+      "uid" : "38a82d07674089d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1538400590206,
+        "stop" : 1538400605589,
+        "duration" : 15383
+      }
+    }, {
+      "uid" : "1dd56506736f84f9",
+      "status" : "broken",
+      "time" : {
+        "start" : 1538396417852,
+        "stop" : 1538396417867,
+        "duration" : 15
+      }
+    } ],
+    "categories" : [ ]
+  }
+}
